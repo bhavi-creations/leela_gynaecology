@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<htmlclass="no-js" lang="en">
   <head>
     <!-- Meta Tags -->
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <!-- Favicon Icon -->
     <link rel="icon" href="assets/img/favicon.png">
     <!-- Site Title -->
-    <title>Medilo- Medical & Health HTML Template</title>
+    <title>Medilo- Medical & Health .php Template</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -39,17 +39,20 @@
                   <i class="fa-solid fa-envelope"></i>
                   <a href="mailto:demo@example.com">demo@example.com</a>
                 </li>
-                <li>
+                <!-- <li>
                   <i class="fa-solid fa-location-dot"></i>
-                  15/K, Dhaka London City, LOT
+                  2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada LOT
+                </li> -->
+                <li>
+                  <i class="fa-solid fa-phone"></i>
+                  9493782298
                 </li>
               </ul>
             </div>
             <div class="cs_top_header_right">
               <div class="cs_social_btns cs_style_1">
                 <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-                <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-                <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
+                <a href="#" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
                 <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
               </div>
             </div>
@@ -60,7 +63,7 @@
         <div class="container">
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
-              <a class="cs_site_branding" href="index.html">
+              <a class="cs_site_branding" href="index.php">
                 <img src="assets/img/leela womens logo.jpg.png" alt="Logo" class="img-fluid" style="width: 120px;">
               </a>
             </div>
@@ -68,51 +71,57 @@
               <div class="cs_nav cs_primary_color">
                 <ul class="cs_nav_list">
                   <li>
-                    <a href="index.html">Home</a>
+                    <a href="index.php">Home</a>
                  
                   </li>
-                  <li><a href="about.html">About</a></li>
-                  <li class="menu-item-has-children">
-                    <a href="service.html">Service</a>
-                    <ul>
-                      <li><a href="service.html">Service</a></li>
-                      <li><a href="service-details.html">Service Details</a></li>
+                  <li><a href="about.php">About</a></li>
+               
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Services
+                    </a>
+                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:620px;">
+                      <div class="row  ">
+                        <div class="col-md-6">
+                          <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                          <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems </a></li>
+                          <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
+                          <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                        </div>
+                        <div class="col-md-6">
+                          <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                          <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
+                          <li><a class="dropdown-item services_drop" href="cancerscreening.php">CancerScreening</a></li>
+                          <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
+                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and post <br> natal care</a>
+                             <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
+                            <div class="col-md-6">
+                              <li><a class="dropdown-item services_drop active_service" href="">High Risk Pregnancy</a></li>
+                              <li><a class="dropdown-item services_drop" href="">Ultrasound Scanning </a></li>
+                              <li><a class="dropdown-item services_drop" href="">Electronic fetal monitoring</a></li>
+                              <li><a class="dropdown-item services_drop" href="">Lactational consultation</a></li>
+                            </div>
+                          </ul>
+                          </li>
+
+                        </div>
+            
+                       
+                      </div>
                     </ul>
                   </li>
-                  <li><a href="testimonials.html">Testimonials</a></li>
+                  <!-- <li><a href="testimonials.">Testimonials</a></li> -->
 
                   <li>
-                    <a href="blog.html">Blog</a>
+                    <a href="blog.php">Blog</a>
                 
                   </li>
-                  <!-- <li class="menu-item-has-children">
-                    <a href="">Pages</a>
-                    <ul>
-                      <li><a href="appointments.html">Appointments</a></li>
-                      <li><a href="doctors.html">Doctors</a></li>
-                      <li><a href="doctor-details.html">Doctor Details</a></li>
-                      <li><a href="timetable.html">Timetable</a></li>
-                      <li><a href="projects.html">Projects</a></li>
-                      <li><a href="error.html">Error 404</a></li>
-                    </ul>
-                  </li> -->
-                  <li><a href="contact.html">Contact</a></li>
+                
+                  <li><a href="contact.php">Contact</a></li>
                 </ul>
               </div>
-             <!-- <div class="cs_search_wrap">
-                <div class="cs_search_toggle cs_center">
-                  <i class="fa-solid fa-magnifying-glass"></i>
-                </div>
-                 <form action="#" class="cs_header_search_form">
-                  <div class="cs_header_search_form_in">
-                    <input type="text" placeholder="Search" class="cs_header_search_field">
-                    <button class="cs_header_submit_btn">
-                      <i class="fa-solid fa-magnifying-glass"></i>                     
-                    </button>
-                  </div>
-                </form> 
-              </div>-->
-              <a href="contact.html" class="text-white mb-4 mt-3">
+         
+              <a href="contact.php" class="text-white mb-4 mt-3">
                 <button class="make_bg">Make an Appointment </button>
                 <i class="fa-solid fa-angles-right"></i>
               </a>
@@ -127,7 +136,7 @@
     <section class="position-relative">
       <div class="cs_hero_slider_thumb slick-slider">
         <div class="cs_hero_slider_thumb_item">
-          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/2.png">
+          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/3.png">
             <div class="container">
               <div class="cs_hero_text">
                 <div class="cs_hero_text_in ">
@@ -138,11 +147,11 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact.html">
+                    <a href="contact..php">
                       <button class="contact_bg">Contact Now </button>
                       <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
-                    <a href="about.html">
+                    <a href="about..php">
                       <button class="dis_bg">Discover More  </button>
 
                       <!-- <i class="fa-solid fa-angles-right"></i> -->
@@ -168,11 +177,11 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                       <span>Contact Now </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
-                    <a href="about.html" class="cs_btn cs_style_1 cs_color_2">
+                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
                       <span>Discover More </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
@@ -197,11 +206,11 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                       <span>Contact Now </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
-                    <a href="about.html" class="cs_btn cs_style_1 cs_color_2">
+                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
                       <span>Discover More </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
@@ -226,11 +235,11 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                       <button class="">Contact Now </button>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
-                    <a href="about.html" class="cs_btn cs_style_1 cs_color_2">
+                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
                       <span>Discover More </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
@@ -255,11 +264,11 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                       <span>Contact Now </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
-                    <a href="about.html" class="cs_btn cs_style_1 cs_color_2">
+                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
                       <span>Discover More </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
@@ -284,11 +293,11 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                       <span>Contact Now </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
-                    <a href="about.html" class="cs_btn cs_style_1 cs_color_2">
+                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
                       <span>Discover More </span>
                       <i class="fa-solid fa-angles-right"></i>
                     </a>
@@ -304,22 +313,22 @@
       </div>
       <div class="cs_hero_slider_nav slick-slider">
         <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (41)/1.png" alt="">
+          <img src="assets/img/Untitled design (42)/1.png" alt="">
         </div>
         <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (41)/2.png" alt="">
+          <img src="assets/img/Untitled design (42)/2.png" alt="">
         </div>
         <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (41)/3.png" alt="">
+          <img src="assets/img/Untitled design (42)/3.png" alt="">
         </div>
         <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (41)/4.png" alt="">
+          <img src="assets/img/Untitled design (42)/4.png" alt="">
         </div>
         <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (41)/1.png" alt="">
+          <img src="assets/img/Untitled design (42)/1.png" alt="">
         </div>
         <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (41)/2.png" alt="">
+          <img src="assets/img/Untitled design (42)/2.png" alt="">
         </div>
       </div>
     </section>
@@ -338,7 +347,7 @@
             </div>
           </div>
           <div class="cs_cta_right">
-            <a href="appointments.html" class="cs_btn cs_style_1 cs_color_3">
+            <a href="appointments..php" class="cs_btn cs_style_1 cs_color_3">
               <span>Booking Now </span>
               <i class="fa-solid fa-angles-right"></i>
             </a>
@@ -416,7 +425,7 @@
                 </div>
                 <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team  <a href="#">READ MORE +</a></p>
               </div>
-              <a href="about.html" class="cs_btn cs_style_1 cs_color_1">
+              <a href="about..php" class="cs_btn cs_style_1 cs_color_1">
                 <span>About More </span>
                 <i class="fa-solid fa-angles-right"></i>
               </a>
@@ -530,7 +539,7 @@
                 </div>
                 <h3 class="iconbox_index">01</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">Gynecology</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">PCOD and Adolscent Clinics</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -544,7 +553,7 @@
                 </div>
                 <h3 class="iconbox_index">02</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">Obstetrics</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">Menstrual Problems</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -558,7 +567,7 @@
                 </div>
                 <h3 class="iconbox_index">03</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">High Risk Pregnancy</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">Infertility</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -572,7 +581,7 @@
                 </div>
                 <h3 class="iconbox_index">04</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">Laparoscopic Services</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">Preconceptional Care</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -586,7 +595,7 @@
                 </div>
                 <h3 class="iconbox_index">05</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">Fertility Issues</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">Menopausal Clinic</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -600,7 +609,7 @@
                 </div>
                 <h3 class="iconbox_index">06</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">Reproductive Endocrinology</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">Well Women Check up</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -614,7 +623,7 @@
                 </div>
                 <h3 class="iconbox_index">07</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">Dental Care</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">Cancer Screening</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -628,7 +637,7 @@
                 </div>
                 <h3 class="iconbox_index">08</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details.html">Cardiology</a></h3>
+              <h3 class="cs_iconbox_title"><a href="service-details..php">All gynaecological problems</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -663,11 +672,11 @@
               <div class="cs_slide">
                 <div class="cs_team cs_style_1 cs_blue_bg">
                   <div class="cs_team_shape cs_accent_bg"></div>
-                  <a href="doctor-details.html" class="cs_team_thumbnail">
+                  <a href="doctor-details..php" class="cs_team_thumbnail">
                     <img src="assets/img/Untitled design (37)/1.png" alt="Team Thumbnail">
                   </a>
                   <div class="cs_team_bio">
-                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                     <p class="cs_team_subtitle">Neurologiest</p>
                     <div class="cs_social_btns cs_style_1">
                       <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -681,11 +690,11 @@
               <div class="cs_slide">
                 <div class="cs_team cs_style_1 cs_blue_bg">
                   <div class="cs_team_shape cs_accent_bg"></div>
-                  <a href="doctor-details.html" class="cs_team_thumbnail">
+                  <a href="doctor-details..php" class="cs_team_thumbnail">
                     <img src="assets/img/Untitled design (37)/2.png" alt="Team Thumbnail">
                   </a>
                   <div class="cs_team_bio">
-                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                     <p class="cs_team_subtitle">Neurologiest</p>
                     <div class="cs_social_btns cs_style_1">
                       <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -699,11 +708,11 @@
               <div class="cs_slide">
                 <div class="cs_team cs_style_1 cs_blue_bg">
                   <div class="cs_team_shape cs_accent_bg"></div>
-                  <a href="doctor-details.html" class="cs_team_thumbnail">
+                  <a href="doctor-details..php" class="cs_team_thumbnail">
                     <img src="assets/img/Untitled design (37)/3.png" alt="Team Thumbnail">
                   </a>
                   <div class="cs_team_bio">
-                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                     <p class="cs_team_subtitle">Neurologiest</p>
                     <div class="cs_social_btns cs_style_1">
                       <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -717,11 +726,11 @@
               <div class="cs_slide">
                 <div class="cs_team cs_style_1 cs_blue_bg">
                   <div class="cs_team_shape cs_accent_bg"></div>
-                  <a href="doctor-details.html" class="cs_team_thumbnail">
+                  <a href="doctor-details..php" class="cs_team_thumbnail">
                     <img src="assets/img/Untitled design (37)/4.png" alt="Team Thumbnail">
                   </a>
                   <div class="cs_team_bio">
-                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                     <p class="cs_team_subtitle">Neurologiest</p>
                     <div class="cs_social_btns cs_style_1">
                       <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -735,11 +744,11 @@
               <div class="cs_slide">
                 <div class="cs_team cs_style_1 cs_blue_bg">
                   <div class="cs_team_shape cs_accent_bg"></div>
-                  <a href="doctor-details.html" class="cs_team_thumbnail">
+                  <a href="doctor-details..php" class="cs_team_thumbnail">
                     <img src="assets/img/Untitled design (37)/3.png" alt="Team Thumbnail">
                   </a>
                   <div class="cs_team_bio">
-                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                    <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                     <p class="cs_team_subtitle">Neurologiest</p>
                     <div class="cs_social_btns cs_style_1">
                       <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -804,14 +813,14 @@
     </div> -->
     <!-- End Brand Section -->
     <!-- Start Why Choose Us Section -->
-    <section class="cs_gray_bg cs_bg_filed" data-src="assets/img/service_bg_2.jpg">
+    <section class="cs_gray_bg cs_bg_filed" data-src="assets/img/why/1.png">
       <div class="cs_height_110 cs_height_lg_70"></div>
       <div class="container">
         <div class="row">
           <div class="col-lg-8">
             <div class="cs_section_heading cs_style_1">
               <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s"><span class="cs_shape_left"></span> WHY CHOOSE US</p>
-              <h2 class="cs_section_title">Medical Ready To Get This <br>Health Solution.</h2>
+              <h2 class="cs_section_title text-white">Medical Ready To Get This <br><span class=""> Health Solution.</span></h2>
             </div>
             <div class="cs_height_50 cs_height_lg_50"></div>
           </div>
@@ -825,8 +834,8 @@
                     <img src="assets/img/icons/service_icon_9.png" alt="Icon">
                   </div>
                   <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title">Service & Check </h3>
-                    <p class="cs_iconbox_subtitle">Medical competitor research startup to financial</p>
+                    <h3 class="cs_iconbox_title text-white">Service & Check </h3>
+                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
                   </div>
                 </div>
                 <div class="cs_iconbox cs_style_3">
@@ -834,8 +843,8 @@
                     <img src="assets/img/icons/service_icon_10.png" alt="Icon">
                   </div>
                   <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title">Medical Advices </h3>
-                    <p class="cs_iconbox_subtitle">Medical competitor research startup to financial</p>
+                    <h3 class="cs_iconbox_title text-white">Medical Advices </h3>
+                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
                   </div>
                 </div>
                 <div class="cs_iconbox cs_style_3">
@@ -843,8 +852,8 @@
                     <img src="assets/img/icons/service_icon_11.png" alt="Icon">
                   </div>
                   <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title">Emergency Help</h3>
-                    <p class="cs_iconbox_subtitle">Medical competitor research startup to financial</p>
+                    <h3 class="cs_iconbox_title text-white">Emergency Help</h3>
+                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
                   </div>
                 </div>
                 <div class="cs_iconbox cs_style_3">
@@ -852,8 +861,8 @@
                     <img src="assets/img/icons/service_icon_12.png" alt="Icon">
                   </div>
                   <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title">Medical Research </h3>
-                    <p class="cs_iconbox_subtitle">Medical competitor research startup to financial</p>
+                    <h3 class="cs_iconbox_title text-white">Medical Research </h3>
+                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
                   </div>
                 </div>
                 <div class="cs_iconbox cs_style_3">
@@ -861,8 +870,8 @@
                     <img src="assets/img/icons/service_icon_13.png" alt="Icon">
                   </div>
                   <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title">Qualified Doctors</h3>
-                    <p class="cs_iconbox_subtitle">Medical competitor research startup to financial</p>
+                    <h3 class="cs_iconbox_title text-white">Qualified Doctors</h3>
+                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
                   </div>
                 </div>
                 <div class="cs_iconbox cs_style_3">
@@ -870,8 +879,8 @@
                     <img src="assets/img/icons/service_icon_14.png" alt="Icon">
                   </div>
                   <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title">Affordable Prices</h3>
-                    <p class="cs_iconbox_subtitle">Medical competitor research startup to financial</p>
+                    <h3 class="cs_iconbox_title text-white">Affordable Prices</h3>
+                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
                   </div>
                 </div>
               </div>
@@ -1115,7 +1124,7 @@
                 <h2 class="cs_section_title cs_white_color">Professional Medical Care Measure Medical.</h2>
                 <p class="cs_cta_subtitle cs_white_color">We are privileged to work with hundreds of
                   future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.</p>
-                  <a href="contact.html" class="cs_btn cs_style_1 cs_color_3">
+                  <a href="contact..php" class="cs_btn cs_style_1 cs_color_3">
                     <span>Video More </span>
                     <i class="fa-solid fa-angles-right"></i>
                   </a>
@@ -1182,9 +1191,9 @@
                       <h2 class="cs_card_title">We are here to hear and heal your</h2>
                       <p class="cs_card_subtitle">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.
                       </p>
-                      <ul class="cs_list cs_style_1 cs_mp0">
+                      <ul class="cs_list cs_style_1 cs_mp0 ">
                         <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon" class=""></i>
                           Medical sint occaecat cupidatat non proident, sunt in culpa officia deserunt mollit anim id est laborum.
                         </li>
                         <li>
@@ -1194,9 +1203,9 @@
     
                       </ul>
                       
-                      <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
-                        <span>Read More </span>
-                        <i class="fa-solid fa-angles-right"></i>
+                      <a href="contact..php">
+                        <button class="contact_bg">Read More </button>
+                        <!-- <i class="fa-solid fa-angles-right"></i> -->
                       </a>
                     </div>
                   </div>
@@ -1228,7 +1237,7 @@
     
                       </ul>
                       
-                      <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                      <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                         <span>Read More </span>
                         <i class="fa-solid fa-angles-right"></i>
                       </a>
@@ -1262,7 +1271,7 @@
     
                       </ul>
                       
-                      <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                      <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                         <span>Read More </span>
                         <i class="fa-solid fa-angles-right"></i>
                       </a>
@@ -1296,7 +1305,7 @@
     
                       </ul>
                       
-                      <a href="contact.html" class="cs_btn cs_style_1 cs_color_1">
+                      <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
                         <span>Read More </span>
                         <i class="fa-solid fa-angles-right"></i>
                       </a>
@@ -1342,7 +1351,7 @@
               <textarea rows="5" name="message" class="cs_form_field" placeholder="Your comments"></textarea>
             </div>
             <div class="col-lg-12">
-              <button type="submit" class="cs_btn cs_style_1 cs_color_1">Send Request</button>
+              <button type="submit" class="contact_bg">Send Request</button>
             </div>
           </form>
           </div>
@@ -1376,7 +1385,7 @@
             <div class="cs_slider_wrapper">
               <div class="cs_slide">
                 <article class="cs_post cs_style_1">
-                  <a href="blog-details.html" class="cs_post_thumbnail position-relative">
+                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
                     <img src="assets/img/Untitled design (40)/1.png" alt="post Thumbnail">
                     <div class="cs_post_category position-absolute">Medical</div>
                   </a>
@@ -1392,9 +1401,9 @@
                         <span>Comment</span>
                       </div>
                     </div>
-                    <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
+                    <h3 class="cs_post_title"><a href="blog-details..php">Medical Of This Working Health Blog</a></h3>
                     <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details.html" class="cs_post_btn">
+                    <a href="blog-details..php" class="cs_post_btn">
                       <span>Read More</span>
                       <span><i class="fa-solid fa-angle-right"></i></span>
                     </a>
@@ -1404,7 +1413,7 @@
               </div>
               <div class="cs_slide">
                 <article class="cs_post cs_style_1">
-                  <a href="blog-details.html" class="cs_post_thumbnail position-relative">
+                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
                     <img src="assets/img/Untitled design (40)/2.png" alt="post Thumbnail">
                     <div class="cs_post_category position-absolute">Medical</div>
                   </a>
@@ -1420,9 +1429,9 @@
                         <span>Comment</span>
                       </div>
                     </div>
-                    <h3 class="cs_post_title"><a href="blog-details.html">There Is Only One Thing That Is Hospital.</a></h3>
+                    <h3 class="cs_post_title"><a href="blog-details..php">There Is Only One Thing That Is Hospital.</a></h3>
                     <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details.html" class="cs_post_btn">
+                    <a href="blog-details..php" class="cs_post_btn">
                       <span>Read More</span>
                       <span><i class="fa-solid fa-angle-right"></i></span>
                     </a>
@@ -1432,7 +1441,7 @@
               </div>
               <div class="cs_slide">
                 <article class="cs_post cs_style_1">
-                  <a href="blog-details.html" class="cs_post_thumbnail position-relative">
+                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
                     <img src="assets/img/Untitled design (40)/3.png" alt="post Thumbnail">
                     <div class="cs_post_category position-absolute">Medical</div>
                   </a>
@@ -1448,9 +1457,9 @@
                         <span>Comment</span>
                       </div>
                     </div>
-                    <h3 class="cs_post_title"><a href="blog-details.html">This Working World nd Infection Prevention.</a></h3>
+                    <h3 class="cs_post_title"><a href="blog-details..php">This Working World nd Infection Prevention.</a></h3>
                     <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details.html" class="cs_post_btn">
+                    <a href="blog-details..php" class="cs_post_btn">
                       <span>Read More</span>
                       <span><i class="fa-solid fa-angle-right"></i></span>
                     </a>
@@ -1460,7 +1469,7 @@
               </div>
               <div class="cs_slide">
                 <article class="cs_post cs_style_1">
-                  <a href="blog-details.html" class="cs_post_thumbnail position-relative">
+                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
                     <img src="assets/img/Untitled design (40)/" alt="post Thumbnail">
                     <div class="cs_post_category position-absolute bg-dark">Medical</div>
                   </a>
@@ -1476,9 +1485,9 @@
                         <span>Comment</span>
                       </div>
                     </div>
-                    <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
+                    <h3 class="cs_post_title"><a href="blog-details..php">Medical Of This Working Health Blog</a></h3>
                     <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details.html" class="cs_post_btn">
+                    <a href="blog-details..php" class="cs_post_btn">
                       <span>Read More</span>
                       <span><i class="fa-solid fa-angle-right"></i></span>
                     </a>
@@ -1570,7 +1579,7 @@
           <div class="cs_footer_bottom_in">
             <p class="cs_footer_copyright mb-0">Terms and Conditions.</p>
             <ul class="cs_footer_menu cs_mp_0">              
-              <li><a href="about.html">Designed By @</a></li>                
+              <li><a href="about..php">Designed By @</a></li>                
          
             </ul>
           </div>
@@ -1578,7 +1587,6 @@
       </div>
       
     </footer> -->
-    <!-- End Footer -->
     <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
       <div class="container">
         <div class="cs_footer_row">
@@ -1595,18 +1603,21 @@
                 </li>
                 <li>
                   <i class="fa-solid fa-location-dot  text-dark"></i>
-                  <p class="text-dark">13/A, Miranda Halim City .</p>
+                  <p class="text-dark">   
+                    
+                    2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada 
+                    533003
+                  </p>
                 </li>
               
                 <li>
                   <i class="fa-solid fa-phone  text-dark"></i>
-                  <p class="text-dark"> 099 695 695 35</p>
+                  <p class="text-dark"> 9493782298</p>
                 </li>
               </ul>
               <div class="cs_social_btns cs_style_1">
                 <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-                <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-                <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
+                <a href="#" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
                 <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
               </div>
             </div>
@@ -1627,61 +1638,96 @@
             <div class="cs_footer_widget">
               <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
               <ul class="cs_footer_widget_nav_list cs_mp_0">
-                <li><a href="#" class=" text-dark">Gynecology</a></li>
-                <li><a href="#" class=" text-dark">Obstetrics</a></li>
-                <li><a href="#"class=" text-dark">High risk pregnancy</a></li>
-                <li><a href="#"class=" text-dark">Laparoscopic services</a></li>
-                <li><a href="#"class=" text-dark">Fertility issues</a></li>
-                <li><a href="#"class=" text-dark">reproductive Endocrinology</a></li>
+                <li><a href="#" class=" text-dark">PCOD and Adolscent clinics</a></li>
+                <li><a href="#" class=" text-dark">Menstrual Problems</a></li>
+                <li><a href="#"class=" text-dark">Infertility</a></li>
+                <li><a href="#"class=" text-dark">Preconceptional Care</a></li>
+                <li><a href="#"class=" text-dark">Menopausal clinic</a></li>
+                <li><a href="#"class=" text-dark">Well Woman Check up</a></li>
   
               </ul>
             </div>
           </div>
-          <div class="cs_footer_col">
+          <!-- <div class="cs_footer_col">
             <div class="cs_footer_widget">
               <h2 class="cs_footer_widget_title text-dark">Recent Posts</h2>
               <ul class="cs_recent_post_list cs_mp_0">
                 <li>
                   <div class="cs_recent_post">
-                    <a href="blog-details.html" class="cs_recent_post_thumb">
+                    <a href="blog-details..php" class="cs_recent_post_thumb">
                       <img src="assets/img/Untitled design (36)/1.png" alt="">
                     </a>
                     <div class="cs_recent_post_right">
                       <p class="text-dark">23 jun 2024</p>
-                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details.html">We round Solution york Blog</a></h3>
+                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details..php">We round Solution york Blog</a></h3>
                     </div>
                   </div>
                 </li>
                 <li>
                   <div class="cs_recent_post">
-                    <a href="blog-details.html" class="cs_recent_post_thumb">
+                    <a href="blog-details..php" class="cs_recent_post_thumb">
                       <img src="assets/img/Untitled design (36)/2.png" alt="">
                     </a>
                     <div class="cs_recent_post_right">
                       <p class="text-dark">20 jun 2024</p>
-                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details.html">The Medical Of This Working Health</a></h3>
+                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details..php">The Medical Of This Working Health</a></h3>
                     </div>
                   </div>
                 </li>
               </ul>
             </div>
+          </div> -->
+          <div class="cs_footer_col">
+            <div class="cs_footer_widget">
+              <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
+              <ul class="cs_footer_widget_nav_list cs_mp_0">
+                <li><a href="#" class=" text-dark">Cancer Screening</a></li>
+                <li><a href="#" class=" text-dark">All gynaecological Problems</a></li>
+                <li><a href="#"class=" text-dark">Comprehensive antenatal and post natal care</a></li>
+                <li><a href="#"class=" text-dark">High Risk Pregnancy</a></li>
+                <li><a href="#"class=" text-dark">Ultrasound scanning</a></li>
+                <li><a href="#"class=" text-dark">Electronic fetal monitoring</a></li>
+                <li><a href="#"class=" text-dark">Lactational Consulation</a></li>
+
+  
+              </ul>
+            </div>
           </div>
         </div>
       </div>
-      <div class="cs_footer_bottom copy_bg text-white">
+       <div class="cs_footer_bottom copy_bg text-white">
         <div class="container">
           <div class="cs_footer_bottom_in">
-            <p class="cs_footer_copyright mb-0">Copyright © 2024 Medilo, All Rights Reserved.</p>
-            <!-- <ul class="cs_footer_menu cs_mp_0">              
-              <li><a href="about.html">About Us</a></li>                
-              <li><a href="#">Events</a></li>
-              <li><a href="blog.html">News</a></li>
-              <li><a href="service.html">Service</a></li>
-            </ul> -->
+          
+            <p class="cs_footer_copyright mt-3 mb-0"> 
+              <a href="terms.php">
+                Terms & Conditions
+            </a>
+                 <a href="privacy.php">
+                  Privacy & Policy
+            </a>
+          
+            </p>
+       
+            <ul class="cs_footer_menu cs_mp_0">              
+              <a href="https://bhavicreations.com/" target="_blank"
+              style="text-decoration: none; color: #ffffff; display: flex; align-items: center;">
+              <p class="mini_text last_text mb-0">
+                  Branding By @
+              </p>
+              <img src="assets/img/Bhavi_Branding_Stamp.png" class="img-fluid brand_image" alt=""
+                  style="width: 50px; height: 50px;">
+          </a>             
+             
+            </ul> 
           </div>
         </div>
-      </div>
+      </div> 
+ 
     </footer>
+    <!-- End Footer -->
+ 
+
     <!-- Start Scroll Up Button -->
     <span class="cs_scrollup new_scrollup text-white">
       <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">

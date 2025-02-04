@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE .html>
 <html class="no-js" lang="en">
 
 <head>
@@ -10,7 +10,7 @@
   <!-- Favicon Icon -->
   <link rel="icon" href="assets/img/favicon.png">
   <!-- Site Title -->
-  <title>Medilo- Medical & Health HTML Template</title>
+  <title>Medilo- Medical & Health .php Template</title>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/fontawesome.min.css">
   <link rel="stylesheet" href="assets/css/animate.css">
@@ -32,106 +32,115 @@
   </div>
   <!-- Start Header Section -->
   <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg ">
-    <div class="cs_top_header cs_blue_bg cs_white_color copy_bg">
-      <div class="container">
-        <div class="cs_top_header_in">
-          <div class="cs_top_header_left">
-            <ul class="cs_header_contact_list cs_mp_0">
-              <li>
-                <i class="fa-solid fa-envelope"></i>
-                <a href="mailto:demo@example.com">demo@example.com</a>
-              </li>
-              <li>
-                <i class="fa-solid fa-location-dot"></i>
-                15/K, Dhaka London City, LOT
-              </li>
-            </ul>
-          </div>
-          <div class="cs_top_header_right">
-            <div class="cs_social_btns cs_style_1">
-              <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="cs_main_header">
-      <div class="container">
-        <div class="cs_main_header_in">
-          <div class="cs_main_header_left">
-            <a class="cs_site_branding" href="index.html">
-              <img src="assets/img/leela womens logo.jpg.png" alt="Logo" class="img-fluid" style="width: 120px;">
-            </a>
-          </div>
-          <div class="cs_main_header_right">
-            <div class="cs_nav cs_primary_color">
-              <ul class="cs_nav_list">
+      <div class="cs_top_header cs_blue_bg cs_white_color copy_bg">
+        <div class="container">
+          <div class="cs_top_header_in">
+            <div class="cs_top_header_left">
+              <ul class="cs_header_contact_list cs_mp_0">
                 <li>
-                  <a href="index.html">Home</a>
-               
+                  <i class="fa-solid fa-envelope"></i>
+                  <a href="mailto:demo@example.com">demo@example.com</a>
                 </li>
-                <li><a href="about.html">About</a></li>
-                <li class="menu-item-has-children">
-                  <a href="service.html">Service</a>
-                  <ul>
-                    <li><a href="service.html">Service</a></li>
-                    <li><a href="service-details.html">Service Details</a></li>
-                  </ul>
-                </li>
-                <li><a href="testimonials.html">Testimonials</a></li>
-
-                <li>
-                  <a href="blog.html">Blog</a>
-              
-                </li>
-                <!-- <li class="menu-item-has-children">
-                  <a href="">Pages</a>
-                  <ul>
-                    <li><a href="appointments.html">Appointments</a></li>
-                    <li><a href="doctors.html">Doctors</a></li>
-                    <li><a href="doctor-details.html">Doctor Details</a></li>
-                    <li><a href="timetable.html">Timetable</a></li>
-                    <li><a href="projects.html">Projects</a></li>
-                    <li><a href="error.html">Error 404</a></li>
-                  </ul>
+                <!-- <li>
+                  <i class="fa-solid fa-location-dot"></i>
+                  2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada LOT
                 </li> -->
-                <li><a href="contact.html">Contact</a></li>
+                <li>
+                  <i class="fa-solid fa-phone"></i>
+                  9493782298
+                </li>
               </ul>
             </div>
-           <!-- <div class="cs_search_wrap">
-              <div class="cs_search_toggle cs_center">
-                <i class="fa-solid fa-magnifying-glass"></i>
+            <div class="cs_top_header_right">
+              <div class="cs_social_btns cs_style_1">
+                <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="#" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
+                <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
               </div>
-               <form action="#" class="cs_header_search_form">
-                <div class="cs_header_search_form_in">
-                  <input type="text" placeholder="Search" class="cs_header_search_field">
-                  <button class="cs_header_submit_btn">
-                    <i class="fa-solid fa-magnifying-glass"></i>                     
-                  </button>
-                </div>
-              </form> 
-            </div>-->
-            <a href="contact.html" class="cs_btn cs_style_1 cs_color_1 mb-4 mt-3">
-              <button class="make_bg">Make an Appointment </button>
-              <i class="fa-solid fa-angles-right"></i>
-            </a>
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </header>
+      <div class="cs_main_header">
+        <div class="container">
+          <div class="cs_main_header_in">
+            <div class="cs_main_header_left">
+              <a class="cs_site_branding" href="index.php">
+                <img src="assets/img/leela womens logo.jpg.png" alt="Logo" class="img-fluid" style="width: 120px;">
+              </a>
+            </div>
+            <div class="cs_main_header_right">
+              <div class="cs_nav cs_primary_color">
+                <ul class="cs_nav_list">
+                  <li>
+                    <a href="index.php">Home</a>
+                 
+                  </li>
+                  <li><a href="about.php">About</a></li>
+               
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Services
+                    </a>
+                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:620px;">
+                      <div class="row  ">
+                        <div class="col-md-6">
+                          <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                          <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems </a></li>
+                          <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
+                          <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                        </div>
+                        <div class="col-md-6">
+                          <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                          <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
+                          <li><a class="dropdown-item services_drop" href="cancerscreening.php">CancerScreening</a></li>
+                          <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
+                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and post <br> natal care</a>
+                             <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
+                            <div class="col-md-6">
+                              <li><a class="dropdown-item services_drop active_service" href="">High Risk Pregnancy</a></li>
+                              <li><a class="dropdown-item services_drop" href="">Ultrasound Scanning </a></li>
+                              <li><a class="dropdown-item services_drop" href="">Electronic fetal monitoring</a></li>
+                              <li><a class="dropdown-item services_drop" href="">Lactational consultation</a></li>
+                            </div>
+                          </ul>
+                          </li>
+
+                        </div>
+            
+                       
+                      </div>
+                    </ul>
+                  </li>
+                  <!-- <li><a href="testimonials.">Testimonials</a></li> -->
+
+                  <li>
+                    <a href="blog.php">Blog</a>
+                
+                  </li>
+                
+                  <li><a href="contact.php">Contact</a></li>
+                </ul>
+              </div>
+         
+              <a href="contact.php" class="text-white mb-4 mt-3">
+                <button class="make_bg">Make an Appointment </button>
+                <i class="fa-solid fa-angles-right"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
-  <section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/page_heading_bg.jpg">
+  <section class="cs_page_heading cs_bg_filed cs_center space1" data-src="assets/img/about.png">
     <div class="container">
-      <h1 class="cs_page_title">About Page</h1>
+      <!-- <h1 class="cs_page_title">About Page</h1>
       <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+        <li class="breadcrumb-item"><a href="index..php">Home</a></li>
         <li class="breadcrumb-item active">About Page</li>
-      </ol>
+      </ol> -->
     </div>
   </section>
   <!-- End Page Heading -->
@@ -202,7 +211,7 @@
               </div>
               <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team <a href="#">READ MORE +</a></p>
             </div>
-            <a href="about.html" class="cs_btn cs_style_1 cs_color_1">
+            <a href="about..php" class="cs_btn cs_style_1 cs_color_1">
               <span>About More </span>
               <i class="fa-solid fa-angles-right"></i>
             </a>
@@ -281,7 +290,7 @@
               </div>
               <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team  <a href="#">READ MORE +</a></p>
             </div>
-            <a href="about.html" class="cs_btn cs_style_1 cs_color_1">
+            <a href="about..php" class="cs_btn cs_style_1 cs_color_1">
               <span>About More </span>
               <i class="fa-solid fa-angles-right"></i>
             </a>
@@ -354,7 +363,7 @@
               <h2 class="cs_section_title cs_white_color">Professional Medical Care Measure Medical.</h2>
               <p class="cs_cta_subtitle cs_white_color">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and
                 comfortable in establishing.</p>
-              <a href="contact.html" class="cs_btn cs_style_1 cs_color_3">
+              <a href="contact..php" class="cs_btn cs_style_1 cs_color_3">
                 <span>Video More </span>
                 <i class="fa-solid fa-angles-right"></i>
               </a>
@@ -388,11 +397,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/team_1.jpg" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -406,11 +415,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/team_3.jpg" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -424,11 +433,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/team_4.jpg" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -442,11 +451,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/team_1.jpg" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -460,11 +469,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/team_4.jpg" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -500,11 +509,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/Untitled design (37)/1.png" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -518,11 +527,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/Untitled design (37)/2.png" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -536,11 +545,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/Untitled design (37)/3.png" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -554,11 +563,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/Untitled design (37)/4.png" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -572,11 +581,11 @@
             <div class="cs_slide">
               <div class="cs_team cs_style_1 cs_blue_bg">
                 <div class="cs_team_shape cs_accent_bg"></div>
-                <a href="doctor-details.html" class="cs_team_thumbnail">
+                <a href="doctor-details..php" class="cs_team_thumbnail">
                   <img src="assets/img/Untitled design (37)/3.png" alt="Team Thumbnail">
                 </a>
                 <div class="cs_team_bio">
-                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details.html">Dr. Norma Pedric</a></h3>
+                  <h3 class="cs_team_title cs_extra_bold mb-0"><a href="doctor-details..php">Dr. Norma Pedric</a></h3>
                   <p class="cs_team_subtitle">Neurologiest</p>
                   <div class="cs_social_btns cs_style_1">
                     <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
@@ -597,124 +606,161 @@
   </section>
 
   <!-- Start Footer -->
-  <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
-    <div class="container">
-      <div class="cs_footer_row">
-        <div class="cs_footer_col">
-          <div class="cs_footer_highlight_col cs_accent_bg">
-            <div class="cs_footer_logo">
-              <img src="assets/img/leela womens logo.jpg.png" alt="Logo" style="width: 150px;">
-            </div>
-            <ul class="cs_footer_contact cs_mp_0">
-              <li>
-                <i class="fa-regular fa-clock  text-dark"></i>
-               <p class="text-dark"> Open Hours of Government: <br>
-                Mon - Fri: 8.00 am. - 6.00 pm.</p>
-              </li>
-              <li>
-                <i class="fa-solid fa-location-dot  text-dark"></i>
-                <p class="text-dark">13/A, Miranda Halim City .</p>
-              </li>
-            
-              <li>
-                <i class="fa-solid fa-phone  text-dark"></i>
-                <p class="text-dark"> 099 695 695 35</p>
-              </li>
-            </ul>
-            <div class="cs_social_btns cs_style_1">
-              <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
-            </div>
-          </div>
-        </div>
-        <div class="cs_footer_col">
-          <div class="cs_footer_widget">
-            <h2 class="cs_footer_widget_title text-dark">Service</h2>
-            <ul class="cs_footer_widget_nav_list cs_mp_0">
-              <li><a href="#" class=" text-dark">Home</a></li>
-              <li><a href="#" class=" text-dark">About</a></li>
-              <li><a href="#" class=" text-dark"> Service</a></li>
-              <li><a href="#"class=" text-dark">Blog</a></li>
-              <li><a href="#"class=" text-dark">contact</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="cs_footer_col">
-          <div class="cs_footer_widget">
-            <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
-            <ul class="cs_footer_widget_nav_list cs_mp_0">
-              <li><a href="#" class=" text-dark">Gynecology</a></li>
-              <li><a href="#" class=" text-dark">Obstetrics</a></li>
-              <li><a href="#"class=" text-dark">High risk pregnancy</a></li>
-              <li><a href="#"class=" text-dark">Laparoscopic services</a></li>
-              <li><a href="#"class=" text-dark">Fertility issues</a></li>
-              <li><a href="#"class=" text-dark">reproductive Endocrinology</a></li>
-
-            </ul>
-          </div>
-        </div>
-        <div class="cs_footer_col">
-          <div class="cs_footer_widget">
-            <h2 class="cs_footer_widget_title text-dark">Recent Posts</h2>
-            <ul class="cs_recent_post_list cs_mp_0">
-              <li>
-                <div class="cs_recent_post">
-                  <a href="blog-details.html" class="cs_recent_post_thumb">
-                    <img src="assets/img/Untitled design (36)/1.png" alt="">
-                  </a>
-                  <div class="cs_recent_post_right">
-                    <p class="text-dark">23 jun 2024</p>
-                    <h3 class="cs_recent_post_title text-dark"><a href="blog-details.html">We round Solution york Blog</a></h3>
-                  </div>
-                </div>
-              </li>
-              <li>
-                <div class="cs_recent_post">
-                  <a href="blog-details.html" class="cs_recent_post_thumb">
-                    <img src="assets/img/Untitled design (36)/2.png" alt="">
-                  </a>
-                  <div class="cs_recent_post_right">
-                    <p class="text-dark">20 jun 2024</p>
-                    <h3 class="cs_recent_post_title text-dark"><a href="blog-details.html">The Medical Of This Working Health</a></h3>
-                  </div>
-                </div>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="cs_footer_bottom copy_bg text-white">
+  </footer> -->
+    <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
       <div class="container">
-        <div class="cs_footer_bottom_in">
-          <p class="cs_footer_copyright mb-0">Copyright © 2024 Medilo, All Rights Reserved.</p>
-          <!-- <ul class="cs_footer_menu cs_mp_0">              
-            <li><a href="about.html">About Us</a></li>                
-            <li><a href="#">Events</a></li>
-            <li><a href="blog.html">News</a></li>
-            <li><a href="service.html">Service</a></li>
-          </ul> -->
+        <div class="cs_footer_row">
+          <div class="cs_footer_col">
+            <div class="cs_footer_highlight_col cs_accent_bg">
+              <div class="cs_footer_logo">
+                <img src="assets/img/leela womens logo.jpg.png" alt="Logo" style="width: 150px;">
+              </div>
+              <ul class="cs_footer_contact cs_mp_0">
+                <li>
+                  <i class="fa-regular fa-clock  text-dark"></i>
+                 <p class="text-dark"> Open Hours of Government: <br>
+                  Mon - Fri: 8.00 am. - 6.00 pm.</p>
+                </li>
+                <li>
+                  <i class="fa-solid fa-location-dot  text-dark"></i>
+                  <p class="text-dark">   
+                    
+                    2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada 
+                    533003
+                  </p>
+                </li>
+              
+                <li>
+                  <i class="fa-solid fa-phone  text-dark"></i>
+                  <p class="text-dark"> 9493782298</p>
+                </li>
+              </ul>
+              <div class="cs_social_btns cs_style_1">
+                <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="#" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
+                <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="cs_footer_col">
+            <div class="cs_footer_widget">
+              <h2 class="cs_footer_widget_title text-dark">Service</h2>
+              <ul class="cs_footer_widget_nav_list cs_mp_0">
+                <li><a href="#" class=" text-dark">Home</a></li>
+                <li><a href="#" class=" text-dark">About</a></li>
+                <li><a href="#" class=" text-dark"> Service</a></li>
+                <li><a href="#"class=" text-dark">Blog</a></li>
+                <li><a href="#"class=" text-dark">contact</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="cs_footer_col">
+            <div class="cs_footer_widget">
+              <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
+              <ul class="cs_footer_widget_nav_list cs_mp_0">
+                <li><a href="#" class=" text-dark">PCOD and Adolscent clinics</a></li>
+                <li><a href="#" class=" text-dark">Menstrual Problems</a></li>
+                <li><a href="#"class=" text-dark">Infertility</a></li>
+                <li><a href="#"class=" text-dark">Preconceptional Care</a></li>
+                <li><a href="#"class=" text-dark">Menopausal clinic</a></li>
+                <li><a href="#"class=" text-dark">Well Woman Check up</a></li>
+  
+              </ul>
+            </div>
+          </div>
+          <!-- <div class="cs_footer_col">
+            <div class="cs_footer_widget">
+              <h2 class="cs_footer_widget_title text-dark">Recent Posts</h2>
+              <ul class="cs_recent_post_list cs_mp_0">
+                <li>
+                  <div class="cs_recent_post">
+                    <a href="blog-details..php" class="cs_recent_post_thumb">
+                      <img src="assets/img/Untitled design (36)/1.png" alt="">
+                    </a>
+                    <div class="cs_recent_post_right">
+                      <p class="text-dark">23 jun 2024</p>
+                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details..php">We round Solution york Blog</a></h3>
+                    </div>
+                  </div>
+                </li>
+                <li>
+                  <div class="cs_recent_post">
+                    <a href="blog-details..php" class="cs_recent_post_thumb">
+                      <img src="assets/img/Untitled design (36)/2.png" alt="">
+                    </a>
+                    <div class="cs_recent_post_right">
+                      <p class="text-dark">20 jun 2024</p>
+                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details..php">The Medical Of This Working Health</a></h3>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div> -->
+          <div class="cs_footer_col">
+            <div class="cs_footer_widget">
+              <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
+              <ul class="cs_footer_widget_nav_list cs_mp_0">
+                <li><a href="#" class=" text-dark">Cancer Screening</a></li>
+                <li><a href="#" class=" text-dark">All gynaecological Problems</a></li>
+                <li><a href="#"class=" text-dark">Comprehensive antenatal and post natal care</a></li>
+                <li><a href="#"class=" text-dark">High Risk Pregnancy</a></li>
+                <li><a href="#"class=" text-dark">Ultrasound scanning</a></li>
+                <li><a href="#"class=" text-dark">Electronic fetal monitoring</a></li>
+                <li><a href="#"class=" text-dark">Lactational Consulation</a></li>
+
+  
+              </ul>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-  </footer>
-  <!-- End Footer -->
-  <!-- Start Scroll Up Button -->
-  <span class="cs_scrollup">
-    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 10L1.7625 11.7625L8.75 4.7875V20H11.25V4.7875L18.225 11.775L20 10L10 0L0 10Z" fill="currentColor" />
-    </svg>
-  </span>
-  <!-- End Scroll Up Button -->
+       <div class="cs_footer_bottom copy_bg text-white">
+        <div class="container">
+          <div class="cs_footer_bottom_in">
+          
+            <p class="cs_footer_copyright mt-3 mb-0"> 
+              <a href="terms.php">
+                Terms & Conditions
+            </a>
+                 <a href="privacy.php">
+                  Privacy & Policy
+            </a>
+          
+            </p>
+       
+            <ul class="cs_footer_menu cs_mp_0">              
+              <a href="https://bhavicreations.com/" target="_blank"
+              style="text-decoration: none; color: #ffffff; display: flex; align-items: center;">
+              <p class="mini_text last_text mb-0">
+                  Branding By @
+              </p>
+              <img src="assets/img/Bhavi_Branding_Stamp.png" class="img-fluid brand_image" alt=""
+                  style="width: 50px; height: 50px;">
+          </a>             
+             
+            </ul> 
+          </div>
+        </div>
+      </div> 
+ 
+    </footer>
+    <!-- End Footer -->
+ 
 
-  <!-- Script -->
-  <script src="assets/js/jquery-3.6.0.min.js"></script>
-  <script src="assets/js/wow.min.js"></script>
-  <script src="assets/js/jquery.slick.min.js"></script>
-  <script src="assets/js/odometer.js"></script>
-  <script src="assets/js/main.js"></script>
-</body>
+    <!-- Start Scroll Up Button -->
+    <span class="cs_scrollup new_scrollup text-white">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 10L1.7625 11.7625L8.75 4.7875V20H11.25V4.7875L18.225 11.775L20 10L10 0L0 10Z" fill="currentColor" />
+      </svg>
+    </span>
+    <!-- End Scroll Up Button -->
 
+    <!-- Script -->
+    <script src="assets/js/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/jquery.slick.min.js"></script>
+    <script src="assets/js/odometer.js"></script>
+    <script src="assets/js/main.js"></script>
+  </body>
 </html>

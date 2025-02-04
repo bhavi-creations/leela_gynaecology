@@ -41,17 +41,20 @@
                 <i class="fa-solid fa-envelope"></i>
                 <a href="mailto:demo@example.com">demo@example.com</a>
               </li>
-              <li>
+              <!-- <li>
                 <i class="fa-solid fa-location-dot"></i>
-                15/K, Dhaka London City, LOT
+                2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada LOT
+              </li> -->
+              <li>
+                <i class="fa-solid fa-phone"></i>
+                9493782298
               </li>
             </ul>
           </div>
           <div class="cs_top_header_right">
             <div class="cs_social_btns cs_style_1">
               <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
+              <a href="#" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
               <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
             </div>
           </div>
@@ -81,7 +84,7 @@
                     <li><a href="service-details.html">Service Details</a></li>
                   </ul>
                 </li>
-                <li><a href="testimonials.html">Testimonials</a></li>
+                <!-- <li><a href="testimonials.html">Testimonials</a></li> -->
 
                 <li>
                   <a href="blog.html">Blog</a>
@@ -114,7 +117,7 @@
                 </div>
               </form> 
             </div>-->
-            <a href="contact.html" class="cs_btn cs_style_1 cs_color_1 mb-4 mt-3">
+            <a href="contact.html" class="text-white mb-4 mt-3">
               <button class="make_bg">Make an Appointment </button>
               <i class="fa-solid fa-angles-right"></i>
             </a>
@@ -127,187 +130,59 @@
   <!-- Start Page Heading -->
   <section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/page_heading_bg.jpg">
     <div class="container">
-      <h1 class="cs_page_title">Blog Page</h1>
+      <h1 class="cs_page_title">Appointments</h1>
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-        <li class="breadcrumb-item active">Blog Page</li>
+        <li class="breadcrumb-item active">Appointments</li>
       </ol>
     </div>
   </section>
   <!-- End Page Heading -->
-  <!-- Start Blog Section -->
-  <section>
+  <!-- Start Appointment Section -->
+  <section class="cs_appointment">
     <div class="cs_height_110 cs_height_lg_70"></div>
     <div class="container">
-      <div class="cs_section_heading cs_style_1 text-center">
-        <p class="cs_section_subtitle cs_accent_color">
-          <span class="cs_shape_left"></span>OUR LARGEST BLOG<span class="cs_shape_right"></span>
-        </p>
-        <h2 class="cs_section_title">Latest Posts & Articles</h2>
-      </div>
-      <div class="cs_height_50 cs_height_lg_50"></div>
-      <div class="cs_posts_grid cs_style_1">
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_1.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">May 02</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
+      <div class="cs_appointment_form_wrapper">
+        <div class="cs_section_heading cs_style_1 text-center">
+          <p class="cs_section_subtitle cs_accent_color">
+            <span class="cs_shape_left"></span>MAKE APPOINTMENTS<span class="cs_shape_right"></span>
+          </p>
+          <h2 class="cs_section_title">Booking Now Appointments</h2>
+        </div>
+        <div class="cs_height_40 cs_height_lg_35"></div>
+        <form class="cs_appointment_form row cs_gap_y_30">
+          <div class="col-md-6">
+            <input type="text" name="name" class="cs_form_field" placeholder="Name">
           </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_2.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">April 12</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">There Is Only One Thing That Is Hospital.</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
+          <div class="col-md-6">
+            <input type="email" name="email" class="cs_form_field" placeholder="Email">
           </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_3.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">Jan 02</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">This Working World and Infection Prevention.</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
+          <div class="col-md-12">
+            <input type="text" name="address" class="cs_form_field" placeholder="Address">
           </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_4.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">June 02</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
+          <div class="col-md-12">
+            <select name="service" class="cs_form_field">
+              <option value="choose-service">Choose Service</option>
+              <option value="crutches">Crutches</option>
+              <option value="x-Ray">X-Ray</option>
+              <option value="pulmonary">Pulmonary</option>
+              <option value="cardiology">Cardiology</option>
+              <option value="dental-care">Dental Care</option>
+              <option value="neurology">Neurology</option>
+            </select>
           </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_5.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">May 22</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">This Working World and Infection Prevention.</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
+          <div class="col-md-12">
+            <input type="text" name="date" class="cs_form_field" placeholder="Appointment date & time">
           </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_6.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">Feb 10</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
+          <div class="col-md-12">
+            <button type="submit" class="cs_btn cs_style_1 cs_white_color">Make an appoinment</button>
           </div>
-        </article>
+        </form>
       </div>
     </div>
     <div class="cs_height_120 cs_height_lg_80"></div>
   </section>
-  <!-- End Blog Section -->
+  <!-- End Appointment Section -->
   <!-- Start Footer -->
   <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
     <div class="container">
@@ -325,18 +200,21 @@
               </li>
               <li>
                 <i class="fa-solid fa-location-dot  text-dark"></i>
-                <p class="text-dark">13/A, Miranda Halim City .</p>
+                <p class="text-dark">   
+                  
+                  2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada 
+                  533003
+                </p>
               </li>
             
               <li>
                 <i class="fa-solid fa-phone  text-dark"></i>
-                <p class="text-dark"> 099 695 695 35</p>
+                <p class="text-dark"> 9493782298</p>
               </li>
             </ul>
             <div class="cs_social_btns cs_style_1">
               <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
+              <a href="#" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
               <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
             </div>
           </div>

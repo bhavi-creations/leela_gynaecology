@@ -62,7 +62,7 @@ Google Fonts Integration
   /* --heading-color: #222; */
   --body-color: #636363;
   /* --accent-color:  #ef008f; */
-  /* --blue-color: #002261; */
+  --blue-color: #002261;
   --gray-color: #e8edf0;
   --border-color: #dddddd;
   --heading-font: "Poppins", sans-serif;
@@ -8633,4 +8633,15 @@ background: #2b239f !important;
 }
 .new_logo{
   margin-top: 100px;
+}
+
+.pics{
+  border-radius: 50%;
+}
+.space{
+  margin-top: 200px !important;
+}
+
+.space1{
+  margin-top: 100px !important;
 }
