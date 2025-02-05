@@ -95,11 +95,11 @@
                           <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
                           <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and post <br> natal care</a>
                              <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
-                            <div class="col-md-6">
-                              <li><a class="dropdown-item services_drop active_service" href="">High Risk Pregnancy</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Ultrasound Scanning </a></li>
-                              <li><a class="dropdown-item services_drop" href="">Electronic fetal monitoring</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Lactational consultation</a></li>
+                             <div class="col-md-6">
+                              <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                              <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning </a></li>
+                              <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic fetal monitoring</a></li>
+                              <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational consultation</a></li>
                             </div>
                           </ul>
                           </li>

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE .html>
 <html class="no-js" lang="en">
 
 <head>
@@ -10,7 +10,7 @@
   <!-- Favicon Icon -->
   <link rel="icon" href="assets/img/favicon.png">
   <!-- Site Title -->
-  <title>Medilo- Medical & Health HTML Template</title>
+  <title>Medilo- Medical & Health .php Template</title>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/fontawesome.min.css">
   <link rel="stylesheet" href="assets/css/animate.css">
@@ -39,7 +39,7 @@
               <ul class="cs_header_contact_list cs_mp_0">
                 <li>
                   <i class="fa-solid fa-envelope"></i>
-                  <a href="mailto:demo@example.com">demo@example.com</a>
+                  <a href="mailto:demo@example.com">leelawomenshealthcare@gmail.com</a>
                 </li>
                 <!-- <li>
                   <i class="fa-solid fa-location-dot"></i>
@@ -79,29 +79,29 @@
                   <li><a href="about.php">About</a></li>
                
                   <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Services
                     </a>
-                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:620px;">
+                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:500px;">
                       <div class="row  ">
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                           <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
                           <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems </a></li>
                           <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
                           <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                           <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
                           <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
                           <li><a class="dropdown-item services_drop" href="cancerscreening.php">CancerScreening</a></li>
                           <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
-                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and post <br> natal care</a>
+                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and  <br>post natal care</a>
                              <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
-                            <div class="col-md-6">
-                              <li><a class="dropdown-item services_drop active_service" href="">High Risk Pregnancy</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Ultrasound Scanning </a></li>
-                              <li><a class="dropdown-item services_drop" href="">Electronic fetal monitoring</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Lactational consultation</a></li>
+                            <  <div class="col-md-6">
+                              <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                              <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning </a></li>
+                              <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic fetal monitoring</a></li>
+                              <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational consultation</a></li>
                             </div>
                           </ul>
                           </li>
@@ -123,7 +123,7 @@
                 </ul>
               </div>
          
-              <a href="contact.php" class="text-white mb-4 mt-3">
+              <a href="appointments.php" class="text-white mb-4 mt-3">
                 <button class="make_bg">Make an Appointment </button>
                 <i class="fa-solid fa-angles-right"></i>
               </a>
@@ -132,6 +132,7 @@
         </div>
       </div>
     </header>
+    <div class="cs_site_header_spacing_150"></div>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
   <section class="cs_page_heading cs_bg_filed cs_center space1" data-src="assets/img/about.png">
@@ -151,11 +152,11 @@
       <div class="row cs_gap_y_30">
         <div class="col-lg-6">
           <div class="cs_contact_thumbnail cs_pr_40">
-            <div class="cs_teeth_shape">
+            <!-- <div class="cs_teeth_shape">
               <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
-            </div>
+            </div> -->
             <div class="cs_contact_img">
-              <img src="assets/img/contact_2.png" alt="Image">
+              <img src="assets/img/Untitled design (18).png" alt="Image">
             </div>
             <div class="cs_contact_bg_shape">
               <div class="cs_white_bg_shape"></div>
@@ -172,7 +173,7 @@
         </div>
         <div class="col-lg-6">
           <div class="cs_section_heading cs_style_1">
-            <p class="cs_section_subtitle cs_accent_color">
+            <p class="cs_section_subtitle text">
               <span class="cs_shape_left"></span>CONTACT US
             </p>
             <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meet</h2>
@@ -194,12 +195,12 @@
             <div class="col-lg-12">
               <textarea rows="5" name="message" class="cs_form_field" placeholder="Your comments"></textarea>
             </div>
-            <div class="col-lg-12">
+            <!-- <div class="col-lg-12">
               <input type="text" name="code" class="cs_form_field" placeholder="Type the below word">
               <input type="button" class="cs_form_field cs_code_input" value="5RLOpW">
-            </div>
+            </div> -->
             <div class="col-lg-12">
-              <button type="submit" class="cs_btn cs_style_1 cs_color_1">Send Request</button>
+              <button type="submit" class="cs_btn cs_style_1 copy_bg text-white">Send Request</button>
             </div>
           </form>
         </div>
@@ -210,9 +211,10 @@
   <!-- End Contact Section -->
   <!-- Start Location Map -->
   <div class="cs_location_map">
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158858.5851960224!2d-0.2664050245106056!3d51.52852620113951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2z4Kay4Kao4KeN4Kah4KaoLCDgpq_gp4HgppXgp43gpqTgprDgpr7gppzgp43gpq8!5e0!3m2!1sbn!2sbd!4v1723284219451!5m2!1sbn!2sbd"></iframe>
+    
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3815.9780861738523!2d82.23607608885496!3d16.97562820000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a38286a6a9f1451%3A0xac55c6f56ee1f7b4!2s2-18-29%2C%20Madhav%20Nagar%2C%20Jawaharlal%20Nehru%20Technological%20University%20Area%2C%20Ramanaya%20Peta%2C%20Kakinada%2C%20Andhra%20Pradesh%20533003!5e0!3m2!1sen!2sin!4v1738752481572!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
+  
   <!-- End Location Map -->
   <!-- Start Footer -->
   </footer> 

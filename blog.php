@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE .html>
 <html class="no-js" lang="en">
 
 <head>
@@ -10,7 +10,7 @@
   <!-- Favicon Icon -->
   <link rel="icon" href="assets/img/favicon.png">
   <!-- Site Title -->
-  <title>Medilo- Medical & Health HTML Template</title>
+  <title>Medilo- Medical & Health .php Template</title>
   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/fontawesome.min.css">
   <link rel="stylesheet" href="assets/css/animate.css">
@@ -39,7 +39,7 @@
               <ul class="cs_header_contact_list cs_mp_0">
                 <li>
                   <i class="fa-solid fa-envelope"></i>
-                  <a href="mailto:demo@example.com">demo@example.com</a>
+                  <a href="mailto:demo@example.com">leelawomenshealthcare@gmail.com</a>
                 </li>
                 <!-- <li>
                   <i class="fa-solid fa-location-dot"></i>
@@ -79,29 +79,29 @@
                   <li><a href="about.php">About</a></li>
                
                   <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="services.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Services
                     </a>
-                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:620px;">
+                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:500px;">
                       <div class="row  ">
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                           <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
                           <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems </a></li>
                           <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
                           <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                           <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
                           <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
                           <li><a class="dropdown-item services_drop" href="cancerscreening.php">CancerScreening</a></li>
                           <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
-                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and post <br> natal care</a>
+                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and  <br>post natal care</a>
                              <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
-                            <div class="col-md-6">
-                              <li><a class="dropdown-item services_drop active_service" href="">High Risk Pregnancy</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Ultrasound Scanning </a></li>
-                              <li><a class="dropdown-item services_drop" href="">Electronic fetal monitoring</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Lactational consultation</a></li>
+                             <div class="col-md-6">
+                              <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                              <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning </a></li>
+                              <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic fetal monitoring</a></li>
+                              <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational consultation</a></li>
                             </div>
                           </ul>
                           </li>
@@ -123,7 +123,7 @@
                 </ul>
               </div>
          
-              <a href="contact.php" class="text-white mb-4 mt-3">
+              <a href="appointments.php" class="text-white mb-4 mt-3">
                 <button class="make_bg">Make an Appointment </button>
                 <i class="fa-solid fa-angles-right"></i>
               </a>
@@ -132,6 +132,7 @@
         </div>
       </div>
     </header>
+    <div class="cs_site_header_spacing_150"></div>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
   <section class="cs_page_heading cs_bg_filed cs_center space1" data-src="assets/img/service.png">
@@ -609,3 +610,6 @@
     <script src="assets/js/main.js"></script>
   </body>
 </html>
+
+
+

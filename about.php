@@ -39,7 +39,7 @@
               <ul class="cs_header_contact_list cs_mp_0">
                 <li>
                   <i class="fa-solid fa-envelope"></i>
-                  <a href="mailto:demo@example.com">demo@example.com</a>
+                  <a href="mailto:demo@example.com">leelawomenshealthcare@gmail.com</a>
                 </li>
                 <!-- <li>
                   <i class="fa-solid fa-location-dot"></i>
@@ -82,26 +82,26 @@
                     <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                       Services
                     </a>
-                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:620px;">
+                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:500px;">
                       <div class="row  ">
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                           <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
                           <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems </a></li>
                           <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
                           <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-5">
                           <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
                           <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
                           <li><a class="dropdown-item services_drop" href="cancerscreening.php">CancerScreening</a></li>
                           <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
-                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and post <br> natal care</a>
+                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and <br> post  natal care</a>
                              <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
-                            <div class="col-md-6">
-                              <li><a class="dropdown-item services_drop active_service" href="">High Risk Pregnancy</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Ultrasound Scanning </a></li>
-                              <li><a class="dropdown-item services_drop" href="">Electronic fetal monitoring</a></li>
-                              <li><a class="dropdown-item services_drop" href="">Lactational consultation</a></li>
+                             <div class="col-md-6">
+                              <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                              <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning </a></li>
+                              <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic fetal monitoring</a></li>
+                              <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational consultation</a></li>
                             </div>
                           </ul>
                           </li>
@@ -123,7 +123,7 @@
                 </ul>
               </div>
          
-              <a href="contact.php" class="text-white mb-4 mt-3">
+              <a href="appointments.php" class="text-white mb-4 mt-3">
                 <button class="make_bg">Make an Appointment </button>
                 <i class="fa-solid fa-angles-right"></i>
               </a>
@@ -132,6 +132,7 @@
         </div>
       </div>
     </header>
+    <div class="cs_site_header_spacing_150"></div>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
   <section class="cs_page_heading cs_bg_filed cs_center space1" data-src="assets/img/about.png">
@@ -257,9 +258,9 @@
                 <span class="cs_shape_left  "></span>
                 OUR ABOUT US
               </p>
-              <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2>
+              <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
             </div>
-            <p class="cs_about_text">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.</p>
+            <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
             <div class="row cs_gap_y_30">
               <div class="col-sm-6">
                 <div class="cs_iconbox cs_style_1">
@@ -343,7 +344,7 @@
 
 
   <!-- Start CTA Section -->
-  <section class="cs_cta cs_style_2 cs_blue_bg cs_bg_filed cs_center" data-src="assets/img/cta_bg_1.jpeg">
+  <!-- <section class="cs_cta cs_style_2 cs_blue_bg cs_bg_filed cs_center" data-src="assets/img/cta_bg_1.jpeg">
     <div class="container">
       <div class="row align-items-center cs_gap_y_40">
         <div class="col-lg-6">
@@ -375,7 +376,7 @@
         <img src="assets/img/medical_brand.png" alt="Medical Brand" class="cs_spinner_img">
       </div>
     </div>
-  </section>
+  </section> -->
   <!-- End CTA Section -->
 
   <!-- Start Team Section -->
@@ -606,7 +607,7 @@
   </section>
 
   <!-- Start Footer -->
-  </footer> -->
+
     <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
       <div class="container">
         <div class="cs_footer_row">
