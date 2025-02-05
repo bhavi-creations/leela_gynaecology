@@ -134,13 +134,13 @@
     </header>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
-  <section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/page_heading_bg.jpg">
+  <section class="cs_page_heading cs_bg_filed cs_center space1" data-src="assets/img/about.png">
     <div class="container">
-      <h1 class="cs_page_title">Contact Us</h1>
+      <!-- <h1 class="cs_page_title">Contact Us</h1>
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
         <li class="breadcrumb-item active">Contact Us</li>
-      </ol>
+      </ol> -->
     </div>
   </section>
   <!-- End Page Heading -->
@@ -215,8 +215,8 @@
   </div>
   <!-- End Location Map -->
   <!-- Start Footer -->
-  </footer> -->
-    <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
+  </footer> 
+    <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/about.png">
       <div class="container">
         <div class="cs_footer_row">
           <div class="cs_footer_col">

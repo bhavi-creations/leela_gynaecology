@@ -147,11 +147,11 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact..php">
+                    <a href="contact.php">
                       <button class="contact_bg">Contact Now </button>
                       <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
-                    <a href="about..php">
+                    <a href="about.php">
                       <button class="dis_bg">Discover More  </button>
 
                       <!-- <i class="fa-solid fa-angles-right"></i> -->
@@ -177,13 +177,14 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
-                      <span>Contact Now </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="contact.php" class="">
+                    <button class="contact_bg">Contact Now </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
                     <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
-                      <span>Discover More </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <button class="dis_bg">Discover More  </button>
+
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
                   </div>
                 </div>
@@ -206,13 +207,14 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
-                      <span>Contact Now </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="contact.php" >
+                    <button class="contact_bg">Contact Now </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
-                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
-                      <span>Discover More </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="about.php" class="">
+                    <button class="dis_bg">Discover More  </button>
+
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
                   </div>
                 </div>
@@ -235,13 +237,13 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
-                      <button class="">Contact Now </button>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="contact.php" class="">
+                    <button class="contact_bg">Contact Now </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
-                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
-                      <span>Discover More </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="about.php" class="">
+                    <button class="dis_bg">Discover More  </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
                   </div>
                 </div>
@@ -264,13 +266,13 @@
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
-                      <span>Contact Now </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="contact.php" class="">
+                    <button class="contact_bg">Contact Now </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
-                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
-                      <span>Discover More </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="about.php" class="">
+                    <button class="dis_bg">Discover More  </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
                   </div>
                 </div>
@@ -287,19 +289,19 @@
               <div class="cs_hero_text">
                 <div class="cs_hero_text_in">
                   <h1 class="cs_hero_title">Your Center for <br>Mental <span>Health.</span></h1>
-                  <p class="cs_hero_subtitle">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p>
+                  <p class="cs_hero_subtitle text-white">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p>
                   <div class="cs_hero_info">
                     <h3>Receive Medical Service.</h3>
                     <p>Call Us at: (+2) 56 54 1453</p>
                   </div>
                   <div class="cs_hero_btns">
-                    <a href="contact..php" class="cs_btn cs_style_1 cs_color_1">
-                      <span>Contact Now </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="contact.php" class="">
+                    <button class="contact_bg">Contact Now </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
-                    <a href="about..php" class="cs_btn cs_style_1 cs_color_2">
-                      <span>Discover More </span>
-                      <i class="fa-solid fa-angles-right"></i>
+                    <a href="about.php" class="">
+                    <button class="dis_bg">Discover More  </button>
+                      <!-- <i class="fa-solid fa-angles-right"></i> -->
                     </a>
                   </div>
                 </div>
