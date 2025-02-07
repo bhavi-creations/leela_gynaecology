@@ -2623,11 +2623,11 @@ label {
   background-color: #475f8d;
   height: 30px;
   width: 30px;
-  color: #fff;
+  /* color: #fff; */
   border-radius: 50%;
 }
 .cs_social_btns.cs_style_1 a:hover {
-  background-color: #fff;
+  /* background-color: #fff; */
   color: var(--accent-color);
 }
 
@@ -8653,13 +8653,23 @@ background: #2b239f !important;
   }
 }
 
-/* .remove_bg{
+ .remove_bg{
   color: #ffffff;
-} */
+} 
 
 .icon{
   width: 40px;
   color: #ffffff !important;
 }
 
+.up{
+  margin-top: -20px;
+}
 
+.down{
+  margin-top: 30px !important;
+}
+
+.move{
+  margin-top: -60px;
+}

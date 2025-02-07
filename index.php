@@ -1,138 +1,3 @@
-<!DOCTYPE .html>
-<html class="no-js" lang="en">
-
-<head>
-  <!-- Meta Tags -->
-  <meta charset="utf-8">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="ThemeServices">
-  <!-- Favicon Icon -->
-  <link rel="icon" href="assets/img/favicon.png">
-  <!-- Site Title -->
-  <title>Medilo- Medical & Health .php Template</title>
-  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-  <link rel="stylesheet" href="assets/css/animate.css">
-  <link rel="stylesheet" href="assets/css/odometer.css">
-  <link rel="stylesheet" href="assets/css/slick.min.css">
-  <link rel="stylesheet" href="assets/css/style.css">
-</head>
-
-<body>
-  <div class="cs_preloader">
-    <div class="cs_preloader_in">
-      <div class="cs_wave_first">
-        <svg enable-background="new 0 0 300.08 300.08" viewBox="0 0 300.08 300.08" xmlns="http://www.w3.org/2000/svg"><path d="m293.26 184.14h-82.877l-12.692-76.138c-.546-3.287-3.396-5.701-6.718-5.701-.034 0-.061 0-.089 0-3.369.027-6.199 2.523-6.677 5.845l-12.507 87.602-14.874-148.69c-.355-3.43-3.205-6.056-6.643-6.138-.048 0-.096 0-.143 0-3.39 0-6.274 2.489-6.752 5.852l-19.621 137.368h-9.405l-12.221-42.782c-.866-3.028-3.812-5.149-6.8-4.944-3.13.109-5.777 2.332-6.431 5.395l-8.941 42.332h-73.049c-3.771 0-6.82 3.049-6.82 6.82 0 3.778 3.049 6.82 6.82 6.82h78.566c3.219 0 6.002-2.251 6.67-5.408l4.406-20.856 6.09 21.313c.839 2.939 3.526 4.951 6.568 4.951h20.46c3.396 0 6.274-2.489 6.752-5.845l12.508-87.596 14.874 148.683c.355 3.437 3.205 6.056 6.643 6.138h.143c3.39 0 6.274-2.489 6.752-5.845l14.227-99.599 6.397 38.362c.546 3.287 3.396 5.702 6.725 5.702h88.66c3.771 0 6.82-3.049 6.82-6.82-.001-3.772-3.05-6.821-6.821-6.821z"></path></svg>
-      </div>
-      <div class="cs_wave_second">
-        <svg enable-background="new 0 0 300.08 300.08" viewBox="0 0 300.08 300.08" xmlns="http://www.w3.org/2000/svg"><path d="m293.26 184.14h-82.877l-12.692-76.138c-.546-3.287-3.396-5.701-6.718-5.701-.034 0-.061 0-.089 0-3.369.027-6.199 2.523-6.677 5.845l-12.507 87.602-14.874-148.69c-.355-3.43-3.205-6.056-6.643-6.138-.048 0-.096 0-.143 0-3.39 0-6.274 2.489-6.752 5.852l-19.621 137.368h-9.405l-12.221-42.782c-.866-3.028-3.812-5.149-6.8-4.944-3.13.109-5.777 2.332-6.431 5.395l-8.941 42.332h-73.049c-3.771 0-6.82 3.049-6.82 6.82 0 3.778 3.049 6.82 6.82 6.82h78.566c3.219 0 6.002-2.251 6.67-5.408l4.406-20.856 6.09 21.313c.839 2.939 3.526 4.951 6.568 4.951h20.46c3.396 0 6.274-2.489 6.752-5.845l12.508-87.596 14.874 148.683c.355 3.437 3.205 6.056 6.643 6.138h.143c3.39 0 6.274-2.489 6.752-5.845l14.227-99.599 6.397 38.362c.546 3.287 3.396 5.702 6.725 5.702h88.66c3.771 0 6.82-3.049 6.82-6.82-.001-3.772-3.05-6.821-6.821-6.821z"></path></svg>
-      </div>
-    </div>
-  </div>
-  <!-- Start Header Section -->
-  <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg ">
-      <div class="cs_top_header cs_blue_bg cs_white_color copy_bg">
-        <div class="container">
-          <div class="cs_top_header_in">
-            <div class="cs_top_header_left">
-              <ul class="cs_header_contact_list cs_mp_0">
-                <li>
-                  <i class="fa-solid fa-envelope"></i>
-                  <a href="mailto:demo@example.com">leelawomenshealthcare@gmail.com</a>
-                </li>
-                <!-- <li>
-                  <i class="fa-solid fa-location-dot"></i>
-                  2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada LOT
-                </li> -->
-                <li>
-                  <i class="fa-solid fa-phone"></i>
-                  9493782298
-                </li>
-              </ul>
-            </div>
-            <div class="cs_top_header_right">
-              <div class="cs_social_btns cs_style_1">
-                <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-                <a href="#" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
-                <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="cs_main_header">
-        <div class="container">
-          <div class="cs_main_header_in">
-            <div class="cs_main_header_left">
-              <a class="cs_site_branding" href="index.php">
-                <img src="assets/img/leela womens logo.jpg.png" alt="Logo" class="img-fluid" style="width: 120px;">
-              </a>
-            </div>
-            <div class="cs_main_header_right">
-              <div class="cs_nav cs_primary_color">
-                <ul class="cs_nav_list">
-                  <li>
-                    <a href="index.php">Home</a>
-                 
-                  </li>
-                  <li><a href="about.php">About</a></li>
-               
-                  <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                      Services
-                    </a>
-                    <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:500px;">
-                      <div class="row  ">
-                        <div class="col-md-5">
-                          <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
-                          <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems </a></li>
-                          <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
-                          <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
-                        </div>
-                        <div class="col-md-5">
-                          <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
-                          <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
-                          <li><a class="dropdown-item services_drop" href="cancerscreening.php">CancerScreening</a></li>
-                          <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
-                          <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and  <br>post natal care</a>
-                             <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
-                            <div class="col-md-6">
-                              <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
-                              <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning </a></li>
-                              <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic fetal monitoring</a></li>
-                              <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational consultation</a></li>
-                            </div>
-                          </ul>
-                          </li>
-
-                        </div>
-            
-                       
-                      </div>
-                    </ul>
-                  </li>
-                  <!-- <li><a href="testimonials.">Testimonials</a></li> -->
-
-                  <li>
-                    <a href="blog.php">Blog</a>
-                
-                  </li>
-                
-                  <li><a href="contact.php">Contact</a></li>
-                </ul>
-              </div>
-         
-              <a href="appointments.php" class="text-white mb-4 mt-3">
-                <button class="make_bg">Make an Appointment </button>
-                <i class="fa-solid fa-angles-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-    <div class="cs_site_header_spacing_150"></div>
 
 
 
@@ -148,7 +13,9 @@
 
 
 
-
+<?php
+   include "./includes/header.php";
+   ?>
 
     <!-- End Header Section -->
     <!-- Start Hero Section -->
@@ -441,10 +308,10 @@
                 </div>
               </div>
               <div class="cs_about_iconbox">
-                <div class="cs_about_iconbox_icon cs_center">
+                <!-- <div class="cs_about_iconbox_icon cs_center">
                   <i class="fa-regular fa-circle-check"></i>
-                </div>
-                <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team  <a href="#">READ MORE +</a></p>
+                </div> -->
+                <!-- <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team  <a href="#">READ MORE +</a></p> -->
               </div>
               <a href="about.php" class=" ">
                <button class="contact_bg text-white">About More</button>
@@ -555,12 +422,12 @@
               <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center remove_bg">
+                <div class="cs_iconbox_icon cs_center remove_bg ">
                   <img src="assets/img/egg.png " alt=" " class="remove_bg">
                 </div>
                 <h3 class="iconbox_index">01</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">PCOD and Adolscent Clinics</a></h3>
+              <h3 class="cs_iconbox_title"><a href="">PCOD and Adolscent Clinics</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -664,19 +531,19 @@
           </div>
         </div>
         <div class="cs_service_footer">
-          <div class="cs_service_footer_icon">
+          <!-- <div class="cs_service_footer_icon">
             <img src="assets/img/icons/service_footer_icon_1.png" alt="Icon">
-          </div>
-          <div class="cs_service_footer_text cs_medium">
+          </div> -->
+          <!-- <div class="cs_service_footer_text cs_medium">
            Delivering tomorrow’s health care for your family.<br> medical this View <a href="#">SEE MORE<span> <i class="fa-solid fa-angles-right"></i></span></a>
-          </div>
+          </div> -->
         </div>
       </div>
-      <div class="cs_height_120 cs_height_lg_80"></div>
+      <!-- <div class="cs_height_120 cs_height_lg_80"></div> -->
     </section>
     <!-- End Service Section -->
     <!-- Start Team Section -->
-    <section>
+    <!-- <section>
       <div class="cs_height_110 cs_height_lg_70"></div>
       <div class="container">
         <div class="cs_section_heading cs_style_1 text-center">
@@ -787,7 +654,7 @@
       </div>
       <div class="cs_height_120 cs_height_lg_80"></div>
       <hr>
-    </section>
+    </section> -->
     <!-- End Team Section -->
     <!-- Start Brand Section -->
     <!-- <div class="cs_brands_section">
@@ -833,6 +700,58 @@
       <div class="cs_height_100 cs_height_lg_80"></div>
     </div> -->
     <!-- End Brand Section -->
+    <section class="cs_contact">
+    <div class="cs_height_110 cs_height_lg_70"></div>
+    <div class="container">
+      <div class="row cs_gap_y_30">
+        <div class="col-lg-6">
+          <div class="cs_contact_thumbnail cs_pr_40">
+            <!-- <div class="cs_teeth_shape">
+              <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
+            </div> -->
+            <div class="cs_contact_img">
+              <img src="assets/img/Untitled design (18).png" alt="Image">
+            </div>
+            <div class="cs_contact_bg_shape">
+              <div class="cs_white_bg_shape"></div>
+              <div class="cs_iconbox cs_style_4">
+                <div class="cs_iconbox_icon cs_center"><img src="assets/img/icons/call_icon_1.png" alt="Icon"></div>
+                <div class="cs_iconbox_right">
+                  <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
+                  <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="cs_section_heading cs_style_1">
+            <p class="cs_section_subtitle text">
+              <span class="cs_shape_left"></span>Bio
+            </p>
+            <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meet</h2>
+          </div>
+          <div class="cs_height_25 cs_height_lg_25"></div>
+        <p>
+        A gynecologist is a medical doctor who specializes in the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, and breasts. They diagnose and treat conditions related to women's health, pregnancy, menstruation, fertility issues, hormonal disorders, and sexually transmitted infections (STIs).
+        </p>
+        <p>
+        A gynecologist provides various services, including
+ Routine check-ups  Annual exams, including Pap smears, pelvic exams, and breast exams.
+Pregnancy and childbirth care  Monitoring pregnancy, prenatal care, and delivering babies.
+ Menstrual disorders  Treating irregular, heavy, or painful periods.
+ Fertility issues  Diagnosing and treating infertility problems.
+ Hormonal imbalances Managing menopause symptoms, polycystic ovary syndrome (PCOS), and thyroid disorders.
+ Contraception advice  Providing birth control methods like pills, IUDs, and implants.
+ Sexually transmitted infections (STIs)  Diagnosis, treatment, and prevention.
+ Gynecological surgeries  Procedures like hysterectomy, laparoscopy, and ovarian cyst removal.
+        </p>
+        </div>
+      </div>
+    </div>
+    <div class="cs_height_120 cs_height_lg_80"></div>
+  </section>
     <!-- Start Why Choose Us Section -->
     <section class="cs_gray_bg cs_bg_filed" data-src="assets/img/why/1.png">
       <div class="cs_height_110 cs_height_lg_70"></div>
@@ -1526,10 +1445,10 @@ Delivery & C-Sections: Assisting with normal and high-risk deliveries.
               </div>
             </div>
           </div>
-          <div class="cs_pagination cs_style_2"></div>
+          <!-- <div class="cs_pagination cs_style_2"></div> -->
         </div>
       </div>
-      <div class="cs_height_120 cs_height_lg_80"></div>
+      <!-- <div class="cs_height_120 cs_height_lg_80"></div> -->
     </section>
     <!-- End Blog Section -->
     <!-- Start Footer -->
@@ -1615,173 +1534,5 @@ Delivery & C-Sections: Assisting with normal and high-risk deliveries.
         </div>
       </div>
       
-    </footer> -->
-    <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
-      <div class="container">
-        <div class="cs_footer_row">
-          <div class="cs_footer_col">
-            <div class="cs_footer_highlight_col cs_accent_bg">
-              <div class="cs_footer_logo">
-                <img src="assets/img/Untitled design (17).png" alt="Logo" style="width: 300px;">
-              </div>
-              <ul class="cs_footer_contact cs_mp_0">
-                <li>
-                  <i class="fa-regular fa-clock  text-dark"></i>
-                 <p class="text-dark"> Open Hours of Government: <br>
-                  Mon - Fri: 8.00 am. - 6.00 pm.</p>
-                </li>
-                <li>
-                  <i class="fa-solid fa-location-dot  text-dark"></i>
-                  <p class="text-dark">   
-                    
-                    2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada 
-                    533003
-                  </p>
-                </li>
-              
-                <li>
-                  <i class="fa-solid fa-phone  text-dark"></i>
-                  <p class="text-dark"> 9493782298</p>
-                </li>
-              </ul>
-              <div class="cs_social_btns cs_style_1">
-                <a href="https://www.facebook.com/Leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-                <a href="https://www.youtube.com/@Leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
-                <a href="https://www.instagram.com/leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
-              </div>
-            </div>
-          </div>
-          <div class="cs_footer_col">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title text-dark">Service</h2>
-              <ul class="cs_footer_widget_nav_list cs_mp_0">
-                <li><a href="#" class=" text-dark">Home</a></li>
-                <li><a href="#" class=" text-dark">About</a></li>
-                <li><a href="#" class=" text-dark"> Service</a></li>
-                <li><a href="#"class=" text-dark">Blog</a></li>
-                <li><a href="#"class=" text-dark">contact</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="cs_footer_col">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
-              <ul class="cs_footer_widget_nav_list cs_mp_0">
-                <li><a href="#" class=" text-dark">PCOD and Adolscent clinics</a></li>
-                <li><a href="#" class=" text-dark">Menstrual Problems</a></li>
-                <li><a href="#"class=" text-dark">Infertility</a></li>
-                <li><a href="#"class=" text-dark">Preconceptional Care</a></li>
-                <li><a href="#"class=" text-dark">Menopausal clinic</a></li>
-                <li><a href="#"class=" text-dark">Well Woman Check up</a></li>
-  
-              </ul>
-            </div>
-          </div>
-          <!-- <div class="cs_footer_col">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title text-dark">Recent Posts</h2>
-              <ul class="cs_recent_post_list cs_mp_0">
-                <li>
-                  <div class="cs_recent_post">
-                    <a href="blog-details..php" class="cs_recent_post_thumb">
-                      <img src="assets/img/Untitled design (36)/1.png" alt="">
-                    </a>
-                    <div class="cs_recent_post_right">
-                      <p class="text-dark">23 jun 2024</p>
-                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details..php">We round Solution york Blog</a></h3>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div class="cs_recent_post">
-                    <a href="blog-details..php" class="cs_recent_post_thumb">
-                      <img src="assets/img/Untitled design (36)/2.png" alt="">
-                    </a>
-                    <div class="cs_recent_post_right">
-                      <p class="text-dark">20 jun 2024</p>
-                      <h3 class="cs_recent_post_title text-dark"><a href="blog-details..php">The Medical Of This Working Health</a></h3>
-                    </div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div> -->
-          <div class="cs_footer_col">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
-              <ul class="cs_footer_widget_nav_list cs_mp_0">
-                <li><a href="#" class=" text-dark">Cancer Screening</a></li>
-                <li><a href="#" class=" text-dark">All gynaecological Problems</a></li>
-                <li><a href="#"class=" text-dark">Comprehensive antenatal and post natal care</a></li>
-                <li><a href="#"class=" text-dark">High Risk Pregnancy</a></li>
-                <li><a href="#"class=" text-dark">Ultrasound scanning</a></li>
-                <li><a href="#"class=" text-dark">Electronic fetal monitoring</a></li>
-                <li><a href="#"class=" text-dark">Lactational Consulation</a></li>
-
-  
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-       <div class="cs_footer_bottom copy_bg text-white">
-        <div class="container">
-          <div class="cs_footer_bottom_in">
-          
-            <p class="cs_footer_copyright mt-3 mb-0"> 
-              <a href="terms.php">
-                Terms & Conditions
-            </a>
-                 <a href="privacy.php">
-                  Privacy & Policy
-            </a>
-          
-            </p>
-       
-            <ul class="cs_footer_menu cs_mp_0">              
-              <a href="https://bhavicreations.com/" target="_blank"
-              style="text-decoration: none; color: #ffffff; display: flex; align-items: center;">
-              <p class="mini_text last_text mb-0">
-                  Branding By @
-              </p>
-              <img src="assets/img/Bhavi_Branding_Stamp.png" class="img-fluid brand_image" alt=""
-                  style="width: 50px; height: 50px;">
-          </a>             
-             
-            </ul> 
-          </div>
-        </div>
-      </div> 
- 
-    </footer>
-    <!-- End Footer -->
- 
-
-    <!-- Start Scroll Up Button -->
-    <span class="cs_scrollup new_scrollup text-white">
-      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M0 10L1.7625 11.7625L8.75 4.7875V20H11.25V4.7875L18.225 11.775L20 10L10 0L0 10Z" fill="currentColor" />
-      </svg>
-    </span>
-    <!-- End Scroll Up Button -->
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function() {
-        const servicesDropdown = document.getElementById("servicesDropdown");
-
-        // Allow clicking on "Services"
-        // to redirect to services.php
-        servicesDropdown.addEventListener("click", function(event) {
-          window.location.href = "services.php";
-        });
-      });
-    </script>
-
-    <!-- Script -->
-    <script src="assets/js/jquery-3.6.0.min.js"></script>
-    <script src="assets/js/wow.min.js"></script>
-    <script src="assets/js/jquery.slick.min.js"></script>
-    <script src="assets/js/odometer.js"></script>
-    <script src="assets/js/main.js"></script>
-  </body>
-</html>
+      <?php include "./includes/footer.php"; 
+?>
