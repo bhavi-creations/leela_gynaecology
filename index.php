@@ -1,549 +1,406 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <?php
-   include "./includes/header.php";
-   ?>
+include "./includes/header.php";
+?>
 
-    <!-- End Header Section -->
-    <!-- Start Hero Section -->
-    <section class="position-relative">
-      <div class="cs_hero_slider_thumb slick-slider">
-        <div class="cs_hero_slider_thumb_item">
-          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/5.png">
-            <div class="container">
-              <div class="cs_hero_text">
-                <div class="cs_hero_text_in ">
-                  <!-- <h2 class="cs_hero_title text-white ">We Hospital Doctors Patients <span class="text">Service</span></h2> -->
-                  <!-- <p class="cs_hero_subtitle text-white">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p> -->
-                  <!-- <div class="cs_hero_info">
-                    <h3>Receive Medical Service.</h3>
-                    <p>Call Us at: (+2) 56 54 1453</p>
-                  </div> -->
-                  <!-- <div class="cs_hero_btns">
-                    <a href="contact.php">
-                      <button class="contact_bg">Contact Now </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                    <a href="about.php">
-                      <button class="dis_bg">Discover More  </button>
-
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                  </div> -->
-                </div>
-                <div class="cs_hero_shape">
-                  <img src="assets/img/Untitled design (41)/1.png" alt="Icon" class="cs_spinner_img">
-                </div>
-              </div>
+<!-- End Header Section -->
+<!-- Start Hero Section -->
+<!-- <section class="position-relative">
+  <div class="cs_hero_slider_thumb slick-slider">
+    <div class="cs_hero_slider_thumb_item">
+      <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/gynaecology/1.png">
+        <div class="container">
+          <div class="cs_hero_text">
+            <div class="cs_hero_text_in ">
+       
             </div>
-          </div>
-        </div>
-        <div class="cs_hero_slider_thumb_item">
-          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/6.png">
-            <div class="container">
-              <div class="cs_hero_text">
-                <!-- <div class="cs_hero_text_in">
-                  <h1 class="cs_hero_title text-white">Your Center for <br>Mental <span class="text"> Health.</span></h1>
-                  <p class="cs_hero_subtitle text-white">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p>
-                  <div class="cs_hero_info">
-                    <h3>Receive Medical Service.</h3>
-                    <p>Call Us at: (+2) 56 54 1453</p>
-                  </div>
-                  <div class="cs_hero_btns">
-                    <a href="contact.php" class="">
-                    <button class="contact_bg">Contact Now </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                    <a href="about..php" class="">
-                    <button class="dis_bg">Discover More  </button>
-
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                  </div>
-                </div> -->
-                <div class="cs_hero_shape">
-                  <img src="assets/img/icons/hero_icon.png" alt="Icon" class="cs_spinner_img">
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="cs_hero_slider_thumb_item">
-          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/1.png">
-            <div class="container">
-              <!-- <div class="cs_hero_text">
-                <div class="cs_hero_text_in">
-                  <h1 class="cs_hero_title text-white">We Hospital Doctors Patients <span>Service.</span></h1>
-                  <p class="cs_hero_subtitle text-white">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p>
-                  <div class="cs_hero_info">
-                    <h3>Receive Medical Service.</h3>
-                    <p>Call Us at: (+2) 56 54 1453</p>
-                  </div>
-                  <div class="cs_hero_btns">
-                    <a href="contact.php" >
-                    <button class="contact_bg">Contact Now </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                    <a href="about.php" class="">
-                    <button class="dis_bg">Discover More  </button>
-
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="cs_hero_shape">
-                  <img src="assets/img/icons/hero_icon.png" alt="Icon" class="cs_spinner_img">
-                </div>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="cs_hero_slider_thumb_item">
-          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/2.png">
-            <div class="container">
-              <!-- <div class="cs_hero_text">
-                <div class="cs_hero_text_in">
-                  <h1 class="cs_hero_title text-white">Your Center for <br>Mental <span>Health.</span></h1>
-                  <p class="cs_hero_subtitle text-white">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p>
-                  <div class="cs_hero_info">
-                    <h3>Receive Medical Service.</h3>
-                    <p>Call Us at: (+2) 56 54 1453</p>
-                  </div>
-                  <div class="cs_hero_btns">
-                    <a href="contact.php" class="">
-                    <button class="contact_bg">Contact Now </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                    <a href="about.php" class="">
-                    <button class="dis_bg">Discover More  </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="cs_hero_shape">
-                  <img src="assets/img/icons/hero_icon.png" alt="Icon" class="cs_spinner_img">
-                </div>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="cs_hero_slider_thumb_item">
-          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/3.png">
-            <div class="container">
-              <!-- <div class="cs_hero_text">
-                <div class="cs_hero_text_in">
-                  <h1 class="cs_hero_title text-white">We Hospital Doctors Patients <span>Service.</span></h1>
-                  <p class="cs_hero_subtitle text-white">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p>
-                  <div class="cs_hero_info">
-                    <h3>Receive Medical Service.</h3>
-                    <p>Call Us at: (+2) 56 54 1453</p>
-                  </div>
-                  <div class="cs_hero_btns">
-                    <a href="contact.php" class="">
-                    <button class="contact_bg">Contact Now </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                    <a href="about.php" class="">
-                    <button class="dis_bg">Discover More  </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="cs_hero_shape">
-                  <img src="assets/img/icons/hero_icon.png" alt="Icon" class="cs_spinner_img">
-                </div>
-              </div> -->
-            </div>
-          </div>
-        </div>
-        <div class="cs_hero_slider_thumb_item">
-          <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/4.png">
-            <div class="container">
-              <!-- <div class="cs_hero_text">
-                <div class="cs_hero_text_in">
-                  <h1 class="cs_hero_title text-white">Your Center for <br>Mental <span>Health.</span></h1>
-                  <p class="cs_hero_subtitle text-white">Medical ers piciatis unde omnis iste natus this the word medical this mountains, far from the countries Vokalia and, live the docor white teeth sitting on a dental for best medical.</p>
-                  <div class="cs_hero_info">
-                    <h3>Receive Medical Service.</h3>
-                    <p>Call Us at: (+2) 56 54 1453</p>
-                  </div>
-                  <div class="cs_hero_btns">
-                    <a href="contact.php" class="">
-                    <button class="contact_bg">Contact Now </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                    <a href="about.php" class="">
-                    <button class="dis_bg">Discover More  </button>
-                      <i class="fa-solid fa-angles-right"></i>
-                    </a>
-                  </div>
-                </div>
-                <div class="cs_hero_shape">
-                  <img src="assets/img/icons/hero_icon.png" alt="Icon" class="cs_spinner_img">
-                </div>
-              </div> -->
+            <div class="cs_hero_shape">
+              <img src="assets/img/Untitled design (41)/1.png" alt="Icon" class="cs_spinner_img">
             </div>
           </div>
         </div>
       </div>
-      <div class="cs_hero_slider_nav slick-slider">
-        <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (42)/1.png" alt="">
-        </div>
-        <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (42)/2.png" alt="">
-        </div>
-        <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (42)/3.png" alt="">
-        </div>
-        <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (42)/4.png" alt="">
-        </div>
-        <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (42)/1.png" alt="">
-        </div>
-        <div class="cs_hero_slider_thumb_mini">
-          <img src="assets/img/Untitled design (42)/2.png" alt="">
-        </div>
-      </div>
-    </section>
-    <!-- End Hero Section -->
-    <!-- Start CTA Section -->
-    <section class="cs_cta cs_style_1 copy_bg  position-relative overflow-hidden">
-      <div class="container">
-        <div class="cs_cta_in">
-          <div class="cs_cta_left">
-            <div class="cs_cta_thumb wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
-              <img src="assets/img/Untitled design (11).png" alt="">
-            </div>
-            <div class="cs_cta_info">
-              <h2 class="cs_cta_title">Meet The Team Support Medical Service. </h2>
-              <p class="cs_cta_subtitle">For us, there are no minor aspects, because a quality</p>
+    </div>
+    <div class="cs_hero_slider_thumb_item">
+      <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/6.png">
+        <div class="container">
+          <div class="cs_hero_text">
+           
+            <div class="cs_hero_shape">
+              <img src="assets/img/icons/hero_icon.png" alt="Icon" class="cs_spinner_img">
             </div>
           </div>
-          <div class="cs_cta_right">
-            <a href="appointments.php" class="cs_btn cs_style_1 cs_color_3">
-              <span>Booking Now </span>
-              <i class="fa-solid fa-angles-right"></i>
+        </div>
+      </div>
+    </div>
+    <div class="cs_hero_slider_thumb_item">
+      <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/1.png">
+        <div class="container">
+         
+        </div>
+      </div>
+    </div>
+    <div class="cs_hero_slider_thumb_item">
+      <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/2.png">
+        <div class="container">
+        
+        </div>
+      </div>
+    </div>
+    <div class="cs_hero_slider_thumb_item">
+      <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/3.png">
+        <div class="container">
+         
+        </div>
+      </div>
+    </div>
+    <div class="cs_hero_slider_thumb_item">
+      <div class="cs_hero cs_style_1 cs_center cs_bg_filed" data-src="assets/img/slides/4.png">
+        <div class="container">
+         
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="cs_hero_slider_nav slick-slider">
+    <div class="cs_hero_slider_thumb_mini">
+      <img src="assets/img/Untitled design (42)/1.png" alt="">
+    </div>
+    <div class="cs_hero_slider_thumb_mini">
+      <img src="assets/img/Untitled design (42)/2.png" alt="">
+    </div>
+    <div class="cs_hero_slider_thumb_mini">
+      <img src="assets/img/Untitled design (42)/3.png" alt="">
+    </div>
+    <div class="cs_hero_slider_thumb_mini">
+      <img src="assets/img/Untitled design (42)/4.png" alt="">
+    </div>
+    <div class="cs_hero_slider_thumb_mini">
+      <img src="assets/img/Untitled design (42)/1.png" alt="">
+    </div>
+    <div class="cs_hero_slider_thumb_mini">
+      <img src="assets/img/Untitled design (42)/2.png" alt="">
+    </div>
+  </div>
+</section> -->
+
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+    <img src="assets/img/gynaecology/3.png" class="d-block w-100 img-fluid" alt="...">      <!-- <div class="carousel-caption d-none d-md-block">
+        <h5>First slide label</h5>
+        <p>Some representative placeholder content for the first slide.</p>
+      </div> -->
+    </div>
+    <div class="carousel-item">
+    <img src="assets/img/gynaecology/5.png" class="d-block w-100 img-fluid" alt="...">      <!-- <div class="carousel-caption d-none d-md-block">
+        <h5>Second slide label</h5>
+        <p>Some representative placeholder content for the second slide.</p>
+      </div> -->
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/gynaecology/1.png" class="d-block w-100 img-fluid" alt="...">
+    
+    </div>
+    <div class="carousel-item">
+    <img src="assets/img/gynaecology/2.png" class="d-block w-100 img-fluid" alt="...">     
+    </div>
+    <div class="carousel-item">
+    <img src="assets/img/gynaecology/6.png" class="d-block w-100 img-fluid" alt="...">  
+    </div>
+    <div class="carousel-item">
+    <img src="assets/img/gynaecology/4.png" class="d-block w-100 img-fluid" alt="...">   
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+
+
+
+
+<section class="cs_cta cs_style_1 copy_bg  position-relative overflow-hidden">
+  <div class="container">
+    <div class="cs_cta_in">
+      <div class="cs_cta_left">
+        <div class="cs_cta_thumb wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
+          <img src="assets/img/Untitled design (11).png" alt="">
+        </div>
+        <div class="cs_cta_info">
+          <h2 class="cs_cta_title">Meet The Team Support Medical Service. </h2>
+          <p class="cs_cta_subtitle">For us, there are no minor aspects, because a quality</p>
+        </div>
+      </div>
+      <div class="cs_cta_right">
+        <a href="appointments.php" class="cs_btn cs_style_1 cs_color_3">
+          <span>Booking Now </span>
+          <i class="fa-solid fa-angles-right"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="cs_cta_shape"></div>
+</section>
+
+<section class="cs_about cs_style_1 position-relative">
+  <div class="cs_height_120 cs_height_lg_80"></div>
+  <div class="container">
+    <div class="row align-items-center cs_gap_y_40">
+      <div class="col-lg-6">
+        <div class="cs_about_thumb">
+          <div class="cs_about_thumb_1">
+            <img src="assets/img/Untitled design (1).png" alt="">
+            <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
+              <span class="cs_player_btn cs_center">
+                <span></span>
+              </span>
+              <span class="cs_about_play_btn_text">How We Work</span>
             </a>
           </div>
-        </div>
-      </div>
-      <div class="cs_cta_shape"></div>
-    </section>
-    <!-- End CTA Section -->
-    <!-- Start About Section -->
-    <section class="cs_about cs_style_1 position-relative">
-      <div class="cs_height_120 cs_height_lg_80"></div>
-      <div class="container">
-        <div class="row align-items-center cs_gap_y_40">
-          <div class="col-lg-6">
-            <div class="cs_about_thumb">
-              <div class="cs_about_thumb_1">
-                <img src="assets/img/Untitled design (1).png" alt="">
-                <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
-                  <span class="cs_player_btn cs_center">
-                    <span></span>
-                  </span>
-                  <span class="cs_about_play_btn_text">How We Work</span>
-                </a>
-              </div>
-              <div class="cs_about_thumb_2">
-                <img src="assets/img/Untitled design (4).png" alt="About Image">
-                <!-- <img src="assets/img/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2 "> -->
-                <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
+          <div class="cs_about_thumb_2">
+            <img src="assets/img/Untitled design (4).png" alt="About Image">
+            <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
 
-              </div>
-              <div class="cs_experience_box cs_center">
-                <p class="cs_experience_box_number">26+</p>
-                <p class="cs_experience_box_title">Experience</p>
-              </div>
-            </div>
           </div>
-          <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.9s" data-wow-delay="0.25s">
-            <div class="cs_about_content">
-              <div class="cs_section_heading cs_style_1">
-                <p class="cs_section_subtitle text ">
-                  <span class="cs_shape_left  "></span>
-                  OUR ABOUT US
-                </p>
-                <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
-              </div>
-              <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
-              <div class="row cs_gap_y_30">
-                <div class="col-sm-6">
-                  <div class="cs_iconbox cs_style_1">
-                    <div class="cs_iconbox_head">
-                      <div class="cs_iconbox_icon cs_center text">
-                        <img src="assets/img/icons/about_icon_1.png" alt="" class="text">
-                      </div>
-                      <h3 class="cs_iconbox_title m-0">Client Support</h3>
-                    </div>
-                    <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
-                  </div>
-                </div>
-                <div class="col-sm-6">
-                  <div class="cs_iconbox cs_style_1">
-                    <div class="cs_iconbox_head">
-                      <div class="cs_iconbox_icon cs_center">
-                        <img src="assets/img/icons/about_icon_2.png" alt="">
-                      </div>
-                      <h3 class="cs_iconbox_title m-0">Doctor Support</h3>
-                    </div>
-                    <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
-                  </div>
-                </div>
-              </div>
-              <div class="cs_about_iconbox">
-                <!-- <div class="cs_about_iconbox_icon cs_center">
-                  <i class="fa-regular fa-circle-check"></i>
-                </div> -->
-                <!-- <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team  <a href="#">READ MORE +</a></p> -->
-              </div>
-              <a href="about.php" class=" ">
-               <button class="contact_bg text-white">About More</button>
-                <!-- <i class="fa-solid fa-angles-right"></i> -->
-              </a>
-            </div>
+          <div class="cs_experience_box cs_center">
+            <p class="cs_experience_box_number">26+</p>
+            <p class="cs_experience_box_title">Experience</p>
           </div>
         </div>
       </div>
-      <div class="cs_section_img"><img src="assets/img/about_section_img_1.png" alt=""></div>
-      <div class="cs_height_120 cs_height_lg_80"></div>
-    </section>
-    <!-- End About Section -->
-    <!-- Start Counter -->
-    <!-- <div class="cs_counter_area ">
-      <div class="container">
-        <div class="cs_counter_content ">
-          <div class="cs_counter_shape position-absolute new_color">
-            <img src="assets/img/counter_shape.png" alt="Shape" >
-          </div>
-          <div class="cs_counter_1_wrap">
-            <div class="cs_counter cs_style_1">
-              <div class="cs_counter_icon cs_center">
-                <img src="assets/img/icons/counter_icon_1.png" alt="Icon">
-              </div>
-              <div class="cs_counter_nmber"><span data-count-to="567" class="odometer"></span>+</div>
-              <p class="cs_counter_title mb-0">Active Clients</p>
-            </div>
-            <div class="cs_counter cs_style_1">
-              <div class="cs_counter_icon cs_center">
-                <img src="assets/img/icons/counter_icon_2.png" alt="Icon">
-              </div>
-              <div class="cs_counter_nmber"><span data-count-to="23" class="odometer"></span>K+</div>
-              <p class="cs_counter_title mb-0">Team Support</p>
-            </div>
-            <div class="cs_counter cs_style_1">
-              <div class="cs_counter_icon cs_center">
-                <img src="assets/img/icons/counter_icon_3.png" alt="Icon">
-              </div>
-              <div class="cs_counter_nmber"><span data-count-to="241" class="odometer"></span>+</div>
-              <p class="cs_counter_title mb-0">Projects Complite</p>
-            </div>
-            <div class="cs_counter cs_style_1">
-              <div class="cs_counter_icon cs_center">
-                <img src="assets/img/icons/counter_icon_4.png" alt="Icon">
-              </div>
-              <div class="cs_counter_nmber"><span data-count-to="16" class="odometer"></span>K+</div>
-              <p class="cs_counter_title mb-0">Award winner</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
-    <!-- End Counter -->
-    <div class="cs_counter_area_2 ">
-      <div class="container">
-        <div class="cs_counter_2_wrap new_color">
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center ">
-              <img src="assets/img/icons/counter_icon_1.png" alt="Icon">
-            </div>
-            <div class="cs_counter_nmber text-white"><span data-count-to="567" class="odometer"></span>+</div>
-            <p class="cs_counter_title mb-0 text-white">Active Clients</p>
-          </div>
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
-              <img src="assets/img/icons/counter_icon_2.png" alt="Icon">
-            </div>
-            <div class="cs_counter_nmber text-white"><span data-count-to="23" class="odometer"></span>K+</div>
-            <p class="cs_counter_title mb-0 text-white">Team Support</p>
-          </div>
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
-              <img src="assets/img/icons/counter_icon_3.png" alt="Icon">
-            </div>
-            <div class="cs_counter_nmber text-white"><span data-count-to="241" class="odometer"></span>+</div>
-            <p class="cs_counter_title mb-0 text-white">Projects Completed</p>
-          </div>
-          <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
-              <img src="assets/img/icons/counter_icon_4.png" alt="Icon">
-            </div>
-            <div class="cs_counter_nmber text-white"><span data-count-to="16" class="odometer"></span>K+</div>
-            <p class="cs_counter_title mb-0 text-white">Award winner</p>
-          </div>
-        </div>
-      </div>
-      <div class="cs_height_120 cs_height_lg_80"></div>
-    </div>
-    <!-- Start Service Section -->
-    <section class="cs_gray_bg">
-      <div class="cs_height_110 cs_height_lg_70"></div>
-      <div class="container">
-        <div class="cs_section_heading cs_style_1 cs_type_1">
-          <div class="cs_section_heading_left">
-            <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
-              <span class="cs_shape_left"></span>
-              OUR BEST SERVICE
+      <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.9s" data-wow-delay="0.25s">
+        <div class="cs_about_content">
+          <div class="cs_section_heading cs_style_1">
+            <p class="cs_section_subtitle text ">
+              <span class="cs_shape_left  "></span>
+              OUR ABOUT US
             </p>
-            <h2 class="cs_section_title">High-Quality Services This Doctor</h2>
           </div>
-          <div class="cs_section_heading_right">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.</div>
-        </div>
-        <div class="cs_height_50 cs_height_lg_50"></div>
-        <div class="row cs_row_gap_30 cs_gap_y_30">
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center remove_bg ">
-                  <img src="assets/img/egg.png " alt=" " class="remove_bg">
+          <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
+          <div class="row cs_gap_y_30">
+            <div class="col-sm-6">
+              <div class="cs_iconbox cs_style_1">
+                <div class="cs_iconbox_head">
+                  <div class="cs_iconbox_icon cs_center text">
+                    <img src="assets/img/icons/about_icon_1.png" alt="" class="text">
+                  </div>
+                  <h3 class="cs_iconbox_title m-0">Client Support</h3>
                 </div>
-                <h3 class="iconbox_index">01</h3>
+                <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
               </div>
-              <h3 class="cs_iconbox_title"><a href="">PCOD and Adolscent Clinics</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+            </div>
+            <div class="col-sm-6">
+              <div class="cs_iconbox cs_style_1">
+                <div class="cs_iconbox_head">
+                  <div class="cs_iconbox_icon cs_center">
+                    <img src="assets/img/icons/about_icon_2.png" alt="">
+                  </div>
+                  <h3 class="cs_iconbox_title m-0">Doctor Support</h3>
+                </div>
+                <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
+              </div>
             </div>
           </div>
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_2.png" alt="Service Icon">
-                </div>
-                <h3 class="iconbox_index">02</h3>
-              </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Menstrual Problems</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
-            </div>
+          <div class="cs_about_iconbox">
           </div>
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/pregnancy-test.png" alt="Service Icon" class="icon">
-                </div>
-                <h3 class="iconbox_index">03</h3>
-              </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Infertility</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_4.png" alt="Service Icon">
-                </div>
-                <h3 class="iconbox_index">04</h3>
-              </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Preconceptional Care</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_5.png" alt="Service Icon">
-                </div>
-                <h3 class="iconbox_index">05</h3>
-              </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Menopausal Clinic</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_6.png" alt="Service Icon">
-                </div>
-                <h3 class="iconbox_index">06</h3>
-              </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Well Women Check up</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_7.png" alt="Service Icon">
-                </div>
-                <h3 class="iconbox_index">07</h3>
-              </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Cancer Screening</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
-            </div>
-          </div>
-          <div class="col-xl-3 col-lg-3 col-sm-6">
-            <div class="cs_iconbox cs_style_2 cs_radius_15">
-              <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-              <div class="cs_iconbox_shape"></div>
-              <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-                <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_8.png" alt="Service Icon">
-                </div>
-                <h3 class="iconbox_index">08</h3>
-              </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">All gynaecological problems</a></h3>
-              <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
-            </div>
-          </div>
-        </div>
-        <div class="cs_service_footer">
-          <!-- <div class="cs_service_footer_icon">
-            <img src="assets/img/icons/service_footer_icon_1.png" alt="Icon">
-          </div> -->
-          <!-- <div class="cs_service_footer_text cs_medium">
-           Delivering tomorrow’s health care for your family.<br> medical this View <a href="#">SEE MORE<span> <i class="fa-solid fa-angles-right"></i></span></a>
-          </div> -->
+          <a href="about.php" class=" ">
+            <button class="contact_bg text-white">About More</button>
+         
+          </a>
         </div>
       </div>
-      <!-- <div class="cs_height_120 cs_height_lg_80"></div> -->
-    </section>
-    <!-- End Service Section -->
-    <!-- Start Team Section -->
-    <!-- <section>
+    </div>
+  </div>
+  <div class="cs_section_img"><img src="assets/img/about_section_img_1.png" alt=""></div>
+  <div class="cs_height_120 cs_height_lg_80"></div>
+</section>
+
+<div class="cs_counter_area_2 ">
+  <div class="container">
+    <div class="cs_counter_2_wrap new_color">
+      <div class="cs_counter cs_style_2">
+        <div class="cs_counter_icon cs_center ">
+          <img src="assets/img/icons/counter_icon_1.png" alt="Icon">
+        </div>
+        <div class="cs_counter_nmber text-white"><span data-count-to="567" class="odometer"></span>+</div>
+        <p class="cs_counter_title mb-0 text-white">Active Clients</p>
+      </div>
+      <div class="cs_counter cs_style_2">
+        <div class="cs_counter_icon cs_center">
+          <img src="assets/img/icons/counter_icon_2.png" alt="Icon">
+        </div>
+        <div class="cs_counter_nmber text-white"><span data-count-to="23" class="odometer"></span>K+</div>
+        <p class="cs_counter_title mb-0 text-white">Team Support</p>
+      </div>
+      <div class="cs_counter cs_style_2">
+        <div class="cs_counter_icon cs_center">
+          <img src="assets/img/icons/counter_icon_3.png" alt="Icon">
+        </div>
+        <div class="cs_counter_nmber text-white"><span data-count-to="241" class="odometer"></span>+</div>
+        <p class="cs_counter_title mb-0 text-white">Projects Completed</p>
+      </div>
+      <div class="cs_counter cs_style_2">
+        <div class="cs_counter_icon cs_center">
+          <img src="assets/img/icons/counter_icon_4.png" alt="Icon">
+        </div>
+        <div class="cs_counter_nmber text-white"><span data-count-to="16" class="odometer"></span>K+</div>
+        <p class="cs_counter_title mb-0 text-white">Award winner</p>
+      </div>
+    </div>
+  </div>
+  <div class="cs_height_120 cs_height_lg_80"></div>
+</div>
+
+<section class="cs_gray_bg">
+  <div class="cs_height_110 cs_height_lg_70"></div>
+  <div class="container">
+    <div class="cs_section_heading cs_style_1 cs_type_1">
+      <div class="cs_section_heading_left">
+        <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
+          <span class="cs_shape_left"></span>
+          OUR BEST SERVICE
+        </p>
+        <h2 class="cs_section_title">High-Quality Services This Doctor</h2>
+      </div>
+      <div class="cs_section_heading_right">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.</div>
+    </div>
+    <div class="cs_height_50 cs_height_lg_50"></div>
+    <div class="row cs_row_gap_30 cs_gap_y_30">
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <!-- <div class="cs_iconbox_shape"></div> -->
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center remove_bg ">
+              <!-- <img src="assets/img/egg.png " alt=" " class="remove_bg"> -->
+            </div>
+            <h3 class="iconbox_index">01</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Specialized care for PCOD and adolescent health to ensure balanced hormones and well-being</p>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <!-- <img src="assets/img/icons/service_icon_2.png" alt="Service Icon"> -->
+            </div>
+            <h3 class="iconbox_index">02</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Effective diagnosis and treatment for menstrual health and wellness.</p>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <!-- <img src="assets/img/pregnancy-test.png" alt="Service Icon" class="icon"> -->
+            </div>
+            <h3 class="iconbox_index">03</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Expert care and treatments to support fertility and conception</p>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <!-- <img src="assets/img/icons/service_icon_4.png" alt="Service Icon"> -->
+            </div>
+            <h3 class="iconbox_index">04</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Guiding women toward a healthy pregnancy with expert preconception care</p>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <!-- <img src="assets/img/icons/service_icon_5.png" alt="Service Icon"> -->
+            </div>
+            <h3 class="iconbox_index">05</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Comprehensive care for a smooth and healthy menopause transition</p>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <!-- <img src="assets/img/icons/service_icon_6.png" alt="Service Icon"> -->
+            </div>
+            <h3 class="iconbox_index">06</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Comprehensive health screening to ensure women's overall well-being.</p>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <!-- <img src="assets/img/icons/service_icon_7.png" alt="Service Icon"> -->
+            </div>
+            <h3 class="iconbox_index">07</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Early detection and prevention through advanced cancer screening</p>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
+            </div>
+            <h3 class="iconbox_index">08</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Comprehensive care and treatment for all gynaecological concerns</p>
+        </div>
+      </div>
+    </div>
+    <div class="cs_service_footer">
+     
+    </div>
+  </div>
+
+</section>
+<!-- End Service Section -->
+<!-- Start Team Section -->
+<!-- <section>
       <div class="cs_height_110 cs_height_lg_70"></div>
       <div class="container">
         <div class="cs_section_heading cs_style_1 text-center">
@@ -655,9 +512,9 @@
       <div class="cs_height_120 cs_height_lg_80"></div>
       <hr>
     </section> -->
-    <!-- End Team Section -->
-    <!-- Start Brand Section -->
-    <!-- <div class="cs_brands_section">
+<!-- End Team Section -->
+<!-- Start Brand Section -->
+<!-- <div class="cs_brands_section">
       <div class="cs_height_90 cs_height_lg_70"></div>
       <div class="container">
         <div class="cs_slider cs_style_1 cs_slider_gap_24">
@@ -699,141 +556,142 @@
       </div>
       <div class="cs_height_100 cs_height_lg_80"></div>
     </div> -->
-    <!-- End Brand Section -->
-    <section class="cs_contact">
-    <div class="cs_height_110 cs_height_lg_70"></div>
-    <div class="container">
-      <div class="row cs_gap_y_30">
-        <div class="col-lg-6">
-          <div class="cs_contact_thumbnail cs_pr_40">
-            <!-- <div class="cs_teeth_shape">
+<!-- End Brand Section -->
+<section class="cs_contact">
+  <div class="cs_height_110 cs_height_lg_70"></div>
+  <div class="container">
+    <div class="row cs_gap_y_30">
+      <div class="col-lg-6">
+        <div class="cs_contact_thumbnail cs_pr_40">
+          <!-- <div class="cs_teeth_shape">
               <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
             </div> -->
-            <div class="cs_contact_img">
-              <img src="assets/img/Untitled design (18).png" alt="Image">
-            </div>
-            <div class="cs_contact_bg_shape">
-              <div class="cs_white_bg_shape"></div>
-              <div class="cs_iconbox cs_style_4">
-                <div class="cs_iconbox_icon cs_center"><img src="assets/img/icons/call_icon_1.png" alt="Icon"></div>
-                <div class="cs_iconbox_right">
-                  <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
-                  <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
-                </div>
+          <div class="cs_contact_img">
+            <img src="assets/img/Untitled design (18).png" alt="Image">
+          </div>
+          <div class="cs_contact_bg_shape">
+            <div class="cs_white_bg_shape"></div>
+            <div class="cs_iconbox cs_style_4">
+              <div class="cs_iconbox_icon cs_center"><img src="assets/img/icons/call_icon_1.png" alt="Icon"></div>
+              <div class="cs_iconbox_right">
+                <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
+                <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
               </div>
             </div>
+          </div>
 
-          </div>
         </div>
-        <div class="col-lg-6">
-          <div class="cs_section_heading cs_style_1">
-            <p class="cs_section_subtitle text">
-              <span class="cs_shape_left"></span>Bio
-            </p>
-            <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meet</h2>
+      </div>
+      <div class="col-lg-6">
+        <div class="cs_section_heading cs_style_1">
+          <p class="cs_section_subtitle text">
+            <span class="cs_shape_left"></span>Bio
+          </p>
+          <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meet</h2>
+        </div>
+        <div class="cs_height_25 cs_height_lg_25"></div>
+        <p>
+          A gynecologist is a medical doctor who specializes in the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, and breasts. They diagnose and treat conditions related to women's health, pregnancy, menstruation, fertility issues, hormonal disorders, and sexually transmitted infections (STIs).
+        </p>
+        <p>
+          A gynecologist provides various services, including
+          Routine check-ups Annual exams, including Pap smears, pelvic exams, and breast exams.
+          Pregnancy and childbirth care Monitoring pregnancy, prenatal care, and delivering babies.
+          Menstrual disorders Treating irregular, heavy, or painful periods.
+          Fertility issues Diagnosing and treating infertility problems.
+          Hormonal imbalances Managing menopause symptoms, polycystic ovary syndrome (PCOS), and thyroid disorders.
+          Contraception advice Providing birth control methods like pills, IUDs, and implants.
+          Sexually transmitted infections (STIs) Diagnosis, treatment, and prevention.
+          Gynecological surgeries Procedures like hysterectomy, laparoscopy, and ovarian cyst removal.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="cs_height_120 cs_height_lg_80"></div>
+</section>
+<!-- Start Why Choose Us Section -->
+<section class="cs_gray_bg cs_bg_filed section_content" data-src="assets/img/why/1.png">
+  <div class="cs_height_110 cs_height_lg_70"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="cs_section_heading cs_style_1">
+          <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
+            <span class="cs_shape_left"></span> WHY CHOOSE US
+          </p>
+          <h2 class="cs_section_title text-white">Medical Ready To Get This <br><span class=""> Health Solution.</span></h2>
+        </div>
+        <div class="cs_height_50 cs_height_lg_50"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xxl-7 col-xl-8 col-lg-9">
+        <div class="cs_service_wrapper">
+          <div class="cs_service_list">
+            <div class="cs_iconbox cs_style_3">
+              <div class="cs_iconbox_icon cs_center cs_radius_5">
+                <img src="assets/img/icons/service_icon_9.png" alt="Icon">
+              </div>
+              <div class="cs_iconbox_text">
+                <h3 class="cs_iconbox_title text-white">Service & Check </h3>
+                <p class="cs_iconbox_subtitle text-white">Comprehensive service and checkups for optimal gynaecological health.</p>
+              </div>
+            </div>
+            <div class="cs_iconbox cs_style_3">
+              <div class="cs_iconbox_icon cs_center cs_radius_5">
+                <img src="assets/img/icons/service_icon_10.png" alt="Icon">
+              </div>
+              <div class="cs_iconbox_text">
+                <h3 class="cs_iconbox_title text-white">Medical Advices </h3>
+                <p class="cs_iconbox_subtitle text-white">Expert medical advice for women's reproductive health and wellness</p>
+              </div>
+            </div>
+            <!-- <div class="cs_iconbox cs_style_3">
+                            <div class="cs_iconbox_icon cs_center cs_radius_5">
+                                <img src="assets/img/icons/service_icon_11.png" alt="Icon">
+                            </div>
+                            <div class="cs_iconbox_text">
+                                <h3 class="cs_iconbox_title text-white">Emergency Help</h3>
+                                <p class="cs_iconbox_subtitle text-white">Immediate emergency assistance for critical gynaecological health concerns.</p>
+                            </div>
+                        </div> -->
+            <div class="cs_iconbox cs_style_3">
+              <div class="cs_iconbox_icon cs_center cs_radius_5">
+                <img src="assets/img/icons/service_icon_12.png" alt="Icon">
+              </div>
+              <div class="cs_iconbox_text">
+                <h3 class="cs_iconbox_title text-white">Medical Research </h3>
+                <p class="cs_iconbox_subtitle text-white">Advancing gynaecological care through innovative medical research and studies.</p>
+              </div>
+            </div>
+            <div class="cs_iconbox cs_style_3">
+              <div class="cs_iconbox_icon cs_center cs_radius_5">
+                <img src="assets/img/icons/service_icon_13.png" alt="Icon">
+              </div>
+              <div class="cs_iconbox_text">
+                <h3 class="cs_iconbox_title text-white">Qualified Doctor</h3>
+                <p class="cs_iconbox_subtitle text-white">Experienced qualified doctor offering specialized care for women’s health.</p>
+              </div>
+            </div>
+            <!-- <div class="cs_iconbox cs_style_3">
+                            <div class="cs_iconbox_icon cs_center cs_radius_5">
+                                <img src="assets/img/icons/service_icon_14.png" alt="Icon">
+                            </div>
+                            <div class="cs_iconbox_text">
+                                <h3 class="cs_iconbox_title text-white">Affordable Prices</h3>
+                                <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
+                            </div>
+                        </div> -->
           </div>
-          <div class="cs_height_25 cs_height_lg_25"></div>
-        <p>
-        A gynecologist is a medical doctor who specializes in the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, and breasts. They diagnose and treat conditions related to women's health, pregnancy, menstruation, fertility issues, hormonal disorders, and sexually transmitted infections (STIs).
-        </p>
-        <p>
-        A gynecologist provides various services, including
- Routine check-ups  Annual exams, including Pap smears, pelvic exams, and breast exams.
-Pregnancy and childbirth care  Monitoring pregnancy, prenatal care, and delivering babies.
- Menstrual disorders  Treating irregular, heavy, or painful periods.
- Fertility issues  Diagnosing and treating infertility problems.
- Hormonal imbalances Managing menopause symptoms, polycystic ovary syndrome (PCOS), and thyroid disorders.
- Contraception advice  Providing birth control methods like pills, IUDs, and implants.
- Sexually transmitted infections (STIs)  Diagnosis, treatment, and prevention.
- Gynecological surgeries  Procedures like hysterectomy, laparoscopy, and ovarian cyst removal.
-        </p>
         </div>
       </div>
     </div>
-    <div class="cs_height_120 cs_height_lg_80"></div>
-  </section>
-    <!-- Start Why Choose Us Section -->
-    <section class="cs_gray_bg cs_bg_filed" data-src="assets/img/why/1.png">
-      <div class="cs_height_110 cs_height_lg_70"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8">
-            <div class="cs_section_heading cs_style_1">
-              <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s"><span class="cs_shape_left"></span> WHY CHOOSE US</p>
-              <h2 class="cs_section_title text-white">Medical Ready To Get This <br><span class=""> Health Solution.</span></h2>
-            </div>
-            <div class="cs_height_50 cs_height_lg_50"></div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xxl-7 col-xl-8 col-lg-9">
-            <div class="cs_service_wrapper">
-              <div class="cs_service_list">
-                <div class="cs_iconbox cs_style_3">
-                  <div class="cs_iconbox_icon cs_center cs_radius_5">
-                    <img src="assets/img/icons/service_icon_9.png" alt="Icon">
-                  </div>
-                  <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title text-white">Service & Check </h3>
-                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
-                  </div>
-                </div>
-                <div class="cs_iconbox cs_style_3">
-                  <div class="cs_iconbox_icon cs_center cs_radius_5">
-                    <img src="assets/img/icons/service_icon_10.png" alt="Icon">
-                  </div>
-                  <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title text-white">Medical Advices </h3>
-                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
-                  </div>
-                </div>
-                <div class="cs_iconbox cs_style_3">
-                  <div class="cs_iconbox_icon cs_center cs_radius_5">
-                    <img src="assets/img/icons/service_icon_11.png" alt="Icon">
-                  </div>
-                  <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title text-white">Emergency Help</h3>
-                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
-                  </div>
-                </div>
-                <div class="cs_iconbox cs_style_3">
-                  <div class="cs_iconbox_icon cs_center cs_radius_5">
-                    <img src="assets/img/icons/service_icon_12.png" alt="Icon">
-                  </div>
-                  <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title text-white">Medical Research </h3>
-                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
-                  </div>
-                </div>
-                <div class="cs_iconbox cs_style_3">
-                  <div class="cs_iconbox_icon cs_center cs_radius_5">
-                    <img src="assets/img/icons/service_icon_13.png" alt="Icon">
-                  </div>
-                  <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title text-white">Qualified Doctors</h3>
-                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
-                  </div>
-                </div>
-                <div class="cs_iconbox cs_style_3">
-                  <div class="cs_iconbox_icon cs_center cs_radius_5">
-                    <img src="assets/img/icons/service_icon_14.png" alt="Icon">
-                  </div>
-                  <div class="cs_iconbox_text">
-                    <h3 class="cs_iconbox_title text-white">Affordable Prices</h3>
-                    <p class="cs_iconbox_subtitle text-white">Medical competitor research startup to financial</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
-          </div>
-        </div>
-      </div>
-      <div class="cs_height_120 cs_height_lg_80"></div>
-    </section>
-    <!-- End Why Choose Us Section -->
-    <!-- Start Projects Section -->
-    <!-- <section class="cs_tabs">
+  </div>
+  <div class="cs_height_120 cs_height_lg_80"></div>
+</section>
+<!-- End Why Choose Us Section -->
+<!-- Start Projects Section -->
+<!-- <section class="cs_tabs">
       <div class="cs_height_110 cs_height_lg_70"></div>
       <div class="container">
         <div class="cs_section_heading cs_style_1 cs_type_1">
@@ -1042,9 +900,9 @@ Pregnancy and childbirth care  Monitoring pregnancy, prenatal care, and deliveri
       <div class="cs_height_90 cs_height_lg_50"></div>
       <hr>
     </section> -->
-    <!-- End Projects Section -->
-    <!-- Start CTA Section -->
-    <!-- <section class="cs_cta cs_style_2 cs_blue_bg cs_bg_filed cs_center" data-src="assets/img/cta_bg_1.jpeg">
+<!-- End Projects Section -->
+<!-- Start CTA Section -->
+<!-- <section class="cs_cta cs_style_2 cs_blue_bg cs_bg_filed cs_center" data-src="assets/img/cta_bg_1.jpeg">
       <div class="container">
         <div class="row align-items-center cs_gap_y_40">
           <div class="col-lg-6">
@@ -1077,462 +935,472 @@ Pregnancy and childbirth care  Monitoring pregnancy, prenatal care, and deliveri
         </div>
       </div>
     </section> -->
-    <!-- End CTA Section -->
-    <!-- Start Medical Tab Section -->
-    <section>
-      <div class="cs_height_110 cs_height_lg_70"></div>
-      <div class="container">
-        <div class="cs_section_heading cs_style_1 text-center">
-          <p class="cs_section_subtitle text wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
-            <span class="cs_shape_left"></span class="">Service Offerings<span class="cs_shape_right"></span>
+<!-- End CTA Section -->
+<!-- Start Medical Tab Section -->
+<section>
+  <div class="cs_height_110 cs_height_lg_70"></div>
+  <div class="container">
+    <div class="cs_section_heading cs_style_1 text-center">
+      <p class="cs_section_subtitle text wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
+        <span class="cs_shape_left"></span class="">Service Offerings<span class="cs_shape_right"></span>
+      </p>
+      <h2 class="cs_section_title">Explore Our Service<br> Offerings</h2>
+    </div>
+    <div class="cs_height_50 cs_height_lg_50"></div>
+    <div class="cs_tabs">
+      <ul class="cs_tab_links cs_style_1 cs_bold">
+        <li class="active">
+          <a href="#brain_althim">
+            <span class="cs_tab_link_icon cs_center"><img src="assets/img/technology.png" alt="Icon"></span>
+            <span>Modern Technology</span>
+          </a>
+        </li>
+        <li>
+          <a href="#emergency">
+            <span class="cs_tab_link_icon cs_center"><img src="assets/img/experience.png" alt="Icon"></span>
+            <span>Success of Treatment</span>
+          </a>
+        </li>
+        <li>
+          <a href="#heart_beat">
+            <span class="cs_tab_link_icon cs_center "><img src="assets/img/health-professional.png" alt="Icon"></span>
+            <span>Certified Doctors</span>
+          </a>
+        </li>
+        <li>
+          <a href="#blood_test">
+            <span class="cs_tab_link_icon cs_center"><img src="assets/img/counseling.png" alt="Icon"></span>
+            <span>Medical Advice</span>
+          </a>
+        </li>
+      </ul>
+      <div class="cs_height_50 cs_height_lg_50"></div>
+      <div class="tab-content">
+        <div id="brain_althim" class="cs_tab active">
+          <div class="cs_card cs_style_2">
+            <div class="row cs_gap_y_30 align-items-xl-center">
+              <div class="col-lg-6">
+                <div class="cs_card_thumb cs_radius_5">
+                  <img src="assets/img/Untitled design (46)/2.png" alt="Department Image">
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="cs_card_text">
+                  <h2 class="cs_card_title">We are here to hear and heal your</h2>
+                  <p class="cs_card_subtitle">Advancements in medical technology have significantly improved the diagnosis, treatment, and management of gynecological conditions. These innovations enhance precision, reduce recovery times, and improve patient outcomes.
+                  </p>
+                  <ul class="cs_list cs_style_1 cs_mp0 ">
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon" class=""></i>
+                      Uses small incisions and a camera for procedures like hysterectomy, ovarian cyst removal, and fibroid removal.
+                    </li>
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                      Da Vinci Surgical System allows precise movements for complex procedures.
+                      Used for hysterectomy, myomectomy, and endometriosis treatment.
+                      Benefits: Higher precision, minimal blood loss, shorter hospital stay.
+                    </li>
+
+                  </ul>
+
+                  <a href="service.php">
+                    <button class="contact_bg">Read More </button>
+                    <!-- <i class="fa-solid fa-angles-right"></i> -->
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="emergency" class="cs_tab">
+          <div class="cs_card cs_style_2">
+            <div class="row cs_gap_y_30 align-items-xl-center">
+              <div class="col-lg-6">
+                <div class="cs_card_thumb cs_radius_5">
+                  <img src="assets/img/Untitled design (46)/1.png" alt="Department Image">
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="cs_card_text">
+                  <h2 class="cs_card_title">Treatment patients in primary care</h2>
+                  <p class="cs_card_subtitle">Gynecology has seen significant advancements in medical treatments, improving the quality of life for millions of women worldwide. Success in gynecological treatment depends on early diagnosis, modern medical technology, and personalized care.
+                  </p>
+                  <ul class="cs_list cs_style_1 cs_mp0">
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                      Lifestyle changes (diet, exercise) help manage symptoms in 70-80% of women.
+                      Medications: Metformin and birth control regulate hormones and improve fertility
+                    </li>
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                      Hormonal Therapy Reduces pain and slows tissue growth.
+                      Laparoscopic Surgery Successfully removes endometrial tissue, improving fertility in 50% of cases.
+                    </li>
+
+                  </ul>
+
+                  <a href="service.php">
+                    <button class="contact_bg">Read More </button>
+                    <!-- <i class="fa-solid fa-angles-right"></i> -->
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="heart_beat" class="cs_tab">
+          <div class="cs_card cs_style_2">
+            <div class="row cs_gap_y_30 align-items-xl-center">
+              <div class="col-lg-6">
+                <div class="cs_card_thumb cs_radius_5">
+                  <img src="assets/img/Untitled design (46)/3.png" alt="Department Image">
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="cs_card_text">
+                  <h2 class="cs_card_title">Accreditation within a given specialty</h2>
+                  <p class="cs_card_subtitle">A certified gynecologist is a medical professional specializing in women’s reproductive health, trained to diagnose, treat, and manage gynecological conditions, pregnancy, and childbirth. Certification ensures that the doctor has undergone extensive education, training, and examinations to provide high-quality care.
+                  </p>
+                  <ul class="cs_list cs_style_1 cs_mp0">
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                      Medical Degree (MBBS/MD/DO) – Completion of a general medical degree (5-6 years).
+                      Postgraduate Specialization (MD/MS/DNB in Obstetrics & Gynecology) – A 3-4 year residency program specializing in gynecology and obstetrics.
+                    </li>
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                      Antenatal & Postnatal Care: Monitoring fetal health and managing pregnancy complications.
+                      Delivery & C-Sections: Assisting with normal and high-risk deliveries.
+                    </li>
+
+                  </ul>
+
+                  <a href="service.php">
+                    <button class="contact_bg">Read More </button>
+                    <!-- <i class="fa-solid fa-angles-right"></i> -->
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="blood_test" class="cs_tab">
+          <div class="cs_card cs_style_2">
+            <div class="row cs_gap_y_30 align-items-xl-center">
+              <div class="col-lg-6">
+                <div class="cs_card_thumb cs_radius_5">
+                  <img src="assets/img/Untitled design (10).png" alt="Department Image">
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="cs_card_text">
+                  <h2 class="cs_card_title">Better Health While Aging health</h2>
+                  <p class="cs_card_subtitle">Maintaining good gynecological health is essential for overall well-being. Regular checkups, early detection of conditions, and a healthy lifestyle can prevent many reproductive health issues. Here is medical advice on key aspects of gynecology, from menstruation to menopause.
+                  </p>
+                  <ul class="cs_list cs_style_1 cs_mp0">
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                      Schedule Regular Checkups Visit a gynecologist annually for screenings like Pap smears and pelvic exams.
+                    </li>
+                    <li>
+                      <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
+                      Maintain Hygiene Wash the vaginal area with mild soap and water; avoid harsh chemicals or douching.
+                    </li>
+
+                  </ul>
+
+                  <a href="service.php">
+                    <button class="contact_bg">Read More </button>
+                    <!-- <i class="fa-solid fa-angles-right"></i> -->
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="cs_height_120 cs_height_lg_80"></div>
+  <hr>
+</section>
+<!-- End Medical Tab Section -->
+<!-- Start Medical Solution Section -->
+<section class="cs_card cs_style_3 cs_gray_bg position-relative">
+  <div class="cs_height_110 cs_height_lg_70"></div>
+  <div class="container">
+    <div class="row cs_gap_y_40">
+      <div class="col-lg-4">
+        <div class="cs_section_heading cs_style_1">
+          <p class="cs_section_subtitle text">
+            <span class="cs_shape_left "></span>CONTACT US
           </p>
-          <h2 class="cs_section_title">Explore Our Service<br> Offerings</h2>
+          <h2 class="cs_section_title">Make An Appointment <br>Apply For Treatments</h2>
         </div>
-        <div class="cs_height_50 cs_height_lg_50"></div>
-        <div class="cs_tabs">
-          <ul class="cs_tab_links cs_style_1 cs_bold">
-            <li class="active">
-              <a href="#brain_althim">
-                <span class="cs_tab_link_icon cs_center"><img src="assets/img/technology.png" alt="Icon"></span>
-                <span>Modern Technology</span>
-              </a>
-            </li>
-            <li>
-              <a href="#emergency" >
-                <span class="cs_tab_link_icon cs_center"><img src="assets/img/experience.png" alt="Icon"></span>
-                <span>Success of Treatment</span>
-              </a>
-            </li>
-            <li>
-              <a href="#heart_beat">
-                <span class="cs_tab_link_icon cs_center "><img src="assets/img/health-professional.png" alt="Icon"></span>
-                <span>Certified Doctors</span>
-              </a>
-            </li>
-            <li>
-              <a href="#blood_test">
-                <span class="cs_tab_link_icon cs_center"><img src="assets/img/counseling.png" alt="Icon"></span>
-                <span>Medical Advice</span>
-              </a>
-            </li>
-          </ul>
-          <div class="cs_height_50 cs_height_lg_50"></div>
-          <div class="tab-content">
-            <div id="brain_althim" class="cs_tab active">
-              <div class="cs_card cs_style_2">
-                <div class="row cs_gap_y_30 align-items-xl-center">
-                  <div class="col-lg-6">
-                    <div class="cs_card_thumb cs_radius_5">
-                      <img src="assets/img/Untitled design (46)/2.png" alt="Department Image">
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="cs_card_text">
-                      <h2 class="cs_card_title">We are here to hear and heal your</h2>
-                      <p class="cs_card_subtitle">Advancements in medical technology have significantly improved the diagnosis, treatment, and management of gynecological conditions. These innovations enhance precision, reduce recovery times, and improve patient outcomes.
-                      </p>
-                      <ul class="cs_list cs_style_1 cs_mp0 ">
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon" class=""></i>
-                          Uses small incisions and a camera for procedures like hysterectomy, ovarian cyst removal, and fibroid removal.
-                        </li>
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
-                          Da Vinci Surgical System allows precise movements for complex procedures.
-Used for hysterectomy, myomectomy, and endometriosis treatment.
-Benefits: Higher precision, minimal blood loss, shorter hospital stay.
-                        </li>
-    
-                      </ul>
-                      
-                      <a href="service.php">
-                        <button class="contact_bg">Read More </button>
-                        <!-- <i class="fa-solid fa-angles-right"></i> -->
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div id="emergency" class="cs_tab">
-              <div class="cs_card cs_style_2">
-                <div class="row cs_gap_y_30 align-items-xl-center">
-                  <div class="col-lg-6">
-                    <div class="cs_card_thumb cs_radius_5">
-                      <img src="assets/img/Untitled design (46)/1.png" alt="Department Image">
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="cs_card_text">
-                      <h2 class="cs_card_title">Treatment patients in primary care</h2>
-                      <p class="cs_card_subtitle">Gynecology has seen significant advancements in medical treatments, improving the quality of life for millions of women worldwide. Success in gynecological treatment depends on early diagnosis, modern medical technology, and personalized care.
-                      </p>
-                      <ul class="cs_list cs_style_1 cs_mp0">
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
-                          Lifestyle changes (diet, exercise) help manage symptoms in 70-80% of women.
-Medications: Metformin and birth control regulate hormones and improve fertility
-                        </li>
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
-                          Hormonal Therapy Reduces pain and slows tissue growth.
-Laparoscopic Surgery Successfully removes endometrial tissue, improving fertility in 50% of cases.
-                        </li>
-    
-                      </ul>
-                      
-                      <a href="service.php">
-                      <button class="contact_bg">Read More </button>
-                      <!-- <i class="fa-solid fa-angles-right"></i> -->
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div id="heart_beat" class="cs_tab">
-              <div class="cs_card cs_style_2">
-                <div class="row cs_gap_y_30 align-items-xl-center">
-                  <div class="col-lg-6">
-                    <div class="cs_card_thumb cs_radius_5">
-                      <img src="assets/img/Untitled design (46)/3.png" alt="Department Image">
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="cs_card_text">
-                      <h2 class="cs_card_title">Accreditation within a given specialty</h2>
-                      <p class="cs_card_subtitle">A certified gynecologist is a medical professional specializing in women’s reproductive health, trained to diagnose, treat, and manage gynecological conditions, pregnancy, and childbirth. Certification ensures that the doctor has undergone extensive education, training, and examinations to provide high-quality care.
-                      </p>
-                      <ul class="cs_list cs_style_1 cs_mp0">
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
-                          Medical Degree (MBBS/MD/DO) – Completion of a general medical degree (5-6 years).
-Postgraduate Specialization (MD/MS/DNB in Obstetrics & Gynecology) – A 3-4 year residency program specializing in gynecology and obstetrics.
-                        </li>
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
-                          Antenatal & Postnatal Care: Monitoring fetal health and managing pregnancy complications.
-Delivery & C-Sections: Assisting with normal and high-risk deliveries.
-                        </li>
-    
-                      </ul>
-                      
-                      <a href="service.php">
-                      <button class="contact_bg">Read More </button>
-                      <!-- <i class="fa-solid fa-angles-right"></i> -->
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div id="blood_test" class="cs_tab">
-              <div class="cs_card cs_style_2">
-                <div class="row cs_gap_y_30 align-items-xl-center">
-                  <div class="col-lg-6">
-                    <div class="cs_card_thumb cs_radius_5">
-                      <img src="assets/img/Untitled design (10).png" alt="Department Image">
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="cs_card_text">
-                      <h2 class="cs_card_title">Better Health While Aging health</h2>
-                      <p class="cs_card_subtitle">Maintaining good gynecological health is essential for overall well-being. Regular checkups, early detection of conditions, and a healthy lifestyle can prevent many reproductive health issues. Here is medical advice on key aspects of gynecology, from menstruation to menopause.
-                      </p>
-                      <ul class="cs_list cs_style_1 cs_mp0">
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
-                          Schedule Regular Checkups Visit a gynecologist annually for screenings like Pap smears and pelvic exams.
-                        </li>
-                        <li>
-                          <i><img src="assets/img/icons/check_icon_1.png" alt="Icon"></i>
-                          Maintain Hygiene Wash the vaginal area with mild soap and water; avoid harsh chemicals or douching.
-                        </li>
-    
-                      </ul>
-                      
-                      <a href="service.php" >
-                      <button class="contact_bg">Read More </button>
-                      <!-- <i class="fa-solid fa-angles-right"></i> -->
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+        <div class="cs_height_25 cs_height_lg_25"></div>
+        <form action="appointmentform.php" method="post" role="form" class="cs_contact_form row cs_gap_y_30 home_form_area" >
+          <div class="col-md-6">
+            <input type="text" name="name" class="cs_form_field" placeholder="Your name">
           </div>
-        </div>
-      </div>
-      <div class="cs_height_120 cs_height_lg_80"></div>
-      <hr>
-    </section>
-    <!-- End Medical Tab Section -->
-    <!-- Start Medical Solution Section -->
-    <section class="cs_card cs_style_3 cs_gray_bg position-relative">
-      <div class="cs_height_110 cs_height_lg_70"></div>
-      <div class="container">
-        <div class="row cs_gap_y_40">
-          <div class="col-lg-6">
-          <div class="cs_section_heading cs_style_1">
-            <p class="cs_section_subtitle text">
-              <span class="cs_shape_left "></span>CONTACT US
-            </p>
-            <h2 class="cs_section_title">Make An Appointment <br>Apply For Treatments</h2>
+          <div class="col-md-6">
+            <input type="email" name="email" class="cs_form_field" placeholder="Your email">
           </div>
-          <div class="cs_height_25 cs_height_lg_25"></div>
-          <form class="cs_contact_form row cs_gap_y_30 home_form_area">
-            <div class="col-md-6">
-              <input type="text" name="name" class="cs_form_field" placeholder="Your name">
-            </div>
-            <div class="col-md-6">
-              <input type="email" name="email" class="cs_form_field" placeholder="Your email">
-            </div>
-            <div class="col-md-6">
-              <input type="text" name="subject" class="cs_form_field" placeholder="Your Subject">
-            </div>
-            <div class="col-md-6">
-              <input type="text" name="phone" class="cs_form_field" placeholder="Your phone">
-            </div>
-            <div class="col-lg-12">
-              <textarea rows="5" name="message" class="cs_form_field" placeholder="Your comments"></textarea>
-            </div>
-            <div class="col-lg-12">
-              <a href="contact.php">
+          <div class="col-md-6">
+            <input type="text" name="subject" class="cs_form_field" placeholder="Your Subject">
+          </div>
+          <div class="col-md-6">
+            <input type="text" name="phone" class="cs_form_field" placeholder="Your phone">
+          </div>
+          <div class="col-lg-12">
+            <textarea rows="5" name="message" class="cs_form_field" placeholder="Your comments"></textarea>
+          </div>
+          <div class="col-lg-12">
+            <a href="contact.php">
               <button type="submit" class="contact_bg">Send Request</button>
-              </a>
-            </div>
-          </form>
+            </a>
           </div>
-          <div class="col-lg-6">
-            <div class="cs_solution_thumbnail cs_bg_filed" data-src="assets/img/medical_solution_1.jpg">
-              <img src="assets/img/Untitled design (9).png" alt="" class="img-fluid">
-            </div>
-          </div>
+        </form>
+      </div>
+      <div class="col-lg-8">
+        <div class="cs_solution_thumbnail cs_bg_filed" data-src="assets/img/medical_solution_1.jpg">
+          <img src="assets/img/Untitled design (9).png" alt="" class="img-fluid">
         </div>
       </div>
-      <!-- <div class="cs_solution_shape position-absolute">
+    </div>
+  </div>
+  <!-- <div class="cs_solution_shape position-absolute">
         <img src="assets/img/stethoscope.png" alt="Shape">
       </div> -->
-      <div class="cs_height_120 cs_height_lg_80"></div>
-    </section>
-    <!-- End Medical Solution Section -->
-    <!-- Start Blog Section -->
-    <section>
-      <div class="cs_height_110 cs_height_lg_70"></div>
-      <div class="container">
-        <div class="cs_section_heading cs_style_1 text-center">
-          <p class="cs_section_subtitle text wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
-            <span class="cs_shape_left"></span>OUR LARGEST BLOG<span class="cs_shape_right"></span>
-          </p>
-          <h2 class="cs_section_title">Latest Posts & Articles</h2>
-        </div>
-        <div class="cs_height_50 cs_height_lg_50"></div>
-        <div class="cs_slider cs_style_1 cs_slider_gap_24">
-          <div class="cs_slider_container" data-autoplay="0" data-loop="1" data-speed="600" data-center="0"
-            data-variable-width="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="3" data-lg-slides="3" data-add-slides="3">
-            <div class="cs_slider_wrapper">
-              <div class="cs_slide">
-                <article class="cs_post cs_style_1">
-                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
-                    <img src="assets/img/Untitled design (40)/1.png" alt="post Thumbnail">
-                    <div class="cs_post_category position-absolute">Medical</div>
-                  </a>
-                  <div class="cs_post_content position-relative">
-                    <div class="cs_post_meta_wrapper">
-                      <div class="cs_posted_by cs_center position-absolute">May 02</div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                        <span>By: Admin</span>
-                      </div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                        <span>Comment</span>
-                      </div>
-                    </div>
-                    <h3 class="cs_post_title"><a href="blog-details..php">Medical Of This Working Health Blog</a></h3>
-                    <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details..php" class="cs_post_btn">
-                      <span>Read More</span>
-                      <span><i class="fa-solid fa-angle-right"></i></span>
-                    </a>
-                    <div class="cs_post_shape position-absolute"></div>
+  <div class="cs_height_120 cs_height_lg_80"></div>
+</section>
+<!-- End Medical Solution Section -->
+<!-- Start Blog Section -->
+<!-- <section>
+
+  <div class="cs_height_110 cs_height_lg_70"></div>
+  <div class="container">
+    <div class="cs_section_heading cs_style_1 text-center">
+      <p class="cs_section_subtitle text wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
+        <span class="cs_shape_left"></span>OUR LARGEST BLOG<span class="cs_shape_right"></span>
+      </p>
+      <h2 class="cs_section_title">Latest Posts & Articles</h2>
+    </div>
+    <div class="cs_height_50 cs_height_lg_50"></div>
+    <div class="cs_slider cs_style_1 cs_slider_gap_24">
+      <div class="cs_slider_container" data-autoplay="0" data-loop="1" data-speed="600" data-center="0"
+        data-variable-width="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="3" data-lg-slides="3" data-add-slides="3">
+        <div class="cs_slider_wrapper">
+          <div class="cs_slide">
+            <article class="cs_post cs_style_1">
+              <a href="blog-details..php" class="cs_post_thumbnail position-relative">
+                <img src="assets/img/Untitled design (40)/1.png" alt="post Thumbnail">
+                <div class="cs_post_category position-absolute">Medical</div>
+              </a>
+              <div class="cs_post_content position-relative">
+                <div class="cs_post_meta_wrapper">
+                  <div class="cs_posted_by cs_center position-absolute">May 02</div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_user_icon.png" alt="Icon">
+                    <span>By: Admin</span>
                   </div>
-                </article>
-              </div>
-              <div class="cs_slide">
-                <article class="cs_post cs_style_1">
-                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
-                    <img src="assets/img/Untitled design (40)/2.png" alt="post Thumbnail">
-                    <div class="cs_post_category position-absolute">Medical</div>
-                  </a>
-                  <div class="cs_post_content position-relative">
-                    <div class="cs_post_meta_wrapper">
-                      <div class="cs_posted_by cs_center position-absolute">May 02</div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                        <span>By: Admin</span>
-                      </div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                        <span>Comment</span>
-                      </div>
-                    </div>
-                    <h3 class="cs_post_title"><a href="blog-details..php">There Is Only One Thing That Is Hospital.</a></h3>
-                    <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details..php" class="cs_post_btn">
-                      <span>Read More</span>
-                      <span><i class="fa-solid fa-angle-right"></i></span>
-                    </a>
-                    <div class="cs_post_shape position-absolute"></div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
+                    <span>Comment</span>
                   </div>
-                </article>
+                </div>
+                <h3 class="cs_post_title"><a href="blog-details..php">Medical Of This Working Health Blog</a></h3>
+                <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
+                <a href="blog-details..php" class="cs_post_btn">
+                  <span>Read More</span>
+                  <span><i class="fa-solid fa-angle-right"></i></span>
+                </a>
+                <div class="cs_post_shape position-absolute"></div>
               </div>
-              <div class="cs_slide">
-                <article class="cs_post cs_style_1">
-                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
-                    <img src="assets/img/Untitled design (40)/3.png" alt="post Thumbnail">
-                    <div class="cs_post_category position-absolute">Medical</div>
-                  </a>
-                  <div class="cs_post_content position-relative">
-                    <div class="cs_post_meta_wrapper">
-                      <div class="cs_posted_by cs_center position-absolute">May 02</div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                        <span>By: Admin</span>
-                      </div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                        <span>Comment</span>
-                      </div>
-                    </div>
-                    <h3 class="cs_post_title"><a href="blog-details..php">This Working World nd Infection Prevention.</a></h3>
-                    <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details..php" class="cs_post_btn">
-                      <span>Read More</span>
-                      <span><i class="fa-solid fa-angle-right"></i></span>
-                    </a>
-                    <div class="cs_post_shape position-absolute"></div>
-                  </div>
-                </article>
-              </div>
-              <div class="cs_slide">
-                <article class="cs_post cs_style_1">
-                  <a href="blog-details..php" class="cs_post_thumbnail position-relative">
-                    <img src="assets/img/Untitled design (40)/" alt="post Thumbnail">
-                    <div class="cs_post_category position-absolute bg-dark">Medical</div>
-                  </a>
-                  <div class="cs_post_content position-relative">
-                    <div class="cs_post_meta_wrapper">
-                      <div class="cs_posted_by cs_center position-absolute">May 02</div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                        <span>By: Admin</span>
-                      </div>
-                      <div class="cs_post_meta_item">
-                        <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                        <span>Comment</span>
-                      </div>
-                    </div>
-                    <h3 class="cs_post_title"><a href="blog-details..php">Medical Of This Working Health Blog</a></h3>
-                    <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-                    <a href="blog-details..php" class="cs_post_btn">
-                      <span>Read More</span>
-                      <span><i class="fa-solid fa-angle-right"></i></span>
-                    </a>
-                    <div class="cs_post_shape position-absolute"></div>
-                  </div>
-                </article>
-              </div>
-            </div>
+            </article>
           </div>
-          <!-- <div class="cs_pagination cs_style_2"></div> -->
+          <div class="cs_slide">
+            <article class="cs_post cs_style_1">
+              <a href="blog-details..php" class="cs_post_thumbnail position-relative">
+                <img src="assets/img/Untitled design (40)/2.png" alt="post Thumbnail">
+                <div class="cs_post_category position-absolute">Medical</div>
+              </a>
+              <div class="cs_post_content position-relative">
+                <div class="cs_post_meta_wrapper">
+                  <div class="cs_posted_by cs_center position-absolute">May 02</div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_user_icon.png" alt="Icon">
+                    <span>By: Admin</span>
+                  </div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
+                    <span>Comment</span>
+                  </div>
+                </div>
+                <h3 class="cs_post_title"><a href="blog-details..php">There Is Only One Thing That Is Hospital.</a></h3>
+                <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
+                <a href="blog-details..php" class="cs_post_btn">
+                  <span>Read More</span>
+                  <span><i class="fa-solid fa-angle-right"></i></span>
+                </a>
+                <div class="cs_post_shape position-absolute"></div>
+              </div>
+            </article>
+          </div>
+          <div class="cs_slide">
+            <article class="cs_post cs_style_1">
+              <a href="blog-details..php" class="cs_post_thumbnail position-relative">
+                <img src="assets/img/Untitled design (40)/3.png" alt="post Thumbnail">
+                <div class="cs_post_category position-absolute">Medical</div>
+              </a>
+              <div class="cs_post_content position-relative">
+                <div class="cs_post_meta_wrapper">
+                  <div class="cs_posted_by cs_center position-absolute">May 02</div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_user_icon.png" alt="Icon">
+                    <span>By: Admin</span>
+                  </div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
+                    <span>Comment</span>
+                  </div>
+                </div>
+                <h3 class="cs_post_title"><a href="blog-details..php">This Working World nd Infection Prevention.</a></h3>
+                <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
+                <a href="blog-details..php" class="cs_post_btn">
+                  <span>Read More</span>
+                  <span><i class="fa-solid fa-angle-right"></i></span>
+                </a>
+                <div class="cs_post_shape position-absolute"></div>
+              </div>
+            </article>
+          </div>
+          <div class="cs_slide">
+            <article class="cs_post cs_style_1">
+              <a href="blog-details..php" class="cs_post_thumbnail position-relative">
+                <img src="assets/img/Untitled design (40)/" alt="post Thumbnail">
+                <div class="cs_post_category position-absolute bg-dark">Medical</div>
+              </a>
+              <div class="cs_post_content position-relative">
+                <div class="cs_post_meta_wrapper">
+                  <div class="cs_posted_by cs_center position-absolute">May 02</div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_user_icon.png" alt="Icon">
+                    <span>By: Admin</span>
+                  </div>
+                  <div class="cs_post_meta_item">
+                    <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
+                    <span>Comment</span>
+                  </div>
+                </div>
+                <h3 class="cs_post_title"><a href="blog-details..php">Medical Of This Working Health Blog</a></h3>
+                <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
+                <a href="blog-details..php" class="cs_post_btn">
+                  <span>Read More</span>
+                  <span><i class="fa-solid fa-angle-right"></i></span>
+                </a>
+                <div class="cs_post_shape position-absolute"></div>
+              </div>
+            </article>
+          </div>
         </div>
       </div>
-      <!-- <div class="cs_height_120 cs_height_lg_80"></div> -->
-    </section>
-    <!-- End Blog Section -->
-    <!-- Start Footer -->
-    <!-- <footer class="cs_footer cs_blue_bg cs_bg_filed cs_white_color cs_newfooter">
-    
-                   
-          
-      <div class="container">
-        <div class="row">
-          <div class=" col-12 col-md-6 col-lg-3">
-            <div class="cs_footer_highlight_col cs_accent_bg">
-              <div class="cs_footer_logo new_logo">
+
+    </div>
+  </div>
+</section> -->
+
+
+
+
+
+
+
+
+
+<!-- End Blog Section -->
+<!-- Start Footer -->
+<!-- <footer class="cs_footer cs_blue_bg cs_bg_filed cs_white_color cs_newfooter">
+
+
+
+  <div class="container">
+    <div class="row">
+      <div class=" col-12 col-md-6 col-lg-3">
+        <div class="cs_footer_highlight_col cs_accent_bg">
+          <div class="cs_footer_logo new_logo">
             <img src="assets/img/leela womens logo.jpg.png" alt="Logo" class="img-fluid" style="width:300px">
-  </div>
-  </div>
-          </div>
-          <div class=" col-12 col-md-6 col-lg-3">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title  text-dark">Quick Link</h2>
-              <ul class="cs_footer_widget_nav_list cs_mp_0">
-                <li><a href="#" class=" text-dark">Home</a></li>
-                <li><a href="#" class=" text-dark">About</a></li>
-                <li><a href="#" class=" text-dark"> Service</a></li>
-                <li><a href="#"class=" text-dark">Blog</a></li>
-                <li><a href="#"class=" text-dark">contact</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class=" col-12 col-md-6 col-lg-3">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title text-dark">Service</h2>
-              <ul class="cs_footer_widget_nav_list cs_mp_0">
-                <li><a href="#" class=" text-dark">Gynecology</a></li>
-                <li><a href="#" class=" text-dark">Obstetrics</a></li>
-                <li><a href="#"class=" text-dark">High risk pregnancy</a></li>
-                <li><a href="#"class=" text-dark">Laparoscopic services</a></li>
-                <li><a href="#"class=" text-dark">Fertility issues</a></li>
-                <li><a href="#"class=" text-dark">reproductive Endocrinology</a></li>
-  
-              </ul>
-            </div>
-          </div>
-          <div class=" col-12 col-md-6 col-lg-3">
-            <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title  text-dark">Contact Us</h2>
-            <ul class="cs_footer_contact cs_mp_0">
-              <li>
-                <i class="fa-regular fa-clock  text-dark"></i>
-               <p class="text-dark"> Open Hours of Government: <br>
-                Mon - Fri: 8.00 am. - 6.00 pm.</p>
-              </li>
-              <li>
-                <i class="fa-solid fa-location-dot  text-dark"></i>
-                <p class="text-dark">13/A, Miranda Halim City .</p>
-              </li>
-              <li>
-                <i class="fa-solid fa-phone  text-dark"></i>
-                <p class="text-dark"> 099 695 695 35</p>
-              </li>
-            </ul>
-            
-        </div>
-            
-            <div class="cs_social_btns cs_style_1">
-              <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
-              <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
-            </div>
-          </div>
-        </div>
-    
-</div>
-      <div class="cs_footer_bottom copy_bg text-white">
-        <div class="container">
-          <div class="cs_footer_bottom_in">
-            <p class="cs_footer_copyright mb-0">Terms and Conditions.</p>
-            <ul class="cs_footer_menu cs_mp_0">              
-              <li><a href="about..php">Designed By @</a></li>                
-         
-            </ul>
           </div>
         </div>
       </div>
-      
-      <?php include "./includes/footer.php"; 
+      <div class=" col-12 col-md-6 col-lg-3">
+        <div class="cs_footer_widget">
+          <h2 class="cs_footer_widget_title  text-dark">Quick Link</h2>
+          <ul class="cs_footer_widget_nav_list cs_mp_0">
+            <li><a href="#" class=" text-dark">Home</a></li>
+            <li><a href="#" class=" text-dark">About</a></li>
+            <li><a href="#" class=" text-dark"> Service</a></li>
+            <li><a href="#" class=" text-dark">Blog</a></li>
+            <li><a href="#" class=" text-dark">contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class=" col-12 col-md-6 col-lg-3">
+        <div class="cs_footer_widget">
+          <h2 class="cs_footer_widget_title text-dark">Service</h2>
+          <ul class="cs_footer_widget_nav_list cs_mp_0">
+            <li><a href="#" class=" text-dark">Gynecology</a></li>
+            <li><a href="#" class=" text-dark">Obstetrics</a></li>
+            <li><a href="#" class=" text-dark">High risk pregnancy</a></li>
+            <li><a href="#" class=" text-dark">Laparoscopic services</a></li>
+            <li><a href="#" class=" text-dark">Fertility issues</a></li>
+            <li><a href="#" class=" text-dark">reproductive Endocrinology</a></li>
+
+          </ul>
+        </div>
+      </div>
+      <div class=" col-12 col-md-6 col-lg-3">
+        <div class="cs_footer_widget">
+          <h2 class="cs_footer_widget_title  text-dark">Contact Us</h2>
+          <ul class="cs_footer_contact cs_mp_0">
+            <li>
+              <i class="fa-regular fa-clock  text-dark"></i>
+              <p class="text-dark"> Open Hours of Government: <br>
+                Mon - Fri: 8.00 am. - 6.00 pm.</p>
+            </li>
+            <li>
+              <i class="fa-solid fa-location-dot  text-dark"></i>
+              <p class="text-dark">13/A, Miranda Halim City .</p>
+            </li>
+            <li>
+              <i class="fa-solid fa-phone  text-dark"></i>
+              <p class="text-dark"> 099 695 695 35</p>
+            </li>
+          </ul>
+
+        </div>
+
+        <div class="cs_social_btns cs_style_1">
+          <a href="#" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
+          <a href="#" class="cs_center"><i class="fa-brands fa-pinterest-p"></i></a>
+          <a href="#" class="cs_center"><i class="fa-brands fa-twitter"></i></a>
+          <a href="#" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="cs_footer_bottom copy_bg text-white">
+    <div class="container">
+      <div class="cs_footer_bottom_in">
+        <p class="cs_footer_copyright mb-0">Terms and Conditions.</p>
+        <ul class="cs_footer_menu cs_mp_0">
+          <li><a href="about..php">Designed By @</a></li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer> -->
+
+<?php include "./includes/footer.php";
 ?>

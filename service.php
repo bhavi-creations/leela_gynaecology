@@ -41,7 +41,7 @@
                 </div>
                 <h3 class="iconbox_index">01</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">PCOD and Adolscent Clinics</a></h3>
+              <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -55,7 +55,7 @@
                 </div>
                 <h3 class="iconbox_index">02</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Menstrual Problems</a></h3>
+              <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -69,7 +69,7 @@
                 </div>
                 <h3 class="iconbox_index">03</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Infertility</a></h3>
+              <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -83,7 +83,7 @@
                 </div>
                 <h3 class="iconbox_index">04</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Preconceptional Care</a></h3>
+              <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -97,7 +97,7 @@
                 </div>
                 <h3 class="iconbox_index">05</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Menopausal Clinic</a></h3>
+              <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -111,7 +111,7 @@
                 </div>
                 <h3 class="iconbox_index">06</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Well Women Check up</a></h3>
+              <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -125,7 +125,7 @@
                 </div>
                 <h3 class="iconbox_index">07</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">Cancer Screening</a></h3>
+              <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
@@ -139,19 +139,19 @@
                 </div>
                 <h3 class="iconbox_index">08</h3>
               </div>
-              <h3 class="cs_iconbox_title"><a href="service-details..php">All gynaecological problems</a></h3>
+              <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
               <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
             </div>
           </div>
         </div>
-        <div class="cs_service_footer">
+        <!-- <div class="cs_service_footer">
           <div class="cs_service_footer_icon">
             <img src="assets/img/icons/service_footer_icon_1.png" alt="Icon">
           </div>
           <div class="cs_service_footer_text cs_medium">
            Delivering tomorrow’s health care for your family.<br> medical this View <a href="#">SEE MORE<span> <i class="fa-solid fa-angles-right"></i></span></a>
           </div>
-        </div>
+        </div> -->
       </div>
       <div class="cs_height_120 cs_height_lg_80"></div>
     </section>

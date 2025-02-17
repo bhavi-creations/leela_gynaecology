@@ -9,9 +9,12 @@
               <ul class="cs_footer_contact cs_mp_0 move">
                 <li>
                   <i class="fa-regular fa-clock  text-dark"></i>
-                 <p class="text-dark"> Open Hours of Hospital: <br>
-                  Mon - Fri: 8.00 am. - 6.00 pm.</p>
+                 <p class="text-dark"> Monday – Saturday  10AM – 8PM &nbsp; &nbsp;  /&nbsp; &nbsp;
+                 Closed Sunday</p>
                 </li>
+
+               
+
                 <li>
                   <i class="fa-solid fa-location-dot  text-dark"></i>
                   <p class="text-dark">   
@@ -40,7 +43,7 @@
                 <li><a href="index.php" class=" text-dark">Home</a></li>
                 <li><a href="about.php" class=" text-dark">About</a></li>
                 <li><a href="service.php" class=" text-dark"> Service</a></li>
-                <li><a href="blog.php"class=" text-dark">Blog</a></li>
+                <li><a href="blogs.php"class=" text-dark">Blog</a></li>
                 <li><a href="contact.php"class=" text-dark">contact</a></li>
               </ul>
             </div>
@@ -139,5 +142,9 @@
     <script src="assets/js/jquery.slick.min.js"></script>
     <script src="assets/js/odometer.js"></script>
     <script src="assets/js/main.js"></script>
+
+
+    <!-- script  -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   </body>
 </html>

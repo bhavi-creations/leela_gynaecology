@@ -9,7 +9,7 @@
     <div class="row">
         <div class="col-md-6 mt-5 space">
           <img src="assets/img/Untitled design (15).png" alt="" class="img-fluid pics">
-        </div>
+        </div>  
         <div class="col-md-6 space">
             <h2>PCOD and Adolscent Clinics</h2>
             <p>Polycystic Ovarian Disease (PCOD) is a common hormonal disorder affecting females, including adolescents, and is characterized by multiple small cysts in the ovaries. It disrupts hormonal balance, leading to various symptoms that can impact physical and emotional well-being.

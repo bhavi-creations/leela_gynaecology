@@ -2,6 +2,12 @@
 <?php
    include "./includes/header.php";
    ?>
+
+
+
+
+
+
   <!-- End Header Section -->
   <!-- Start Page Heading -->
   <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/about.png">
@@ -13,6 +19,58 @@
       </ol> -->
     </div>
   </section>
+  <section class="cs_contact">
+  <div class="cs_height_110 cs_height_lg_70"></div>
+  <div class="container">
+    <div class="row cs_gap_y_30">
+      <div class="col-lg-6">
+        <div class="cs_contact_thumbnail cs_pr_40">
+          <!-- <div class="cs_teeth_shape">
+              <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
+            </div> -->
+          <div class="cs_contact_img">
+            <img src="assets/img/Untitled design (18).png" alt="Image">
+          </div>
+          <div class="cs_contact_bg_shape">
+            <div class="cs_white_bg_shape"></div>
+            <div class="cs_iconbox cs_style_4">
+              <div class="cs_iconbox_icon cs_center"><img src="assets/img/icons/call_icon_1.png" alt="Icon"></div>
+              <div class="cs_iconbox_right">
+                <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
+                <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="cs_section_heading cs_style_1">
+          <p class="cs_section_subtitle text">
+            <span class="cs_shape_left"></span>Bio
+          </p>
+          <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meet</h2>
+        </div>
+        <div class="cs_height_25 cs_height_lg_25"></div>
+        <p>
+          A gynecologist is a medical doctor who specializes in the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, and breasts. They diagnose and treat conditions related to women's health, pregnancy, menstruation, fertility issues, hormonal disorders, and sexually transmitted infections (STIs).
+        </p>
+        <p>
+          A gynecologist provides various services, including
+          Routine check-ups Annual exams, including Pap smears, pelvic exams, and breast exams.
+          Pregnancy and childbirth care Monitoring pregnancy, prenatal care, and delivering babies.
+          Menstrual disorders Treating irregular, heavy, or painful periods.
+          Fertility issues Diagnosing and treating infertility problems.
+          Hormonal imbalances Managing menopause symptoms, polycystic ovary syndrome (PCOS), and thyroid disorders.
+          Contraception advice Providing birth control methods like pills, IUDs, and implants.
+          Sexually transmitted infections (STIs) Diagnosis, treatment, and prevention.
+          Gynecological surgeries Procedures like hysterectomy, laparoscopy, and ovarian cyst removal.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="cs_height_120 cs_height_lg_80"></div>
+</section>
   <!-- End Page Heading -->
   <!-- Start About Section -->
   <!-- <section class="cs_about cs_style_1 position-relative">
@@ -174,36 +232,36 @@
 
 
     <!-- Start Counter Section -->
-    <div class="cs_counter_area_2">
+    <div class="cs_counter_area_2 ">
       <div class="container">
-        <div class="cs_counter_2_wrap">
+        <div class="cs_counter_2_wrap new_color">
           <div class="cs_counter cs_style_2">
-            <div class="cs_counter_icon cs_center">
+            <div class="cs_counter_icon cs_center ">
               <img src="assets/img/icons/counter_icon_1.png" alt="Icon">
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="567" class="odometer"></span>+</div>
-            <p class="cs_counter_title mb-0">Active Clients</p>
+            <div class="cs_counter_nmber text-white"><span data-count-to="567" class="odometer"></span>+</div>
+            <p class="cs_counter_title mb-0 text-white">Active Clients</p>
           </div>
           <div class="cs_counter cs_style_2">
             <div class="cs_counter_icon cs_center">
               <img src="assets/img/icons/counter_icon_2.png" alt="Icon">
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="23" class="odometer"></span>K+</div>
-            <p class="cs_counter_title mb-0">Team Support</p>
+            <div class="cs_counter_nmber text-white"><span data-count-to="23" class="odometer"></span>K+</div>
+            <p class="cs_counter_title mb-0 text-white">Team Support</p>
           </div>
           <div class="cs_counter cs_style_2">
             <div class="cs_counter_icon cs_center">
               <img src="assets/img/icons/counter_icon_3.png" alt="Icon">
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="241" class="odometer"></span>+</div>
-            <p class="cs_counter_title mb-0">Projects Completed</p>
+            <div class="cs_counter_nmber text-white"><span data-count-to="241" class="odometer"></span>+</div>
+            <p class="cs_counter_title mb-0 text-white">Projects Completed</p>
           </div>
           <div class="cs_counter cs_style_2">
             <div class="cs_counter_icon cs_center">
               <img src="assets/img/icons/counter_icon_4.png" alt="Icon">
             </div>
-            <div class="cs_counter_nmber"><span data-count-to="16" class="odometer"></span>K+</div>
-            <p class="cs_counter_title mb-0">Award winner</p>
+            <div class="cs_counter_nmber text-white"><span data-count-to="16" class="odometer"></span>K+</div>
+            <p class="cs_counter_title mb-0 text-white">Award winner</p>
           </div>
         </div>
       </div>
@@ -251,6 +309,10 @@
 
 
  <!-- Start Footer -->
+
+ 
+
+
 
   <?php include "./includes/footer.php"; 
 ?>

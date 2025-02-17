@@ -3,7 +3,8 @@
    ?>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
-  <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/app.png" alt="Image">
+  <!-- <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/app.png" alt="Image"> -->
+  <img src="assets/img/gynaecology/5.png" class="d-block w-100 img-fluid" alt="...">
   
     <div class="container">
       <!-- <h1 class="cs_page_title">Appointments</h1>
@@ -26,7 +27,7 @@
           <h2 class="cs_section_title">Booking Now Appointments</h2>
         </div>
         <div class="cs_height_40 cs_height_lg_35"></div>
-        <form class="cs_appointment_form row cs_gap_y_30">
+        <form action="appointmentform.php" method="post" role="form" class="cs_appointment_form row cs_gap_y_30">
           <div class="col-md-6">
             <input type="text" name="name" class="cs_form_field" placeholder="Name">
           </div>
@@ -48,7 +49,7 @@
             </select>
           </div>
           <div class="col-md-12">
-            <input type="text" name="date" class="cs_form_field" placeholder="Appointment date & time">
+            <input type="date" name="date" class="cs_form_field" placeholder="Appointment date & time">
           </div>
           <div class="col-md-12">
             <button type="submit" class="cs_btn cs_style_1 cs_white_color">Make an appoinment</button>

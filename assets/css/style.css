@@ -1453,6 +1453,9 @@ label {
   gap: 8px;
   line-height: 1.6em;
   border-radius: 1.6em;
+ /* background:#e72842  !important; */
+  ;
+  gap: 10px;
 }
 .cs_btn.cs_style_1 i {
   font-size: 15px;
@@ -4448,7 +4451,7 @@ label {
 ----------------------------------------------------------------*/
 .cs_footer {
   padding-top: 1px;
-  margin-top: 25px;
+  /* margin-top: 25px; */
 }
 .cs_footer .cs_social_btns.cs_style_1 {
   margin-top: 50px;
@@ -5231,9 +5234,9 @@ label {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: var(--blue-color);
+  /* background-color: var(--blue-color);
   -webkit-filter: drop-shadow(0px 0px 49px rgba(49, 82, 157, 0.14));
-          filter: drop-shadow(0px 0px 49px rgba(49, 82, 157, 0.14));
+          filter: drop-shadow(0px 0px 49px rgba(49, 82, 157, 0.14)); */
   border-radius: 50%;
   z-index: 1;
   -webkit-transition: all 0.4s ease;
@@ -8611,7 +8614,7 @@ label {
   border-radius: 30px;
 }
 .new_color{
-background: #2b239f !important;
+background:#e72842  !important;
 }
 
 .cs_newfooter{
@@ -8673,3 +8676,59 @@ background: #2b239f !important;
 .move{
   margin-top: -60px;
 }
+
+
+
+/* chat gpt  */
+.cs_gray_bg {
+  background-image: url('assets/img/why/1.png');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+/* Add the overlay with opacity */
+.section_content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4); /* Adjust the opacity value here */
+  z-index: 1;
+}
+
+/* Ensure content stays on top */
+.container {
+  position: relative;
+  z-index: 2;
+}
+
+.cs_section_heading,
+.cs_service_list,
+.cs_iconbox_text {
+  position: relative;
+  z-index: 2;
+}
+
+.btn_readmore{
+  padding: 10px;
+  background-color:#cf2794;
+  border-radius: 10px;
+ color:#ffffff;
+ font-weight: 800;
+ 
+}
+.btn_readmore :hover{
+color: pink;
+}
+.section_content_new{
+  padding-top:-10px ;
+  padding-bottom: 100px;
+}
+
+
+
+
+
