@@ -3,15 +3,14 @@
    ?>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
-  <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/about.png">
+
+  <img src=" assets/img/gynaecology/18.png" alt="" class="img-fluid">
+
+  <!-- <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/about.png">
     <div class="container">
-      <!-- <h1 class="cs_page_title">Contact Us</h1>
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-        <li class="breadcrumb-item active">Contact Us</li>
-      </ol> -->
+    
     </div>
-  </section>
+  </section> -->
   <!-- End Page Heading -->
   <!-- Start Contact Section -->
   <section class="cs_contact">

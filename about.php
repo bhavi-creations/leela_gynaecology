@@ -3,22 +3,18 @@
    include "./includes/header.php";
    ?>
 
-
+<img src="assets/img/gynaecology/12.png" class="d-block w-100 img-fluid" alt="...">
 
 
 
 
   <!-- End Header Section -->
   <!-- Start Page Heading -->
-  <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/about.png">
+  <!-- <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/gynaecology/17.png">
     <div class="container">
-      <!-- <h1 class="cs_page_title">About Page</h1>
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index..php">Home</a></li>
-        <li class="breadcrumb-item active">About Page</li>
-      </ol> -->
+    
     </div>
-  </section>
+  </section> -->
   <section class="cs_contact">
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">

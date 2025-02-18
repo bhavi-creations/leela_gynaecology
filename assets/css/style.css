@@ -8695,7 +8695,7 @@ background:#e72842  !important;
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.4); /* Adjust the opacity value here */
+  background-color: rgba(0, 0, 0, 0.4); 
   z-index: 1;
 }
 
@@ -8728,7 +8728,197 @@ color: pink;
   padding-bottom: 100px;
 }
 
+.custom-slider {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+}
+.custom-slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: contain;
+  background-color: white; 
+}
+.custom-slide img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; 
+}
+.active {
+  z-index: 1;
+  opacity: 1;
+}
+.custom-controls {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+.custom-controls button {
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.custom-controls button:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+
+/* tripura  */
+
+/* General slider styling */
+#carouselExampleFade {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+
+/* Hide all slides except the active one */
+.carousel-item {
+  display: none;
+  transition: opacity 1s ease-in-out;
+}
+
+.carousel-item.active {
+  display: block;
+}
+
+/* Image styling */
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Navigation button styling */
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  /* background: rgba(0, 0, 0, 0.5); */
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  z-index: 1000;
+}
+
+.carousel-control-prev {
+  left: 10px;
+}
+
+.carousel-control-next {
+  right: 10px;
+}
+
+/* Styling for arrows */
+/* .carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: white;
+  border-radius: 50%;
+  padding: 10px;
+} */
 
 
 
+
+/* navbar */
+
+
+/* Ensure the dropdown menu appears below the main menu */
+.services_drop_menu {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-40%);
+  top: 100%;
+  display: none;
+  background: white;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 10px;
+  min-width: 250px;
+  width: auto;
+}
+
+.nav-item:hover .services_drop_menu {
+  display: block;
+}
+
+/* Submenu positioning to move below the service */
+.dropdown-submenu {
+  position: relative;
+}
+
+.dropdown-submenu .submenu {
+  display: none;
+  position: absolute;
+  left: 0; /* Align submenu with parent item */
+  top: 100%; /* Ensure submenu appears below the parent item */
+  margin-top: 0;
+  background: white;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 10px;
+  width: 250px;
+}
+
+.dropdown-submenu:hover .submenu {
+  display: block;
+}
+
+/* Move the second-level submenu below instead of above */
+.second-level {
+  left: 100%; /* Move the second-level submenu to the right */
+  top: 0; /* Align submenu below parent */
+  margin-left: 5px;
+  width: 250px;
+}
+
+.dropdown-submenu:hover .second-level {
+  display: block;
+}
+
+/* For "Comprehensive Antenatal and Postnatal Care" submenu */
+.dropdown-submenu.comprehensive-care .submenu {
+  top: -100%;  /* Move the submenu above the parent item */
+  left: 100%;  /* Position it to the right of the parent item */
+  margin-left: 5px; /* Adjust spacing between parent and submenu */
+}
+
+/* Add padding to all sub-service items */
+.services_drop_menu .dropdown-item {
+  padding: 12px 20px !important; /* Ensure consistent padding */
+  display: block;
+  white-space: nowrap;
+}
+
+/* Ensure submenus have proper spacing */
+.dropdown-submenu .submenu .dropdown-item {
+  padding: 12px 25px !important; /* Adjust inner padding */
+}
+
+/* Improve hover effect */
+.dropdown-menu .dropdown-item:hover {
+  background-color: #f8f9fa !important; /* Light gray background on hover */
+}
+
+/* Ensure dropdown menu appears properly */
+.services_drop_menu {
+  padding: 10px !important;
+}
+
+/* Ensure the second-level submenu (sub-sub services) has proper spacing */
+.second-level .dropdown-item {
+  padding: 12px 25px !important;
+}
 

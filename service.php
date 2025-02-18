@@ -4,15 +4,16 @@
    ?>
    <!-- End Header Section -->
   <!-- Start Page Heading -->
-  <section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/service.png">
+  <!-- <section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/service.png">
+    
     <div class="container">
-      <!-- <h1 class="cs_page_title">Our Service</h1>
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-        <li class="breadcrumb-item active">Service</li>
-      </ol> -->
+   
     </div>
-  </section>
+  </section> -->
+
+
+<img src="assets/img/gynaecology/6.png" alt="Slide 8" class="img-fluid">
+
   <!-- End Page Heading -->
   <!-- Start Service Section -->
 
@@ -25,9 +26,12 @@
               <span class="cs_shape_left"></span>
               OUR BEST SERVICE
             </p>
-            <h2 class="cs_section_title">High-Quality Services This Doctor</h2>
+            <h2 class="cs_section_title">Leela Gynecologist offers high-quality services 
+
+
+</h2>
           </div>
-          <div class="cs_section_heading_right">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.</div>
+          <div class="cs_section_heading_right">Gynecology specializes in the female reproductive system, treating conditions like menstrual issues, menopause, and offering services like family planning and cancer screenings.</div>
         </div>
         <div class="cs_height_50 cs_height_lg_50"></div>
         <div class="row cs_row_gap_30 cs_gap_y_30">
@@ -37,7 +41,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_1.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_1.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">01</h3>
               </div>
@@ -51,7 +55,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_2.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_2.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">02</h3>
               </div>
@@ -65,7 +69,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_3.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_3.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">03</h3>
               </div>
@@ -79,7 +83,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_4.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_4.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">04</h3>
               </div>
@@ -93,7 +97,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_5.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_5.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">05</h3>
               </div>
@@ -107,7 +111,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_6.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_6.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">06</h3>
               </div>
@@ -121,7 +125,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_7.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_7.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">07</h3>
               </div>
@@ -135,7 +139,7 @@
               <div class="cs_iconbox_shape"></div>
               <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
                 <div class="cs_iconbox_icon cs_center">
-                  <img src="assets/img/icons/service_icon_8.png" alt="Service Icon">
+                  <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
                 </div>
                 <h3 class="iconbox_index">08</h3>
               </div>

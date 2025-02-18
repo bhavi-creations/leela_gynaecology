@@ -4,7 +4,8 @@
   <!-- End Header Section -->
   <!-- Start Page Heading -->
   <!-- <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/app.png" alt="Image"> -->
-  <img src="assets/img/gynaecology/5.png" class="d-block w-100 img-fluid" alt="...">
+  <!-- <img src="assets/img/gynaecology/12.png" class="d-block w-100 img-fluid" alt="..."> -->
+  <img src=" assets/img/gynaecology/17.png" alt="" class="img-fluid">
   
     <div class="container">
       <!-- <h1 class="cs_page_title">Appointments</h1>

@@ -4,13 +4,14 @@
           <div class="cs_footer_col">
             <div class="cs_footer_highlight_col cs_accent_bg">
               <div class="cs_footer_logo down">
-               <a href="index.php"> <img src="assets/img/logo.png" alt="Logo" class="img-fluid" style="width:250px"></a>
+               <a href="index.php"> <img src="assets/img/srinivasa/image 1s.ong" alt="Logo" class="img-fluid" style="width:250px"></a>
               </div>
               <ul class="cs_footer_contact cs_mp_0 move">
                 <li>
                   <i class="fa-regular fa-clock  text-dark"></i>
                  <p class="text-dark"> Monday – Saturday  10AM – 8PM &nbsp; &nbsp;  /&nbsp; &nbsp;
                  Closed Sunday</p>
+                 
                 </li>
 
                

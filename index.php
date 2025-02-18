@@ -83,7 +83,7 @@ include "./includes/header.php";
   </div>
 </section> -->
 
-<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+<!-- <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -91,16 +91,10 @@ include "./includes/header.php";
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-    <img src="assets/img/gynaecology/3.png" class="d-block w-100 img-fluid" alt="...">      <!-- <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
-      </div> -->
+    <img src="assets/img/gynaecology/3.png" class="d-block w-100 img-fluid" alt="...">     
     </div>
     <div class="carousel-item">
-    <img src="assets/img/gynaecology/5.png" class="d-block w-100 img-fluid" alt="...">      <!-- <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
-      </div> -->
+    <img src="assets/img/gynaecology/5.png" class="d-block w-100 img-fluid" alt="...">     
     </div>
     <div class="carousel-item">
       <img src="assets/img/gynaecology/1.png" class="d-block w-100 img-fluid" alt="...">
@@ -125,11 +119,130 @@ include "./includes/header.php";
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+</div> -->
+<!-- <div class="custom-slider">
+    <div class="custom-slide active"><img src="assets/img/gynaecology/9.png" alt="Slide 1"></div>
+    <div class="custom-slide"><img src="assets/img/slides/7.png" alt="Slide 7"></div>
+    <div class="custom-slide"><img src="assets/img/gynaecology/16.png" alt="Slide 2"></div>
+    <div class="custom-slide"><img src="assets/img/gynaecology/2.png" alt="Slide 3"></div>
+    <div class="custom-slide"><img src="assets/img/gynaecology/1.png" alt="Slide 4"></div>
+    <div class="custom-slide"><img src="assets/img/gynaecology/3.png" alt="Slide 5"></div>
+    <div class="custom-slide"><img src="assets/img/gynaecology/13.png" alt="Slide 6"></div>
+    <div class="custom-slide"><img src="assets/img/gynaecology/14.png" alt="Slide 7"></div>
+   
+
+
+    <div class="custom-controls">
+        <button onclick="prevCustomSlide()">❮</button>
+        <button onclick="nextCustomSlide()">❯</button>
+    </div>
 </div>
 
+<script>
+    let customIndex = 0;
+    const customSlides = document.querySelectorAll('.custom-slide');
+
+    function showCustomSlide(index) {
+        customSlides.forEach((slide) => slide.classList.remove('active'));
+        customSlides[index].classList.add('active');
+    }
+
+    function nextCustomSlide() {
+        customIndex = (customIndex + 1) % customSlides.length;
+        showCustomSlide(customIndex);
+    }
+
+    function prevCustomSlide() {
+        customIndex = (customIndex - 1 + customSlides.length) % customSlides.length;
+        showCustomSlide(customIndex);
+    }
+
+    setInterval(nextCustomSlide, 3000); // Auto-slide every 3 seconds
+</script> -->
 
 
+<div id="carouselExampleFade" data-bs-interval="3000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+     <div class="carousel-inner cor_med" id="bb">
 
+       <div class="carousel-item active ">
+         <img src="assets/img/gynaecology/16.png"class="d-block  img-fluid " alt="...">
+         <!-- <div class="custom-slide"><img src="assets/img/gynaecology/14.png" alt="Slide 7"></div> -->
+
+       </div>
+       <div class="carousel-item">
+         <img src="assets/img/gynaecology/9.png" class="d-block img-fluid   " alt="...">
+
+       </div>
+       <div class="carousel-item">
+         <img src="assets/img/gynaecology/1.png" class="d-block   img-fluid" alt="...">
+       </div>
+       <div class="carousel-item">
+         <img src="assets/img/gynaecology/2.png" class="d-block   img-fluid" alt="...">
+       </div>
+       <div class="carousel-item">
+         <img src="assets/img/gynaecology/3.png" class="d-block   img-fluid" alt="...">
+       </div>
+     </div>
+     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+       <!-- <span class="carousel-control-prev-icon" aria-hidden="true" style="margin-top: 100px !important;"> </span> -->
+       <!-- <span class="visually-hidden">Previous</span> -->
+     </button>
+     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+       <!-- <span class="carousel-control-next-icon" aria-hidden="true" style="margin-top: 100px !important;"></span> -->
+       <!-- <span class="visually-hidden">Next</span> -->
+     </button>
+   </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    let currentIndex = 0;
+    const slides = document.querySelectorAll(".carousel-item");
+    const totalSlides = slides.length;
+    const intervalTime = 3000; // 3 seconds auto-slide
+    let slideInterval;
+
+    function showSlide(index) {
+        slides.forEach((slide, i) => {
+            slide.classList.remove("active");
+            if (i === index) {
+                slide.classList.add("active");
+            }
+        });
+    }
+
+    function nextSlide() {
+        currentIndex = (currentIndex + 1) % totalSlides;
+        showSlide(currentIndex);
+    }
+
+    function prevSlide() {
+        currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+        showSlide(currentIndex);
+    }
+
+    document.querySelector(".carousel-control-next").addEventListener("click", function () {
+        nextSlide();
+        resetInterval();
+    });
+
+    document.querySelector(".carousel-control-prev").addEventListener("click", function () {
+        prevSlide();
+        resetInterval();
+    });
+
+    function startAutoSlide() {
+        slideInterval = setInterval(nextSlide, intervalTime);
+    }
+
+    function resetInterval() {
+        clearInterval(slideInterval);
+        startAutoSlide();
+    }
+
+    startAutoSlide();
+});
+
+</script>
 
 
 <section class="cs_cta cs_style_1 copy_bg  position-relative overflow-hidden">
@@ -176,7 +289,7 @@ include "./includes/header.php";
 
           </div>
           <div class="cs_experience_box cs_center">
-            <p class="cs_experience_box_number">26+</p>
+            <p class="cs_experience_box_number">5+</p>
             <p class="cs_experience_box_title">Experience</p>
           </div>
         </div>
@@ -1138,26 +1251,32 @@ include "./includes/header.php";
           <h2 class="cs_section_title">Make An Appointment <br>Apply For Treatments</h2>
         </div>
         <div class="cs_height_25 cs_height_lg_25"></div>
-        <form action="appointmentform.php" method="post" role="form" class="cs_contact_form row cs_gap_y_30 home_form_area" >
+        <form action="appointmentform.php" method="post" role="form" class="cs_appointment_form row cs_gap_y_30">
           <div class="col-md-6">
-            <input type="text" name="name" class="cs_form_field" placeholder="Your name">
-          </div>
-          <div class="col-md-6">
-            <input type="email" name="email" class="cs_form_field" placeholder="Your email">
+            <input type="text" name="name" class="cs_form_field" placeholder="Name">
           </div>
           <div class="col-md-6">
-            <input type="text" name="subject" class="cs_form_field" placeholder="Your Subject">
+            <input type="email" name="email" class="cs_form_field" placeholder="Email">
           </div>
-          <div class="col-md-6">
-            <input type="text" name="phone" class="cs_form_field" placeholder="Your phone">
+          <div class="col-md-12">
+            <input type="text" name="address" class="cs_form_field" placeholder="Address">
           </div>
-          <div class="col-lg-12">
-            <textarea rows="5" name="message" class="cs_form_field" placeholder="Your comments"></textarea>
+          <div class="col-md-12">
+            <select name="service" class="cs_form_field">
+              <option value="choose-service">Choose Service</option>
+              <option value="crutches">Crutches</option>
+              <option value="x-Ray">X-Ray</option>
+              <option value="pulmonary">Pulmonary</option>
+              <option value="cardiology">Cardiology</option>
+              <option value="dental-care">Dental Care</option>
+              <option value="neurology">Neurology</option>
+            </select>
           </div>
-          <div class="col-lg-12">
-            <a href="contact.php">
-              <button type="submit" class="contact_bg">Send Request</button>
-            </a>
+          <div class="col-md-12">
+            <input type="date" name="date" class="cs_form_field" placeholder="Appointment date & time">
+          </div>
+          <div class="col-md-12">
+            <button type="submit" class="cs_btn cs_style_1 cs_white_color">Make an appoinment</button>
           </div>
         </form>
       </div>
