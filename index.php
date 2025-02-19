@@ -253,8 +253,8 @@ include "./includes/header.php";
           <img src="assets/img/Untitled design (11).png" alt="">
         </div>
         <div class="cs_cta_info">
-          <h2 class="cs_cta_title">Meet The Team Support Medical Service. </h2>
-          <p class="cs_cta_subtitle">For us, there are no minor aspects, because a quality</p>
+          <h2 class="cs_cta_title"> Advanced Gynecological Care for Women's Health and Well-being </h2>
+          <p class="cs_cta_subtitle">Advanced Treatments Ensuring Comfort and Well-being</p>
         </div>
       </div>
       <div class="cs_cta_right">
@@ -299,11 +299,11 @@ include "./includes/header.php";
           <div class="cs_section_heading cs_style_1">
             <p class="cs_section_subtitle text ">
               <span class="cs_shape_left  "></span>
-              OUR ABOUT US
+               ABOUT US
             </p>
           </div>
           <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
-          <div class="row cs_gap_y_30">
+          <!-- <div class="row cs_gap_y_30">
             <div class="col-sm-6">
               <div class="cs_iconbox cs_style_1">
                 <div class="cs_iconbox_head">
@@ -326,7 +326,7 @@ include "./includes/header.php";
                 <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="cs_about_iconbox">
           </div>
           <a href="about.php" class=" ">
@@ -386,9 +386,10 @@ include "./includes/header.php";
           <span class="cs_shape_left"></span>
           OUR BEST SERVICE
         </p>
-        <h2 class="cs_section_title">High-Quality Services This Doctor</h2>
+        <h2 class="cs_section_title">High-Quality Services </h2>
       </div>
-      <div class="cs_section_heading_right">We are privileged to work with hundreds of future-thinking medial, including many of the world’s top hardware, software, and brands , feel safe and comfortable in establishing.</div>
+      <div class="cs_section_heading_right">We provide high-quality gynecological services with advanced care and expertise.
+      Our focus is on women's health, comfort, and well-being at every stage</div>
     </div>
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="row cs_row_gap_30 cs_gap_y_30">
@@ -685,7 +686,7 @@ include "./includes/header.php";
           <div class="cs_contact_bg_shape">
             <div class="cs_white_bg_shape"></div>
             <div class="cs_iconbox cs_style_4">
-              <div class="cs_iconbox_icon cs_center"><img src="assets/img/icons/call_icon_1.png" alt="Icon"></div>
+              <div class="cs_iconbox_icon cs_center"><img src="assets/img/health-professional.png"  alt="Icon"></div>
               <div class="cs_iconbox_right">
                 <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
                 <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
@@ -732,7 +733,7 @@ include "./includes/header.php";
           <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
             <span class="cs_shape_left"></span> WHY CHOOSE US
           </p>
-          <h2 class="cs_section_title text-white">Medical Ready To Get This <br><span class=""> Health Solution.</span></h2>
+          <h2 class="cs_section_title text-white">Expert gynecological care with personalized treatment for women's health </span></h2>
         </div>
         <div class="cs_height_50 cs_height_lg_50"></div>
       </div>
@@ -1054,10 +1055,10 @@ include "./includes/header.php";
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
     <div class="cs_section_heading cs_style_1 text-center">
-      <p class="cs_section_subtitle text wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
+      <!-- <p class="cs_section_subtitle text wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
         <span class="cs_shape_left"></span class="">Service Offerings<span class="cs_shape_right"></span>
-      </p>
-      <h2 class="cs_section_title">Explore Our Service<br> Offerings</h2>
+      </p> -->
+      <!-- <h2 class="cs_section_title">Explore Our Service<br> Offerings</h2> -->
     </div>
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="cs_tabs">
@@ -1099,7 +1100,7 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <h2 class="cs_card_title">We are here to hear and heal your</h2>
+                  <!-- <h2 class="cs_card_title">We are here to hear and heal your</h2> -->
                   <p class="cs_card_subtitle">Advancements in medical technology have significantly improved the diagnosis, treatment, and management of gynecological conditions. These innovations enhance precision, reduce recovery times, and improve patient outcomes.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0 ">
@@ -1135,8 +1136,8 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <h2 class="cs_card_title">Treatment patients in primary care</h2>
-                  <p class="cs_card_subtitle">Gynecology has seen significant advancements in medical treatments, improving the quality of life for millions of women worldwide. Success in gynecological treatment depends on early diagnosis, modern medical technology, and personalized care.
+                  <!-- <h2 class="cs_card_title">Treatment patients in primary care</h2> -->
+                  <p class="cs_card_subtitle">Gynecology has seen significant advancements in medical treatments,  Success in gynecological treatment depends on early diagnosis, modern medical technology, and personalized care.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0">
                     <li>
@@ -1171,7 +1172,7 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <h2 class="cs_card_title">Accreditation within a given specialty</h2>
+                  <!-- <h2 class="cs_card_title">Accreditation within a given specialty</h2> -->
                   <p class="cs_card_subtitle">A certified gynecologist is a medical professional specializing in women’s reproductive health, trained to diagnose, treat, and manage gynecological conditions, pregnancy, and childbirth. Certification ensures that the doctor has undergone extensive education, training, and examinations to provide high-quality care.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0">
@@ -1207,7 +1208,7 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <h2 class="cs_card_title">Better Health While Aging health</h2>
+                  <!-- <h2 class="cs_card_title">Better Health While Aging health</h2> -->
                   <p class="cs_card_subtitle">Maintaining good gynecological health is essential for overall well-being. Regular checkups, early detection of conditions, and a healthy lifestyle can prevent many reproductive health issues. Here is medical advice on key aspects of gynecology, from menstruation to menopause.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0">
@@ -1239,7 +1240,7 @@ include "./includes/header.php";
 </section>
 <!-- End Medical Tab Section -->
 <!-- Start Medical Solution Section -->
-<section class="cs_card cs_style_3 cs_gray_bg position-relative">
+<section class="cs_card cs_style_3 cs_gray_bg position-relative ">
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
     <div class="row cs_gap_y_40">
@@ -1280,7 +1281,7 @@ include "./includes/header.php";
           </div>
         </form>
       </div>
-      <div class="col-lg-8">
+      <div class="col-lg-8 ">
         <div class="cs_solution_thumbnail cs_bg_filed" data-src="assets/img/medical_solution_1.jpg">
           <img src="assets/img/Untitled design (9).png" alt="" class="img-fluid">
         </div>

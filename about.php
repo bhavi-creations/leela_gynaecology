@@ -27,7 +27,7 @@
           <div class="cs_contact_bg_shape">
             <div class="cs_white_bg_shape"></div>
             <div class="cs_iconbox cs_style_4">
-              <div class="cs_iconbox_icon cs_center"><img src="assets/img/icons/call_icon_1.png" alt="Icon"></div>
+              <div class="cs_iconbox_icon cs_center"><img src="assets/img/health-professional.png" alt="Icon"></div>
               <div class="cs_iconbox_right">
                 <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
                 <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
@@ -42,7 +42,7 @@
           <p class="cs_section_subtitle text">
             <span class="cs_shape_left"></span>Bio
           </p>
-          <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meet</h2>
+          <h2 class="cs_section_title">Meet Our Specialist </h2>
         </div>
         <div class="cs_height_25 cs_height_lg_25"></div>
         <p>
@@ -181,7 +181,7 @@
               <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
             </div>
             <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
-            <div class="row cs_gap_y_30">
+            <!-- <div class="row cs_gap_y_30">
               <div class="col-sm-6">
                 <div class="cs_iconbox cs_style_1">
                   <div class="cs_iconbox_head">
@@ -204,7 +204,7 @@
                   <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
                 </div>
               </div>
-            </div>
+            </div> -->
             <div class="cs_about_iconbox">
               <!-- <div class="cs_about_iconbox_icon cs_center">
                 <i class="fa-regular fa-circle-check"></i>
@@ -225,7 +225,7 @@
 
 
     <!-- Start Counter Section -->
-    <div class="cs_counter_area_2 ">
+    <!-- <div class="cs_counter_area_2 ">
       <div class="container">
         <div class="cs_counter_2_wrap new_color">
           <div class="cs_counter cs_style_2">
@@ -259,7 +259,7 @@
         </div>
       </div>
       <div class="cs_height_120 cs_height_lg_80"></div>
-    </div>
+    </div> -->
     <!-- End Counter Section -->
 
 

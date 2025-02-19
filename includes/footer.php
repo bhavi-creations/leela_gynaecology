@@ -139,6 +139,12 @@
     <!-- End Scroll Up Button -->
 
 
+    <!-- <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
+     target="_blank">
+     <i class="fa-brands fa-whatsapp"></i>
+ </a> -->
+
+
     <!-- Script -->
     <script src="assets/js/jquery-3.6.0.min.js"></script>
     <script src="assets/js/wow.min.js"></script>
