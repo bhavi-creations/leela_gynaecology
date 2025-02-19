@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Krishnadentacure - Dashboard</title>
+    <title>Leelagyniecology - Dashboard</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -67,38 +67,28 @@
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Root Canal">Root Canal</option>
-                                                <option value="Wisdom Tooth Removal">Wisdom Tooth Removal</option>
-                                                <option value="Bad Breath Treatment">Bad Breath Treatment</option>
-                                                <option value="Gum Treatment">Gum Treatment</option>
-                                                <option value="Teeth Cleaning">Teeth Cleaning </option>     
-                                                <option value="Orthodontic Treatment">Orthodontic Treatment</option>
-                                                <option value="Dental Crown & Bridge">Dental Crown & Bridge</option>
-                                                <option value="Invisible Aligners">Invisible Aligners </option>
-                                                <option value="Dental Veneers">Dental Veneers</option>
-                                                <option value="Smile Makeover">Smile Makeover</option>
-                                                <option value="Teeth Whitening">Teeth Whitening</option>
-                                                <option value="Dental Implants">Dental Implants</option>
-                                                <option value="Dentures">Dentures</option>
-                                                <option value="Fluoride Application & Dental Sealant">Fluoride Application & Dental Sealant</option>
-                                                <option value="Full Mouth Rehabilitation Treatment">Full Mouth Rehabilitation Treatment</option>
-                                                
-                                               
-                                                <!-- <option value="Laser Gum">Laser & Gum</option>
-                                                <option value="Tooth Extraction">Tooth Extraction</option>
-                                                <option value="Tooth Cleaning">Teeth Cleaning</option>
-                                                <option value="Gum Depigment">Gum Depigment</option>
-                                                <option value="Teeth Whitening">Teeth Whitening</option>
-                                                <option value="Laser Gum Surgery">Laser Gum Surgery </option>
-                                                <option value="Mouth Ulcers">Mouth Ulcers </option> 
-                                                <option value="Precancerous Lesion">Precancerous Lesion</option>
-                                                <option value="Laser Crown Lengthening">Laser Crown Lengthening</option> -->
-                                               
+                                                <option value="PCOD and Adolscent Clinics" >PCOD and Adolscent Clinics</option>
+                                                <option value="Menstrual Problems" >Menstrual Problems</option>
+                                                <option value="Infertility" >Infertility</option>
+                                                <option value="Preconceptional Care" > Preconceptional Care</option>
+                                                <option value="Menopausal Clinic" >Menopausal Clinic</option>
+                                                <option value="Well Woman Check up" >Well Woman Check up</option>
+                                                <option value="Cancer Screening" >Cancer Screening</option>
+                                                <option value="All Gynaecological Problems" >All Gynaecological Problems</option>
+                                                <option value="Comprehensive antenatal and post natal care" >Comprehensive antenatal and post natal care</option>
+                                                <option value="High Risk Pregnancy">High Risk Pregnancy</option>
+                                                <option value="Ultrasound Scanning" > Ultrasound Scanning</option>
+                                                <option value="Electronic fetal monitoring" >Electronic fetal monitoring</option>
+                                                <option value="Lactational consultation" >Lactational consultation </option>
+                                            
+
+
+
                                             </select>
                                         </div>
 
 
-                                
+
 
 
                                         <!-- Main Content Quill Editor -->
@@ -253,7 +243,7 @@
                     <div class="container my-auto">
                         <div class="copyright text-center my-auto">
                             <div class="footer-widget__copyright">
-                                <p class="mini_text" style="color:black"> ©2024 Krishnadentacure . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
+                                <p class="mini_text" style="color:black"> ©2024 Leelagyniecology . All Rights Reserved. Designed & Developed by <a href="https://bhavicreations.com/" target="_blank" style="text-decoration: none;color:black">Bhavi Creations</a></p>
                             </div>
                         </div>
                     </div>

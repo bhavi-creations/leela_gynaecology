@@ -79,8 +79,8 @@
   <!-- Start Location Map -->
   <div class="cs_location_map">
     
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3815.9780861738523!2d82.23607608885496!3d16.97562820000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a38286a6a9f1451%3A0xac55c6f56ee1f7b4!2s2-18-29%2C%20Madhav%20Nagar%2C%20Jawaharlal%20Nehru%20Technological%20University%20Area%2C%20Ramanaya%20Peta%2C%20Kakinada%2C%20Andhra%20Pradesh%20533003!5e0!3m2!1sen!2sin!4v1738752481572!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  </div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d4135.043051429366!2d82.23027846937303!3d16.961447026145862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3a382814c71abf81%3A0xe2ceca2bc87008ab!2sD%2C%20No.%202-18-9%2F1%2C%20opposite%20to%20SP%20OFFICE%20ROAD%2C%20near%20RMC%20GROUND%2C%20Madhav%20Nagar%2C%20Dwaraka%20Nagar%2C%20Kakinada%2C%20Andhra%20Pradesh%20533001!3m2!1d16.9753224!2d82.24061119999999!5e0!3m2!1sen!2sin!4v1738581300683!5m2!1sen!2sin" ></iframe>
+    </div>
   
   <!-- End Location Map -->
   <!-- Start Footer -->

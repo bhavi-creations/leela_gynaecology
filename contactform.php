@@ -9,11 +9,11 @@ require 'vendor/autoload.php'; // Adjust the path to autoload.php based on your 
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Assign POST data to variables
-    $contactname = $_POST['contactname'] ?? '';
-    $contactemail = $_POST['contactemail'] ?? '';
-    $contactsubject = $_POST['address'] ?? '';
-    $contactnumber = $_POST['contactnumber'] ?? '';
-    $contactmessage = $_POST['contactmessage'] ?? '';
+    $contactname = $_POST['name'] ?? '';
+    $contactemail = $_POST['email'] ?? '';
+    $contactsubject = $_POST['subject'] ?? '';
+    $contactnumber = $_POST['phone'] ?? '';
+    $contactmessage = $_POST['message'] ?? '';
 
     // Create a new PHPMailer instance
     $mail = new PHPMailer(true);
@@ -39,8 +39,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
            
             <h1>Contact Details</h1>
             <p><strong>Name:</strong> $contactname</p>
-            <p><strong>Email:</strong> $contactemail</p>
-            <p><strong>Address:</strong> $contactsubject</p>
+            
+            <p><strong>subject:</strong> $contactsubject</p>
             <p><strong>Phone:</strong> $contactnumber</p>
             <p><strong>Message:</strong>$contactmessage</p>
         ";

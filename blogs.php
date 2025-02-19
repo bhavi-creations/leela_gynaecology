@@ -47,207 +47,26 @@ include "./includes/header.php";
 </section>
 <!-- End Page Heading -->
 <!-- Start Blog Section -->
-<!-- <section>
-    <div class="cs_height_110 cs_height_lg_70"></div>
-    <div class="container">
-      <div class="cs_section_heading cs_style_1 text-center">
-        <p class="cs_section_subtitle cs_accent_color">
-          <span class="cs_shape_left"></span>OUR LARGEST BLOG<span class="cs_shape_right"></span>
-        </p>
-        <h2 class="cs_section_title">Latest Posts & Articles</h2>
-      </div>
-      <div class="cs_height_50 cs_height_lg_50"></div>
-      <div class="cs_posts_grid cs_style_1">
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_1.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">May 02</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
-          </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_2.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">April 12</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">There Is Only One Thing That Is Hospital.</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
-          </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_3.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">Jan 02</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">This Working World and Infection Prevention.</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
-          </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_4.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">June 02</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
-          </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_5.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">May 22</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">This Working World and Infection Prevention.</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
-          </div>
-        </article>
-        <article class="cs_post cs_style_1">
-          <a href="blog-details.html" class="cs_post_thumbnail position-relative">
-            <img src="assets/img/post_6.jpeg" alt="Post Thumbnail">
-            <div class="cs_post_category position-absolute">Medical</div>
-          </a>
-          <div class="cs_post_content position-relative">
-            <div class="cs_post_meta_wrapper">
-              <div class="cs_posted_by cs_center position-absolute">Feb 10</div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_user_icon.png" alt="Icon">
-                <span>By: Admin</span>
-              </div>
-              <div class="cs_post_meta_item">
-                <img src="assets/img/icons/post_comment_icon.png" alt="Icon">
-                <span>Comment</span>
-              </div>
-            </div>
-            <h3 class="cs_post_title"><a href="blog-details.html">Medical Of This Working Health Blog</a></h3>
-            <p class="cs_post_subtitle">Medical standard chunk ofI nibh velit auctor aliquet sollic tudin.</p>
-            <a href="blog-details.html" class="cs_post_btn">
-              <span>Read More</span>
-              <span><i class="fa-solid fa-angle-right"></i></span>
-            </a>
-            <div class="cs_post_shape position-absolute"></div>
-          </div>
-        </article>
-      </div>
-    </div>
-    <div class="cs_height_120 cs_height_lg_80"></div>
-  </section> -->
-<main>
+
+  <main>
   <!-- Filter Buttons -->
   <div class="container">
     <div class="filter_buttons redirect_section mt-5">
       <a href="blogs.php?service="><button class="redirect_blog_srivice">All</button></a>
-      <a href="blogs.php?service=Root Canal"><button class="redirect_blog_srivice">Root Canal</button></a>
-      <a href="blogs.php?service=Wisdom Tooth Removal"><button class="redirect_blog_srivice">Wisdom Tooth Removal</button></a>
-      <a href="blogs.php?service=Bad Breath Treatment"><button class="redirect_blog_srivice">Bad Breath Treatment</button></a>
-      <a href="blogs.php?service=Gum Treatment"><button class="redirect_blog_srivice"> Gum Treatment</button></a>
-      <a href="blogs.php?service=Teeth Cleaning"><button class="redirect_blog_srivice">Teeth Cleaning </button></a>
-      <a href="blogs.php?service=Orthodontic Treatment"><button class="redirect_blog_srivice">Orthodontic Treatment</button></a>
-      <a href="blogs.php?service=Dental Crown & Bridge"><button class="redirect_blog_srivice"> Dental Crown & Bridge</button></a>
-      <a href="blogs.php?service=Invisible Aligners"><button class="redirect_blog_srivice">Invisible Aligners </button></a>
-      <a href="blogs.php?service=Dental Veneers"><button class="redirect_blog_srivice">Dental Veneers</button></a>
-      <a href="blogs.php?service=Smile Makeover"><button class="redirect_blog_srivice">Smile Makeover</button></a>
-      <a href="blogs.php?service=Teeth Whitening"><button class="redirect_blog_srivice">Teeth Whitening</button></a>
-      <a href="blogs.php?service=Dental Implant"><button class="redirect_blog_srivice">Dental Implant</button></a>
-      <a href="blogs.php?service=Dentures"><button class="redirect_blog_srivice">Dentures </button></a>
-      <a href="blogs.php?service=Fluoride Application & Dental Sealant"><button class="redirect_blog_srivice">Fluoride Application & Dental Sealant</button></a>
-      <a href="blogs.php?service=Full Mouth Rehabilitation Treatment"><button class="redirect_blog_srivice"> Full Mouth Rehabilitation Treatment</button></a>
-
-      <!-- <a href="blogs.php?service=Laser Gum"><button class="redirect_blog_srivice">Laser & Gum</button></a>
-      <a href="blogs.php?service=Tooth Extraction"><button class="redirect_blog_srivice">Tooth Extraction</button></a>
-      <a href="blogs.php?service=Tooth Cleaning"><button class="redirect_blog_srivice">Tooth Cleaning</button></a>
-      <a href="blogs.php?service=Gum Depigment"><button class="redirect_blog_srivice">Gum Depigment</button></a>
-      <a href="blogs.php?service=Teeth Whitening"><button class="redirect_blog_srivice">Teeth Whitening</button></a>
-      <a href="blogs.php?service=Laser Gum Surgery"><button class="redirect_blog_srivice">Laser Gum Surgery</button></a>
-      <a href="blogs.php?service=Mouth Ulcers"><button class="redirect_blog_srivice">Mouth Ulcers</button></a>
-      <a href="blogs.php?service=Precancerous Lesion"><button class="redirect_blog_srivice">Precancerous Lesion</button></a>
-      <a href="blogs.php?service=Laser Crown Lengthening"><button class="redirect_blog_srivice">Laser Crown Lengthening</button></a> -->
+      <a href="blogs.php?service=PCOD and Adolscent Clinics"><button class="redirect_blog_srivice">PCOD and Adolscent Clinics</button></a>
+      <a href="blogs.php?service=Menstrual Problems"><button class="redirect_blog_srivice">Menstrual Problems</button></a>
+      <a href="blogs.php?service=Infertility"><button class="redirect_blog_srivice">Infertility</button></a>
+      <a href="blogs.php?service=Preconceptional Care"><button class="redirect_blog_srivice"> Preconceptional Care</button></a>
+      <a href="blogs.php?service=Menopausal Clinic"><button class="redirect_blog_srivice">Menopausal Clinic </button></a>
+      <a href="blogs.php?service=Well Woman Check up"><button class="redirect_blog_srivice">Well Woman Check up</button></a>
+      <a href="blogs.php?service=Cancer Screening"><button class="redirect_blog_srivice"> Cancer Screening</button></a>
+      <a href="blogs.php?service=All Gynaecological Problems"><button class="redirect_blog_srivice">All Gynaecological Problems </button></a>
+      <a href="blogs.php?service=Comprehensive antenatal and post natal care"><button class="redirect_blog_srivice">Comprehensive antenatal and post natal care</button></a>
+      <a href="blogs.php?service=High Risk Pregnancy"><button class="redirect_blog_srivice">High Risk Pregnancy</button></a>
+      <a href="blogs.php?service=Ultrasound Scanning"><button class="redirect_blog_srivice">Ultrasound Scanning</button></a>
+      <a href="blogs.php?service=Electronic fetal monitoring"><button class="redirect_blog_srivice">Electronic fetal monitoring</button></a>
+      <a href="blogs.php?service=Lactational consultation"><button class="redirect_blog_srivice">Lactational consultation </button></a>
+  
     </div>
   </div>
 

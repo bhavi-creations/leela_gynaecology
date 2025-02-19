@@ -4,13 +4,13 @@
           <div class="cs_footer_col">
             <div class="cs_footer_highlight_col cs_accent_bg">
               <div class="cs_footer_logo down">
-               <a href="index.php"> <img src="assets/img/logo.png" alt="Logo" class="img-fluid" style="width:250px"></a>
+               <a href="index.php"> <img src="assets/img/women.png" alt="Logo" class="img-fluid mb-3" ></a>
               </div>
               <ul class="cs_footer_contact cs_mp_0 move">
                 <li>
                   <i class="fa-regular fa-clock  text-dark"></i>
-                 <p class="text-dark"> Open Hours of Hospital: <br>
-                  Mon - Fri: 8.00 am. - 6.00 pm.</p>
+                  <p class="text-dark"> Monday – Saturday <br> 10AM – 8PM   /
+                  Closed Sunday</p>
                 </li>
                 <li>
                   <i class="fa-solid fa-location-dot  text-dark"></i>
@@ -27,9 +27,9 @@
                 </li>
               </ul>
               <div class="cs_social_btns cs_style_1">
-                <a href="https://www.facebook.com/Leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
-                <a href="https://www.youtube.com/@Leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
-                <a href="https://www.instagram.com/leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.facebook.com/Leelawomenshealthcare/" class="cs_center"><img src="assets/img/icons/facebook.png" alt=""></a>
+                <a href="https://www.youtube.com/@Leelawomenshealthcare/" class="cs_center"><img src="assets/img/icons/youtube.png" alt=""></a>
+                <a href="https://www.instagram.com/leelawomenshealthcare/" class="cs_center"> <img src="assets/img/icons/instagram.png" alt=""> </a>
               </div>
             </div>
           </div>
@@ -83,6 +83,10 @@
     <li>
         <i class="fa-solid fa-arrow-right text"></i>
         <a href="lactationalconsultation.php" class="text-dark">Lactational Consultation</a>
+    </li>
+    <li>
+        <i class="fa-solid fa-arrow-right text"></i>
+        <a href="painlessdelivery.php" class="text-dark">Pain Less Delivery</a>
     </li>
 </ul>
 

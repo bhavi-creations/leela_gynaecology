@@ -4,7 +4,7 @@
           <div class="cs_footer_col">
             <div class="cs_footer_highlight_col cs_accent_bg">
               <div class="cs_footer_logo down">
-               <a href="index.php"> <img src="assets/img/srinivasa/image 1s.ong" alt="Logo" class="img-fluid" style="width:250px"></a>
+               <a href="index.php"> <img src="assets/img/srinivasa/image 1s.ong" alt="Logo" class="img-fluid" ></a>
               </div>
               <ul class="cs_footer_contact cs_mp_0 move">
                 <li>
@@ -88,9 +88,13 @@
         <i class="fa-solid fa-arrow-right text"></i>
         <a href="lactationalconsultation.php" class="text-dark">Lactational Consultation</a>
     </li>
+    <li>
+        <i class="fa-solid fa-arrow-right text"></i>
+        <a href="painlessdelivery.php" class="text-dark">Pain Less Delivery</a>
+    </li>
 </ul>
 
-             
+
             </div>
           </div>
         </div>

@@ -41,12 +41,19 @@
           <div class="col-md-12">
             <select name="service" class="cs_form_field">
               <option value="choose-service">Choose Service</option>
-              <option value="crutches">Crutches</option>
-              <option value="x-Ray">X-Ray</option>
-              <option value="pulmonary">Pulmonary</option>
-              <option value="cardiology">Cardiology</option>
-              <option value="dental-care">Dental Care</option>
+              <option value="crutches">PCOD and Adolscent Clinics</option>
+              <option value="x-Ray">Menstrual Problems</option>
+              <option value="pulmonary">Infertility</option>
+              <option value="cardiology">Preconceptional Care</option>
+              <option value="dental-care">Menopausal Clinic</option>
+              <option value="neurology">Well Woman Check up</option>
+              <option value="neurology">CancerScreening</option>
+              <option value="neurology">All Gynaecological Problems </option>
+              <option value="neurology">Comprehensive antenatal and post natal care</option>
+              <!-- <option value="neurology">Neurology</option>
               <option value="neurology">Neurology</option>
+              <option value="neurology">Neurology</option> -->
+
             </select>
           </div>
           <div class="col-md-12">

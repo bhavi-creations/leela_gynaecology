@@ -2,6 +2,7 @@
 include "./includes/header.php";
 ?>
 
+<img src="assets/img/gynaecology/gynaecology.png" class="d-block w-100 img-fluid" alt="...">
 
 
 <div class="container">

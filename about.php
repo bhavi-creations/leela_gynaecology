@@ -1,7 +1,4 @@
-
-<?php
-   include "./includes/header.php";
-   ?>
+<?php include 'includes/header.php'; ?>
 
 <img src="assets/img/gynaecology/12.png" class="d-block w-100 img-fluid" alt="...">
 
@@ -169,7 +166,7 @@
 
             </div>
             <div class="cs_experience_box cs_center">
-              <p class="cs_experience_box_number">26+</p>
+              <p class="cs_experience_box_number">5+</p>
               <p class="cs_experience_box_title">Experience</p>
             </div>
           </div>

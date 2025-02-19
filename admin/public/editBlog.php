@@ -74,34 +74,21 @@ $conn->close();
                                             <label for="service" class="form-label text-primary">Select Service:</label>
                                             <select id="service" name="service" class="form-control" required>
                                                 <option value="">Select a Service</option>
-                                                <option value="Root Canal" <?php echo ($service == 'Root Canal') ? 'selected' : ''; ?>>Root Canal</option>
-                                                <option value="Wisdom Tooth Removal" <?php echo ($service == 'Wisdom Tooth Removal') ? 'selected' : ''; ?>>Wisdom Tooth Removal</option>
-                                                <option value="Bad Breath Treatment" <?php echo ($service == 'Bad Breath Treatment') ? 'selected' : ''; ?>>Bad Breath Treatment</option>
-                                                <option value="Gum Treatment" <?php echo ($service == 'Gum Treatment') ? 'selected' : ''; ?>> Gum Treatment</option>
-                                                <option value="Teeth Cleaning" <?php echo ($service == 'Teeth Cleaning') ? 'selected' : ''; ?>>Teeth Cleaning</option>
-                                                <option value="Orthodontic Treatment" <?php echo ($service == 'Orthodontic Treatment') ? 'selected' : ''; ?>>Orthodontic Treatment</option>
-                                                <option value="Dental Crown & Bridge" <?php echo ($service == 'Dental Crown & Bridge') ? 'selected' : ''; ?>>Dental Crown & Bridge</option>
-                                                <option value="Invisible Aligners" <?php echo ($service == 'Invisible Aligners') ? 'selected' : ''; ?>>Invisible Aligners</option>
-                                                <option value="Dental Veneers" <?php echo ($service == 'Dental Veneers') ? 'selected' : ''; ?>>Dental Veneers</option>
-                                                <option value="Smile Makeover" <?php echo ($service == 'Smile Makeover') ? 'selected' : ''; ?>>Smile Makeover</option>
-                                                <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>> Teeth Whitening</option>
-                                                <option value="Dental Implants" <?php echo ($service == 'Dental Implants') ? 'selected' : ''; ?>>Dental Implants</option>
-                                                <option value="Dentures" <?php echo ($service == 'Dentures') ? 'selected' : ''; ?>>Dentures  </option>
-                                                <option value="Smile Designing" <?php echo ($service == 'Smile Designing') ? 'selected' : ''; ?>>Smile Designing</option>
-                                                <option value="Full Mouth Rehabilitation Treatment" <?php echo ($service == 'Full Mouth Rehabilitation Treatment') ? 'selected' : ''; ?>>Full Mouth Rehabilitation Treatment</option>
-                                              
-                                                <!-- <option value="Laser Gum" <?php echo ($service == 'Laser Gum') ? 'selected' : ''; ?>>Laser & Gum</option>
-                                                <option value="Tooth Extraction" <?php echo ($service == 'Tooth Extraction') ? 'selected' : ''; ?>>Tooth Extraction</option>
-                                                <option value="Teeth Cleaning" <?php echo ($service == 'Teeth Cleaning') ? 'selected' : ''; ?>>Teeth Cleaning</option>
-                                                <option value="Gum Depigment" <?php echo ($service == 'Gum Depigment') ? 'selected' : ''; ?>>Gum Depigment</option>
-                                                <option value="Teeth Whitening" <?php echo ($service == 'Teeth Whitening') ? 'selected' : ''; ?>>Teeth Whitening</option>
-                                                <option value="Laser Gum Surgery" <?php echo ($service == 'Laser Gum Surgery') ? 'selected' : ''; ?>>Laser Gum Surgery</option>
-                                                <option value="Mouth Ulcers" <?php echo ($service == 'Mouth Ulcers') ? 'selected' : ''; ?>>Mouth Ulcers</option>
-                                                <option value="Precancerous Lesion" <?php echo ($service == 'Precancerous Lesion') ? 'selected' : ''; ?>>Precancerous Lesion</option>
-                                                <option value="Laser Crown Lengthening" <?php echo ($service == 'Laser Crown Lengthening') ? 'selected' : ''; ?>>Laser Crown Lengthening</option> -->
+                                                <option value="PCOD and Adolscent Clinics" <?php echo ($service == 'PCOD and Adolscent Clinics') ? 'selected' : ''; ?>>PCOD and Adolscent Clinics</option>
+                                                <option value="Menstrual Problems" <?php echo ($service == 'Menstrual Problems') ? 'selected' : ''; ?>>Menstrual Problems</option>
+                                                <option value="Infertility" <?php echo ($service == 'Infertility') ? 'selected' : ''; ?>>Infertility</option>
+                                                <option value="Preconceptional Care" <?php echo ($service == 'Preconceptional Care') ? 'selected' : ''; ?>> Preconceptional Care</option>
+                                                <option value="Menopausal Clinic" <?php echo ($service == 'Menopausal Clinic') ? 'selected' : ''; ?>>Menopausal Clinic</option>
+                                                <option value="Well Woman Check up" <?php echo ($service == 'Well Woman Check up') ? 'selected' : ''; ?>>Well Woman Check up</option>
+                                                <option value="Cancer Screening" <?php echo ($service == 'Cancer Screening') ? 'selected' : ''; ?>>Cancer Screening</option>
+                                                <option value="All Gynaecological Problems" <?php echo ($service == 'All Gynaecological Problems') ? 'selected' : ''; ?>>All Gynaecological Problems</option>
+                                                <option value="Comprehensive antenatal and post natal care" <?php echo ($service == 'Comprehensive antenatal and post natal care') ? 'selected' : ''; ?>>Comprehensive antenatal and post natal care</option>
+                                                <option value="High Risk Pregnancy" <?php echo ($service == 'High Risk Pregnancy') ? 'selected' : ''; ?>>High Risk Pregnancy</option>
+                                                <option value="Ultrasound Scanning" <?php echo ($service == 'Ultrasound Scanning') ? 'selected' : ''; ?>> Ultrasound Scanning</option>
+                                                <option value="Electronic fetal monitoring" <?php echo ($service == 'Electronic fetal monitoring') ? 'selected' : ''; ?>>Electronic fetal monitoring</option>
+                                                <option value="Lactational consultation" <?php echo ($service == 'Lactational consultation') ? 'selected' : ''; ?>>Lactational consultation  </option>
 
-
-
+              
                                             </select>
                                         </div>
 

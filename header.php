@@ -56,67 +56,97 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-          <li class="nav-item">
-            <a class="nav-link active" href="index.php">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="about.php">About</a>
-          </li>
+     <!-- Navbar -->
+<div class="collapse navbar-collapse" id="navbarNav">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link active" href="index.php">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="about.php">About</a>
+    </li>
 
-          <!-- Services Dropdown -->
-          <li class="nav-item dropdown" id="servicesDropdown">
-            <a class="nav-link" href="services.php" onclick="toggleSubMenu(event, 'servicesSubmenu')">Services</a>
-            <ul class="dropdown-menu" id="servicesSubmenu" style="display: none;">
-              <li class="dropdown-submenu">
-                <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'dentalTreatmentSubmenu')">Dental Treatment</a>
-                <ul class="dropdown-menu" id="dentalTreatmentSubmenu" style="display: none;">
-                  <li><a class="dropdown-item" href="implants.php">Implants</a></li>
-                  <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
-                  <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
-                  <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
-                  <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges </a></li>
-                  <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
-                  <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
-                  <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
-                </ul>
-              </li>
-              <li class="dropdown-submenu">
-                <a class="dropdown-item" href="#" onclick="toggleSubMenu(event, 'cosmeticTreatmentSubmenu')">Cosmetic Treatment</a>
-                <ul class="dropdown-menu" id="cosmeticTreatmentSubmenu" style="display: none;">
-                  <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
-                  <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
-                  <li><a class="dropdown-item" href="composite_filler.php">Composite Fillings</a></li>
-                  <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
+    <!-- Services Dropdown -->
+    <li class="nav-item dropdown" id="servicesDropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="servicesLink">Services</a>
+      <ul class="dropdown-menu" id="servicesSubmenu">
+        <li class="dropdown-submenu">
+          <a class="dropdown-item dropdown-toggle" href="#">Dental Treatment</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="implants.php">Implants</a></li>
+            <li><a class="dropdown-item" href="rootcanal.php">Root Canal</a></li>
+            <li><a class="dropdown-item" href="tooth_aligners.php">Tooth Aligners</a></li>
+            <li><a class="dropdown-item" href="clips_braces.php">Clips or Braces</a></li>
+            <li><a class="dropdown-item" href="bridges.php">Crowns & Bridges</a></li>
+            <li><a class="dropdown-item" href="gum_surgery.php">Gum Surgery</a></li>
+            <li><a class="dropdown-item" href="maxillofacial_surgery.php">Maxillofacial Surgery</a></li>
+            <li><a class="dropdown-item" href="lasers.php">Laser Treatment</a></li>
+          </ul>
+        </li>
+        <li class="dropdown-submenu">
+          <a class="dropdown-item dropdown-toggle" href="#">Cosmetic Treatment</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="teeth_whitening.php">Teeth Whitening</a></li>
+            <li><a class="dropdown-item" href="veneers.php">Veneers</a></li>
+            <li><a class="dropdown-item" href="composite_filler.php">Composite Fillings</a></li>
+            <li><a class="dropdown-item" href="teeth_jewellery.php">Teeth Jewellery</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
 
-          <!-- Equipment Dropdown -->
-          <li class="nav-item dropdown" id="equipmentDropdown">
-            <a class="nav-link" href="equipment.php" onclick="toggleSubMenu(event, 'equipmentSubmenu')">Equipment</a>
-            <ul class="dropdown-menu" id="equipmentSubmenu" style="display: none;">
-              <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner </a></li>
-              <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
-              <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
-            </ul>
-          </li>
+    <!-- Equipment Dropdown -->
+    <li class="nav-item dropdown" id="equipmentDropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="equipmentLink">Equipment</a>
+      <ul class="dropdown-menu" id="equipmentSubmenu">
+        <li><a class="dropdown-item" href="dental_ct_scan.php">Dental Scanner</a></li>
+        <li><a class="dropdown-item" href="ray.php">3D X-Ray</a></li>
+        <li><a class="dropdown-item" href="laser_equipment.php">Laser</a></li>
+        <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+      </ul>
+    </li>
 
-          <li class="nav-item">
-            <a class="nav-link" href="blogs.php">Blog</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contact.php">Contact</a>
-          </li>
+    <li class="nav-item">
+      <a class="nav-link" href="blogs.php">Blog</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="contact.php">Contact</a>
+    </li>
 
-          <!-- Make Appointment Button -->
-          <li class="nav-item">
-            <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
-          </li>
-        </ul>
-      </div>
+    <!-- Make Appointment Button -->
+    <li class="nav-item">
+      <a class="btn btn-primary nav-btn ms-lg-3" href="appointment.php">Make Appointment</a>
+    </li>
+  </ul>
+</div>
+
+<!-- JavaScript to Handle Mobile Dropdown -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    if (window.innerWidth <= 992) {
+      // Select all dropdown links
+      document.querySelectorAll(".nav-item.dropdown > a").forEach(function (dropdown) {
+        dropdown.addEventListener("click", function (event) {
+          event.preventDefault(); // Prevent default link action
+
+          // Find the corresponding dropdown menu
+          let submenu = this.nextElementSibling;
+
+          // Close all other dropdowns
+          document.querySelectorAll(".dropdown-menu").forEach(function (menu) {
+            if (menu !== submenu) {
+              menu.style.display = "none";
+            }
+          });
+
+          // Toggle current dropdown menu
+          submenu.style.display = submenu.style.display === "block" ? "none" : "block";
+        });
+      });
+    }
+  });
+</script>
+
     </div>
   </nav>
 </section>
