@@ -5,7 +5,7 @@ include "./includes/header.php";
 <img src="assets/img/gynaecology/cancer.png" class="d-block w-100 img-fluid" alt="...">
 
 
-<div class="container">
+<div class="container service_section_content">
   <div class="row">
     <div class="col-md-6 mt-5 space">
       <img src="assets/img/Untitled design (43)/6.png" alt="" class="img-fluid pics">

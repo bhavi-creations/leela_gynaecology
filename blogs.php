@@ -36,7 +36,7 @@ include "./includes/header.php";
 ?>
 <!-- End Header Section -->
 <!-- Start Page Heading -->
-<section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/service.png">
+<!-- <section class="cs_page_heading cs_bg_filed cs_center" data-src="assets/img/service.png"> -->
   <div class="container">
     <!-- <h1 class="cs_page_title">Blog Page</h1>
       <ol class="breadcrumb">

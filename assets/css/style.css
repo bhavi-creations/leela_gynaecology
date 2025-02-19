@@ -3894,7 +3894,7 @@ label {
 }
 
 .cs_site_header_spacing_150 {
-  height: 150px;
+  height: 110px;
 }
 
 @media screen and (max-width: 1199px) {
@@ -9102,5 +9102,31 @@ color: pink;
     margin-bottom: 120px !important;
   }
 }
+
+.service_section_content{
+  padding-bottom: 80px;
+  padding-top: 30px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

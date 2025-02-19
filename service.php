@@ -25,7 +25,7 @@ include "./includes/header.php";
           <span class="cs_shape_left"></span>
           OUR BEST SERVICE
         </p>
-        <h2 class="cs_section_title">Leela Gynecologist offers high-quality services
+        <h2 class="cs_section_title">Leela Gynecology offers high-quality services
 
 
         </h2>

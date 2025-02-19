@@ -700,7 +700,7 @@ include "./includes/header.php";
           <p class="cs_section_subtitle text">
             <span class="cs_shape_left"></span>Bio
           </p>
-          <h2 class="cs_section_title">Meet Our Specialist This <br>Doctor Meet</h2>
+          <h2 class="cs_section_title">Meet Our Specialist </h2>
         </div>
         <div class="cs_height_25 cs_height_lg_25"></div>
         <p>

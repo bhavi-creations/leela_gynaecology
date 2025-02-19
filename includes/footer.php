@@ -1,7 +1,8 @@
 <footer class="cs_footer cs_blue_bg cs_white_color cs_newfooter" data-src="assets/img/footer_bg.jpg">
       <div class="container">
         <div class="cs_footer_row">
-          <div class="cs_footer_col">
+          <div class="row">
+          <div class="cs_footer_col col-6 col-lg-3">
             <div class="cs_footer_highlight_col cs_accent_bg">
               <div class="cs_footer_logo down">
                <a href="index.php"> <img src="assets/img/women.png" alt="Logo" class="img-fluid mb-3" ></a>
@@ -33,19 +34,19 @@
               </div>
             </div>
           </div>
-          <div class="cs_footer_col">
+          <div class="cs_footer_col col-6 col-lg-3">
             <div class="cs_footer_widget">
               <h2 class="cs_footer_widget_title text-dark">Service</h2>
               <ul class="cs_footer_widget_nav_list cs_mp_0">
                 <li><a href="index.php" class=" text-dark">Home</a></li>
                 <li><a href="about.php" class=" text-dark">About</a></li>
                 <li><a href="service.php" class=" text-dark"> Service</a></li>
-                <li><a href="blog.php"class=" text-dark">Blog</a></li>
+                <li><a href="blogs.php"class=" text-dark">Blog</a></li>
                 <li><a href="contact.php"class=" text-dark">contact</a></li>
               </ul>
             </div>
           </div>
-          <div class="cs_footer_col">
+          <div class="cs_footer_col col-6 col-lg-3">
             <div class="cs_footer_widget">
               <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
               <ul class="cs_footer_widget_nav_list cs_mp_0">
@@ -60,7 +61,7 @@
             </div>
           </div>
       
-          <div class="cs_footer_col">
+          <div class="cs_footer_col col-6 col-lg-3">
             <div class="cs_footer_widget">
               <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
               <ul class="cs_footer_widget_nav_list cs_mp_0">
@@ -92,6 +93,7 @@
 
              
             </div>
+          </div>
           </div>
         </div>
       </div>

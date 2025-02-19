@@ -22,7 +22,7 @@ $conn->close();
 ?>
 
 
-<?php include('header.php'); ?>
+<?php include 'includes/header.php'; ?>
 
  
 
@@ -125,7 +125,7 @@ $conn->close();
     </main>
 
 
-    <?php include('footer.php'); ?>
+<?php include 'includes/footer.php'; ?>
 
 
   

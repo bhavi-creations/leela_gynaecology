@@ -5,7 +5,7 @@ include "./includes/header.php";
 <img src="assets/img/gynaecology/consultancy.png" class="d-block w-100 img-fluid" alt="...">
 
 
-<div class="container">
+<div class="container service_section_content">
   <div class="row">
     <div class="col-md-6 mt-5 space">
       <img src="assets/img/Untitled design (45)/4.png" alt="" class="img-fluid pics">
@@ -13,14 +13,14 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Lactational Consultation</h2>
       <p>
-        A well-woman checkup is an annual health examination focused on preventive care,
-        early disease detection, and overall well-being. It includes screenings, vaccinations,
-        and lifestyle counseling to maintain optimal health at every stage of life.
-        Importance of a Well-Woman Checkup
-        Detects health issues early (e.g., cancer, diabetes, heart disease).
-        Ensures reproductive health (menstrual health, fertility, menopause).
-        Provides guidance on healthy living and preventive care.
-        Updates necessary vaccinations and screenings.
+      Lactational consultation is a specialized service that supports new mothers in establishing and maintaining successful breastfeeding. Certified lactation consultants provide expert advice on proper latching techniques, breastfeeding positions, milk supply management, and overcoming common challenges such as nipple pain, engorgement, or low milk production.
+
+
+      </p>
+      <p>
+      Breastfeeding is crucial for a baby’s nutrition, immunity, and overall health, but many mothers face difficulties in the initial stages. A lactation consultant helps address these concerns by offering personalized guidance, ensuring both mother and baby have a comfortable and effective feeding experience.
+
+
       </p>
 
     </div>
