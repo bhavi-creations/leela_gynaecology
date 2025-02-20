@@ -280,7 +280,7 @@ include "./includes/header.php";
               <span class="cs_player_btn cs_center">
                 <span></span>
               </span>
-              <span class="cs_about_play_btn_text">How We Work</span>
+              <!-- <span class="cs_about_play_btn_text">How We Work</span> -->
             </a>
           </div>
           <div class="cs_about_thumb_2">
