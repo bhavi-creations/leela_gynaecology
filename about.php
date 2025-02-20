@@ -176,7 +176,7 @@
             <div class="cs_section_heading cs_style_1">
               <p class="cs_section_subtitle text ">
                 <span class="cs_shape_left  "></span>
-                OUR ABOUT US
+                 ABOUT US
               </p>
               <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
             </div>

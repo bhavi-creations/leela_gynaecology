@@ -27,7 +27,7 @@
           <p class="cs_section_subtitle text">
             <span class="cs_shape_left text"></span>MAKE APPOINTMENTS<span class="cs_shape_right text"></span>
           </p>
-          <h2 class="cs_section_title">Booking Now Appointments</h2>
+          <h2 class="cs_section_title"> Appointments</h2>
         </div>
         <div class="cs_height_40 cs_height_lg_35"></div>
         <form action="appointmentform.php" method="post" role="form" class="cs_appointment_form row cs_gap_y_30">
