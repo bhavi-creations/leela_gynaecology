@@ -1264,17 +1264,21 @@ include "./includes/header.php";
             <input type="text" name="address" class="cs_form_field" placeholder="Address">
           </div>
           <div class="col-md-12">
-            <select name="service" class="cs_form_field">
+          <select name="service" class="cs_form_field">
               <option value="choose-service">Choose Service</option>
-              <option value="crutches">PCOD and Adolescent Clinics</option>
-              <option value="x-Ray">Menstrual Problems</option>
-              <option value="pulmonary">Infertility</option>
-              <option value="cardiology">Preconceptional Care</option>
-              <option value="dental-care">Menopausal Clinic</option>
-              <option value="neurology">Well Woman Checkup</option>
-              <option value="neurology">Cancer Screening</option>
-              <option value="neurology">All Gynaecological Problems</option>
-              <option value="neurology">Comprehensive Antenatal and Postnatal Care</option>
+              <option value="pcod-and-adolscent-clinics">PCOD and Adolscent Clinics</option>
+              <option value="menstrual-problems">Menstrual Problems</option>
+              <option value="infertility">Infertility</option>
+              <option value="preconceptional-cCare">Preconceptional Care</option>
+              <option value="menopausal-clinic">Menopausal Clinic</option>
+              <option value="well-woman-check-up">Well Woman Check up</option>
+              <option value="cancerscreening">CancerScreening</option>
+              <option value="all-gynaecological-problem">All Gynaecological Problems </option>
+              <option value="comprehensive-antenatal-and-post-natal-care">Comprehensive antenatal and post natal care</option>
+              <!-- <option value="neurology">Neurology</option>
+              <option value="neurology">Neurology</option>
+              <option value="neurology">Neurology</option> -->
+
             </select>
           </div>
           <div class="col-md-12">

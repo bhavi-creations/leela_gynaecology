@@ -73,7 +73,7 @@
         </div>
       </div>
     </div>
-    <div class="cs_main_header">
+  <div class="cs_main_header">
       <div class="container">
         <div class="cs_main_header_in">
           <div class="cs_main_header_left">
@@ -140,43 +140,51 @@
           </div>
         </div>
       </div>
-    </div>
+    </div>  
   </header>
   <div class="cs_site_header_spacing_150"></div>
 
 
+  <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    let serviceToggle = document.getElementById("servicesDropdown");
+    let dropdownMenu = document.querySelector(".services_drop_menu");
 
+    serviceToggle.addEventListener("click", function (event) {
+      if (window.innerWidth < 992) { // Mobile & Tablet
+        event.preventDefault(); // Stop redirection on mobile
+        dropdownMenu.classList.toggle("show"); // Toggle visibility
+      }
+    });
+
+    // Close dropdown when clicking outside (for better UX)
+    document.addEventListener("click", function (event) {
+      if (!serviceToggle.contains(event.target) && !dropdownMenu.contains(event.target)) {
+        dropdownMenu.classList.remove("show");
+      }
+    });
+  });
+</script>
 
 
 
 
   <script>
-document.addEventListener("DOMContentLoaded", function () {
-  // Toggle Full Menu
-  let menuToggle = document.getElementById("mobileMenuToggle");
-  let mobileMenu = document.getElementById("mobileMenu");
+  document.addEventListener("DOMContentLoaded", function () {
+    let serviceToggle = document.getElementById("servicesDropdown");
 
-  menuToggle.addEventListener("click", function () {
-    if (mobileMenu.style.display === "block") {
-      mobileMenu.style.display = "none";
-    } else {
-      mobileMenu.style.display = "block";
-    }
+    serviceToggle.addEventListener("click", function (event) {
+      if (window.innerWidth < 992) { // Mobile & Tablet
+        event.preventDefault(); // Prevent redirection
+        let dropdownMenu = document.querySelector(".services_drop_menu");
+
+        if (dropdownMenu) {
+          dropdownMenu.classList.toggle("show"); // Toggle dropdown
+        }
+      } else {
+        window.location.href = "service.php"; // Redirect for Desktop
+      }
+    });
   });
-
-  // Toggle Services Submenu
-  let serviceToggle = document.getElementById("servicesToggle");
-  let servicesMenu = document.getElementById("servicesMenu");
-
-  serviceToggle.addEventListener("click", function (event) {
-    event.preventDefault();
-    
-    // Toggle visibility
-    if (servicesMenu.style.display === "block") {
-      servicesMenu.style.display = "none";
-    } else {
-      servicesMenu.style.display = "block";
-    }
-  });
-});
 </script>
+
