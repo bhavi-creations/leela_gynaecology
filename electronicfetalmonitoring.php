@@ -13,16 +13,16 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Electronic Fetal Monitoring</h2>
       <p>
-        A well-woman checkup is an annual health examination focused on preventive care,
-        early disease detection, and overall well-being. It includes screenings, vaccinations,
-        and lifestyle counseling to maintain optimal health at every stage of life.
-        Importance of a Well-Woman Checkup
-        Detects health issues early (e.g., cancer, diabetes, heart disease).
-        Ensures reproductive health (menstrual health, fertility, menopause).
-        Provides guidance on healthy living and preventive care.
-        Updates necessary vaccinations and screenings.
+      Electronic Fetal Monitoring (EFM) is a vital technique used during pregnancy and labor to track the baby’s heart rate and uterine contractions. It helps assess fetal well-being, detect distress, and ensure timely medical interventions if needed.
+
+
       </p>
 
+
+
+      <p>
+      There are two types of EFM: external monitoring, which uses sensors on the mother’s abdomen, and internal monitoring, which provides more precise readings using an electrode placed on the baby’s scalp. EFM plays a crucial role in high-risk pregnancies and labor management, ensuring a safe delivery for both mother and baby.
+      </p>
     </div>
   </div>
 </div>

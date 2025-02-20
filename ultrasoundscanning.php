@@ -15,14 +15,12 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Ultrasound Scanning</h2>
       <p>
-        A well-woman checkup is an annual health examination focused on preventive care,
-        early disease detection, and overall well-being. It includes screenings, vaccinations,
-        and lifestyle counseling to maintain optimal health at every stage of life.
-        Importance of a Well-Woman Checkup
-        Detects health issues early (e.g., cancer, diabetes, heart disease).
-        Ensures reproductive health (menstrual health, fertility, menopause).
-        Provides guidance on healthy living and preventive care.
-        Updates necessary vaccinations and screenings.
+      Ultrasound scanning is a safe and non-invasive imaging technique used in gynecology and obstetrics to monitor pregnancy, diagnose reproductive health issues, and assess fetal development. It utilizes high-frequency sound waves to create real-time images of the uterus, ovaries, and fetus, helping detect abnormalities, confirm gestational age, and guide medical procedures.
+
+
+      </p>
+      <p>
+      In pregnancy, ultrasound plays a crucial role in tracking fetal growth, identifying complications, and ensuring maternal and baby’s well-being. Its accuracy and safety make it an essential tool in modern gynecological and prenatal care.
       </p>
 
     </div>

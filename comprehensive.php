@@ -12,14 +12,14 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Comprehensive Antenatal and post natal care</h2>
       <p>
-        Antenatal (prenatal) and postnatal care are essential for ensuring the health
-        and well-being of both mother and baby during and after pregnancy. These care
-        services focus on monitoring the pregnancy, preventing complications, promoting
-        safe delivery, and supporting maternal recovery after childbirth.Ensures the health and safety of both mother and baby.
-        Detects and prevents complications such as gestational diabetes, anemia, and hypertension.
-        Monitors fetal growth and development.
-        Provides nutritional and lifestyle counseling.
-        Educates on labor, delivery, and newborn care.
+      Comprehensive antenatal and postnatal care ensures the well-being of both mother and baby throughout pregnancy and after childbirth. Antenatal care involves regular check-ups, ultrasounds, nutritional guidance, and screenings to monitor fetal growth and maternal health, helping to prevent complications like gestational diabetes and high-risk pregnancies.
+
+
+      </p>
+      <p>
+      Postnatal care focuses on the mother’s recovery, newborn health, breastfeeding support, and emotional well-being. It includes monitoring postpartum healing, addressing lactation challenges, and providing guidance on newborn care.
+
+
       </p>
 
     </div>
