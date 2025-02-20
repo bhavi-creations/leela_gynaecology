@@ -31,7 +31,7 @@
                 </li>
               </ul>
               <div class="cs_social_btns cs_style_1">
-                <a href="https://www.facebook.com/Leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="https://www.facebook.com/Leelawomenshealthcare/" target="_blank" class="cs_center"><i class="fa-brands fa-facebook-f"></i></a>
                 <a href="https://www.youtube.com/@Leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-youtube"></i></a>
                 <a href="https://www.instagram.com/leelawomenshealthcare/" class="cs_center"><i class="fa-brands fa-instagram"></i></a>
               </div>

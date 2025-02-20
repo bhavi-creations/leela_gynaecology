@@ -14,16 +14,20 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Menstrual Problems</h2>
 
-      <p>Menstrual problems are common among individuals who menstruate and can affect physical health,
-        emotional well-being, and daily activities. These issues can result from hormonal imbalances,
-        medical conditions, or lifestyle factors Irregular Periods (Oligomenorrhea)
-        Inconsistent cycle lengths (less than 21 days or more than 35 days).
-        Stress, hormonal imbalance (PCOS, thyroid disorders), excessive exercise, or rapid weight loss.
-        Lifestyle changes, birth control pills, or hormone therapy.
-        Painful Periods (Dysmenorrhea)
-        Severe cramps, lower abdominal pain, nausea, and fatigue.
-        Uterine contractions, endometriosis, fibroids, or infections.
-        Pain relievers (NSAIDs), heat therapy, and hormonal treatments.</p>
+      <p>Menstrual problems are common among women of all ages and can include irregular periods, heavy bleeding (menorrhagia), painful cramps (dysmenorrhea), missed periods (amenorrhea), and premenstrual syndrome (PMS). These issues can be caused by hormonal imbalances, stress, lifestyle factors, underlying medical conditions, or reproductive disorders such as PCOD or endometriosis.
+
+</p>
+<p>
+Proper diagnosis and timely treatment are essential to prevent complications like anemia, infertility, and severe pelvic pain. Management options include lifestyle modifications, medications, hormonal therapy, and, in some cases, medical procedures. Seeking medical advice can help women maintain a healthy menstrual cycle and overall well-being.
+
+
+
+
+
+
+
+
+</p>
 
     </div>
   </div>

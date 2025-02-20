@@ -393,18 +393,18 @@ include "./includes/header.php";
     </div>
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="row cs_row_gap_30 cs_gap_y_30">
-      <div class="col-xl-3 col-lg-3 col-sm-6">
-        <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2 cs_radius_15">
+    <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <!-- <div class="cs_iconbox_shape"></div> -->
+          <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center remove_bg ">
-              
+            <div class="cs_iconbox_icon cs_center">
+              <img src="assets/img/icons/female.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">01</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Specialized care for PCOD and adolescent health to ensure balanced hormones and well-being</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -413,12 +413,12 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_2.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/egg.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">02</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Effective diagnosis and treatment for menstrual health and wellness.</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -427,12 +427,12 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/pregnancy-test.png" alt="Service Icon" class="icon"> -->
+              <img src="assets/img/icons/pregnancy-test.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">03</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Expert care and treatments to support fertility and conception</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -441,12 +441,12 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_4.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/sperm.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">04</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Guiding women toward a healthy pregnancy with expert preconception care</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -455,12 +455,12 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_5.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/hormone.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">05</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Comprehensive care for a smooth and healthy menopause transition</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -469,12 +469,12 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_6.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/menopause.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">06</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Comprehensive health screening to ensure women's overall well-being.</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -483,12 +483,12 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_7.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/cancer_screening.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">07</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Early detection and prevention through advanced cancer screening</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -497,12 +497,12 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/gynecology.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">08</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Comprehensive care and treatment for all gynaecological concerns</p>
+          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
         </div>
       </div>
     </div>
@@ -753,7 +753,7 @@ include "./includes/header.php";
             </div>
             <div class="cs_iconbox cs_style_3">
               <div class="cs_iconbox_icon cs_center cs_radius_5">
-                <img src="assets/img/icons/service_icon_10.png" alt="Icon">
+                <img src="assets/img/icons/consultant.png" alt="Icon" style="width: 45px; height: 45px;">
               </div>
               <div class="cs_iconbox_text">
                 <h3 class="cs_iconbox_title text-white">Medical Advices </h3>
@@ -771,7 +771,7 @@ include "./includes/header.php";
                         </div> -->
             <div class="cs_iconbox cs_style_3">
               <div class="cs_iconbox_icon cs_center cs_radius_5">
-                <img src="assets/img/icons/service_icon_12.png" alt="Icon">
+                <img src="assets/img/icons/microscope.png" alt="Icon" style="width: 45px; height: 45px;">
               </div>
               <div class="cs_iconbox_text">
                 <h3 class="cs_iconbox_title text-white">Medical Research </h3>
@@ -780,7 +780,7 @@ include "./includes/header.php";
             </div>
             <div class="cs_iconbox cs_style_3">
               <div class="cs_iconbox_icon cs_center cs_radius_5">
-                <img src="assets/img/icons/service_icon_13.png" alt="Icon">
+                <img src="assets/img/icons/doctor.png" alt="Icon style="width: 45px; height: 45px;">
               </div>
               <div class="cs_iconbox_text">
                 <h3 class="cs_iconbox_title text-white">Qualified Doctor</h3>

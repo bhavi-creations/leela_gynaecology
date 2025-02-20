@@ -5245,8 +5245,8 @@ label {
 }
 .cs_iconbox.cs_style_2 .cs_iconbox_icon::after {
   content: "";
-  width: 25px;
-  height: 25px;
+  /* width: 25px;
+  height: 25px; */
   position: absolute;
   top: 50%;
   right: -4px;

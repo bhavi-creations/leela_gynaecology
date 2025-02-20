@@ -14,13 +14,13 @@ include "./includes/header.php";
     </div>
     <div class="col-md-6 space">
       <h2>PCOD and Adolscent Clinics</h2>
-      <p>Polycystic Ovarian Disease (PCOD) is a common hormonal disorder affecting females, including adolescents, and is characterized by multiple small cysts in the ovaries. It disrupts hormonal balance, leading to various symptoms that can impact physical and emotional well-being.
-        Excess production of androgens (male hormones) leads to irregular menstrual cycles.
-        The body’s inability to use insulin efficiently can contribute to high insulin levels, triggering PCOD symptoms.
-        A family history of PCOD increases the likelihood of developing it.
-        Poor diet, lack of exercise, and stress may exacerbate the condition.
+      <p>Polycystic Ovarian Disease (PCOD) is a common hormonal disorder affecting young girls and women of reproductive age. It can lead to irregular menstrual cycles, excessive hair growth, acne, weight gain, and fertility issues. Early diagnosis and management are essential to prevent long-term complications such as diabetes, heart disease, and hormonal imbalances.
       </p>
 
+      <p>
+      Adolescent clinics provide specialized care for young girls experiencing menstrual irregularities, hormonal imbalances, and other reproductive health concerns. These clinics focus on early intervention, lifestyle modifications, hormonal therapy, and emotional well-being to help young women achieve a healthier reproductive system. Education and counseling play a crucial role in empowering adolescents to understand their bodies and make informed health choices.
+
+      </p>
     </div>
   </div>
 </div>

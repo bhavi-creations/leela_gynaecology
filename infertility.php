@@ -13,15 +13,13 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Infertility</h2>
       <p>
-        Infertility is the inability to conceive after 12 months of regular, unprotected intercourse
-        (or after 6 months if the woman is over 35). It affects both men and women and can be caused
-        by various medical, lifestyle, and genetic factors.Ovulation Disorders
-        Conditions like Polycystic Ovary Syndrome (PCOS) or thyroid disorders can prevent ovulation.
-        Blocked Fallopian Tubes Caused by infections, endometriosis, or past surgeries.
-        Uterine Issues Fibroids, polyps, or congenital abnormalities.
-        Age-Related Decline Fertility decreases after age 35 due to reduced egg quantity and quality.
-        Hormonal Imbalances Affect ovulation, menstrual cycles, and egg development.
-        Endometriosis Tissue similar to the uterine lining grows outside the uterus, causing inflammation and infertility.
+      Infertility is the inability to conceive after a year of regular, unprotected intercourse. It can affect both men and women and may be caused by hormonal imbalances, ovulation disorders, blocked fallopian tubes, low sperm count, genetic factors, or lifestyle choices. Conditions like PCOS, endometriosis, and uterine abnormalities can also contribute to infertility in women.
+      </p>
+      <p>
+      Advancements in medical technology offer various treatments, including medications, hormonal therapy, intrauterine insemination (IUI), and in vitro fertilization (IVF). Early diagnosis and personalized treatment plans improve the chances of conception, helping couples achieve their dream of parenthood.
+
+
+
       </p>
 
     </div>

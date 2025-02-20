@@ -13,14 +13,13 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Well Women Check up</h2>
       <p>
-        A well-woman checkup is an annual health examination focused on preventive care,
-        early disease detection, and overall well-being. It includes screenings, vaccinations,
-        and lifestyle counseling to maintain optimal health at every stage of life.
-        Importance of a Well-Woman Checkup
-        Detects health issues early (e.g., cancer, diabetes, heart disease).
-        Ensures reproductive health (menstrual health, fertility, menopause).
-        Provides guidance on healthy living and preventive care.
-        Updates necessary vaccinations and screenings.
+      A Well-Woman Checkup is a routine health examination focused on preventive care and early detection of gynecological and overall health issues. It includes screenings for cervical cancer, breast health assessments, reproductive health evaluations, and lifestyle counseling.
+
+
+      </p>
+      <p>
+      Doctors may also check for conditions like PCOS, menopause-related concerns, osteoporosis, and heart health risks. These checkups help in maintaining optimal well-being, ensuring timely interventions, and promoting long-term health for women at all stages of life.
+
       </p>
 
     </div>

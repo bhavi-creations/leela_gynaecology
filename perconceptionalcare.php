@@ -15,13 +15,12 @@ include "./includes/header.php";
         <div class="col-md-6 space">
             <h2>Preconceptional Care</h2>
             <p>
-                Preconceptional care refers to the medical, lifestyle, and emotional preparations made before
-                conception to improve the chances of a healthy pregnancy and baby. It is essential for individuals
-                planning to conceive, as it helps identify and manage risks before pregnancy occurs. Importance of Preconceptional Care
-                Reduces the risk of pregnancy complications.
-                Ensures optimal maternal health before conception.
-                Identifies and manages medical conditions that may affect fertility and pregnancy.
-                Improves fetal development through early nutrition and lifestyle changes.
+            Preconceptional care focuses on preparing a woman’s body for a healthy pregnancy by addressing medical, nutritional, and lifestyle factors before conception. It involves assessing overall health, managing existing medical conditions, ensuring optimal nutrition with folic acid and essential vitamins, and identifying potential risk factors that could affect pregnancy outcomes.
+
+            </p>
+            <p>
+            Gynecologists provide guidance on reproductive health, lifestyle modifications, vaccination updates, and genetic counseling to minimize complications during pregnancy. By optimizing maternal health before conception, preconceptional care enhances fertility, reduces pregnancy risks, and promotes better outcomes for both mother and baby.
+
             </p>
 
         </div>

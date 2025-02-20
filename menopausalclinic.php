@@ -13,17 +13,12 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Menopausal Clinic</h2>
       <p>
-        Menopause is a natural biological process marking the end of a woman's reproductive years.
-        It is diagnosed after 12 consecutive months without a menstrual period, usually occurring
-        between the ages of 45 and 55. Stages of Menopause
-        Perimenopause (Transition Phase)
-        Starts several years before menopause as hormone levels (especially estrogen) begin to fluctuate.
-        Irregular periods, hot flashes, and mood swings may occur.
-        Menopause (Official Onset)
-        Defined as 12 months without a menstrual cycle.
-        Symptoms may include vaginal dryness, night sweats, and sleep disturbances.
-        Postmenopause (After Menopause)
-        Symptoms may persist, but risks of osteoporosis and heart disease increase due to lower estrogen levels.
+      A Menopausal Clinic specializes in supporting women through the transition of menopause by addressing physical, hormonal, and emotional changes. It offers comprehensive care, including hormone replacement therapy (HRT), lifestyle counseling, and management of symptoms like hot flashes, mood swings, osteoporosis, and heart health concerns.
+
+      </p>
+
+      <p>
+      Gynecologists provide personalized treatment plans, dietary guidance, and preventive screenings to help women navigate menopause with ease. The clinic focuses on improving quality of life, promoting long-term well-being, and ensuring a smooth transition into postmenopausal health.
       </p>
     </div>
   </div>

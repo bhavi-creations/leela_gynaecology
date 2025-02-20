@@ -13,18 +13,12 @@ include "./includes/header.php";
     <div class="col-md-6 space">
       <h2>Cancer Screening</h2>
       <p>
-        Cancer screening involves medical tests to detect cancer at an early stage before symptoms appear.
-        Early detection improves treatment success and survival rates. Screening recommendations vary based
-        on age, gender, and risk factors.
-        Common Cancer Screening Tests
-        Breast Cancer Screening
-        Mammogram (X-ray of the breast): Recommended every 1–2 years for women aged 40+ (or earlier for high-risk individuals).
-        Clinical Breast Exam (CBE): Performed by a doctor to check for lumps or abnormalities.
-        Self-Breast Examination: Monthly self-check for lumps or changes.
-        Cervical Cancer Screening
-        Pap Smear: Detects abnormal cervical cells (recommended every 3 years for women 21-29 and every 5 years with HPV testing for 30-65).
-        HPV Test: Screens for high-risk human papillomavirus strains that can cause cervical cancer.
-        HPV Vaccine: Prevents cervical, vaginal, and vulvar cancers.
+      Cancer screening is a crucial preventive measure in gynecology, aiming to detect cancers like cervical, ovarian, uterine, and breast cancer at an early, more treatable stage. Regular screenings, such as Pap smears, HPV testing, mammograms, pelvic exams, and ultrasounds, help identify abnormal cell changes before they develop into cancer.
+
+
+      </p>
+      <p>
+      Early detection increases treatment success rates, reduces mortality, and improves overall health outcomes. Women are encouraged to follow recommended screening schedules based on their age, medical history, and risk factors. Advanced diagnostic techniques, including colposcopy, biopsy, and genetic testing, further aid in precise detection and personalized treatment planning.
       </p>
 
     </div>

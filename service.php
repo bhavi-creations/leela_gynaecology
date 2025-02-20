@@ -40,7 +40,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_1.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/female.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">01</h3>
           </div>
@@ -54,7 +54,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_2.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/egg.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">02</h3>
           </div>
@@ -68,7 +68,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_3.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/pregnancy-test.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">03</h3>
           </div>
@@ -82,7 +82,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_4.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/sperm.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">04</h3>
           </div>
@@ -96,7 +96,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_5.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/hormone.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">05</h3>
           </div>
@@ -110,7 +110,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_6.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/menopause.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">06</h3>
           </div>
@@ -124,7 +124,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_7.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/cancer_screening.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">07</h3>
           </div>
@@ -138,7 +138,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/gynecology.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">08</h3>
           </div>
@@ -147,7 +147,20 @@ include "./includes/header.php";
         </div>
       </div>
 
-
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <img src="assets/img/icons/pregnancy.png" alt="Service Icon">
+            </div>
+            <h3 class="iconbox_index">09</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="allgynaecological.php">Comprehensive Antenatal and post natal care</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Comprehensive antenatal and postnatal care ensures a healthy pregnancy, safe delivery, and optimal recovery for mother and baby.</p>
+        </div>
+      </div>
 
       <div class="col-xl-3 col-lg-3 col-sm-6">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
@@ -155,9 +168,9 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/doctor1.png" alt="Service Icon" >
             </div>
-            <h3 class="iconbox_index">09</h3>
+            <h3 class="iconbox_index">10</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="highriskpregnancy.php"> High Risk Pregnancy</a></h3>
           <p class="cs_iconbox_subtitle m-0">Expert care for complications ensuring a safe pregnancy journey.</p>
@@ -169,9 +182,9 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/usg.png" alt="Service Icon">
             </div>
-            <h3 class="iconbox_index">10</h3>
+            <h3 class="iconbox_index">11</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="ultrasoundscanning.php"> Ultrasound scanning</a></h3>
           <p class="cs_iconbox_subtitle m-0">Advanced imaging for precise and safe pregnancy monitoring.</p>
@@ -183,9 +196,9 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/monitor.png" alt="Service Icon">
             </div>
-            <h3 class="iconbox_index">11</h3>
+            <h3 class="iconbox_index">12</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="electronicfetalmonitoring.php"> Electronic fetal monitoring</a></h3>
           <p class="cs_iconbox_subtitle m-0">Expert guidance for successful breastfeeding and newborn nutrition.</p>
@@ -197,15 +210,28 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <!-- <img src="assets/img/icons/service_icon_8.png" alt="Service Icon"> -->
+              <img src="assets/img/icons/care.png" alt="Service Icon">
             </div>
-            <h3 class="iconbox_index">12</h3>
+            <h3 class="iconbox_index">13</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="lactationalconsultation.php"> Lactational Consultation</a></h3>
           <p class="cs_iconbox_subtitle m-0">Support for breastfeeding success and infant health guidance.</p>
         </div>
       </div>
-
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <div class="cs_iconbox cs_style_2 cs_radius_15">
+          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+          <div class="cs_iconbox_shape"></div>
+          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+            <div class="cs_iconbox_icon cs_center">
+              <img src="assets/img/icons/baby.png" alt="Service Icon">
+            </div>
+            <h3 class="iconbox_index">14</h3>
+          </div>
+          <h3 class="cs_iconbox_title"><a href="painlessdelivery.php">Pain Less Delivery</a></h3>
+          <p class="cs_iconbox_subtitle m-0">Pain Less Delivery ensures a comfortable childbirth using advanced pain management like epidural anesthesia</p>
+        </div>
+      </div>
 
     </div>
 

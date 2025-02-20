@@ -65,9 +65,9 @@
           </div>
           <div>
             <div class="cs_social_btns cs_style_1">
-              <a href="https://www.facebook.com/Leelawomenshealthcare/" class="cs_center"><img src="assets/img/icons/facebook.png" alt=""></a>
-              <a href="https://www.youtube.com/@Leelawomenshealthcare/" class="cs_center"><img src="assets/img/icons/youtube.png" alt=""></a>
-              <a href="https://www.instagram.com/leelawomenshealthcare/" class="cs_center"> <img src="assets/img/icons/instagram.png" alt=""> </a>
+              <a href="https://www.facebook.com/Leelawomenshealthcare/" target="_blank" class="cs_center"><img src="assets/img/icons/facebook.png" alt=""></a>
+              <a href="https://www.youtube.com/@Leelawomenshealthcare/" target="_blank" class="cs_center"><img src="assets/img/icons/youtube.png" alt=""></a>
+              <a href="https://www.instagram.com/leelawomenshealthcare/" target="_blank" class="cs_center"> <img src="assets/img/icons/instagram.png" alt=""> </a>
             </div>
           </div>
         </div>
@@ -169,24 +169,7 @@
 
 
 
-  <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    let serviceToggle = document.getElementById("servicesDropdown");
 
-    serviceToggle.addEventListener("click", function (event) {
-      if (window.innerWidth < 992) { // Mobile & Tablet
-        event.preventDefault(); // Prevent redirection
-        let dropdownMenu = document.querySelector(".services_drop_menu");
-
-        if (dropdownMenu) {
-          dropdownMenu.classList.toggle("show"); // Toggle dropdown
-        }
-      } else {
-        window.location.href = "service.php"; // Redirect for Desktop
-      }
-    });
-  });
-</script>
 
 <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
      target="_blank">
