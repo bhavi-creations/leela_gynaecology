@@ -689,7 +689,7 @@ include "./includes/header.php";
               <div class="cs_iconbox_icon cs_center"><img src="assets/img/health-professional.png"  alt="Icon"></div>
               <div class="cs_iconbox_right">
                 <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
-                <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
+                <p class="cs_iconbox_subtitle mb-0">Gynecologist</p>
               </div>
             </div>
           </div>
@@ -1078,7 +1078,7 @@ include "./includes/header.php";
         <li>
           <a href="#heart_beat">
             <span class="cs_tab_link_icon cs_center "><img src="assets/img/health-professional.png" alt="Icon"></span>
-            <span>Certified Doctors</span>
+            <span>Certified Doctor</span>
           </a>
         </li>
         <li>
@@ -1240,14 +1240,15 @@ include "./includes/header.php";
 </section>
 <!-- End Medical Tab Section -->
 <!-- Start Medical Solution Section -->
-<section class="cs_card cs_style_3 cs_gray_bg position-relative ">
+<section class="cs_card cs_style_3 cs_section_bg position-relative">
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
     <div class="row cs_gap_y_40">
+      
       <div class="col-lg-4">
         <div class="cs_section_heading cs_style_1">
           <p class="cs_section_subtitle text">
-            <span class="cs_shape_left "></span>CONTACT US
+            <span class="cs_shape_left"></span>CONTACT US
           </p>
           <h2 class="cs_section_title">Make An Appointment <br>Apply For Treatments</h2>
         </div>
@@ -1265,37 +1266,38 @@ include "./includes/header.php";
           <div class="col-md-12">
             <select name="service" class="cs_form_field">
               <option value="choose-service">Choose Service</option>
-              <option value="crutches">PCOD and Adolscent Clinics</option>
+              <option value="crutches">PCOD and Adolescent Clinics</option>
               <option value="x-Ray">Menstrual Problems</option>
               <option value="pulmonary">Infertility</option>
               <option value="cardiology">Preconceptional Care</option>
               <option value="dental-care">Menopausal Clinic</option>
-              <option value="neurology">Well Woman Check up</option>
-              <option value="neurology">CancerScreening</option>
-              <option value="neurology">All Gynaecological Problems </option>
-              <option value="neurology">Comprehensive antenatal and post natal care</option>
+              <option value="neurology">Well Woman Checkup</option>
+              <option value="neurology">Cancer Screening</option>
+              <option value="neurology">All Gynaecological Problems</option>
+              <option value="neurology">Comprehensive Antenatal and Postnatal Care</option>
             </select>
           </div>
           <div class="col-md-12">
             <input type="date" name="date" class="cs_form_field" placeholder="Appointment date & time">
           </div>
           <div class="col-md-12">
-            <button type="submit" class="cs_btn cs_style_1 cs_white_color">Make an appoinment</button>
+            <button type="submit" class="cs_btn cs_style_1 cs_white_color">Make an Appointment</button>
           </div>
         </form>
       </div>
-      <div class="col-lg-8 ">
-        <div class="cs_solution_thumbnail cs_bg_filed" data-src="assets/img/medical_solution_1.jpg">
+
+      <div class="col-lg-8">
+        <div class="cs_solution_thumbnail cs_bg_filed">
           <img src="assets/img/Untitled design (9).png" alt="" class="img-fluid">
         </div>
       </div>
+
     </div>
   </div>
-  <!-- <div class="cs_solution_shape position-absolute">
-        <img src="assets/img/stethoscope.png" alt="Shape">
-      </div> -->
   <div class="cs_height_120 cs_height_lg_80"></div>
 </section>
+
+
 <!-- End Medical Solution Section -->
 <!-- Start Blog Section -->
 <!-- <section>

@@ -24,6 +24,7 @@
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
 </head>
@@ -77,67 +78,64 @@
         <div class="cs_main_header_in">
           <div class="cs_main_header_left">
             <a class="cs_site_branding" href="index.php">
-              <img src="assets/img/logo.png" alt="Logo" class="img-fluid" style="width:;">
+              <img src="assets/img/logo.png" alt="Logo" class="img-fluid">
             </a>
           </div>
           <div class="cs_main_header_right">
             <div class="cs_nav cs_primary_color">
               <ul class="cs_nav_list">
-                <li>
-                  <a href="index.php">Home</a>
-
-                </li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
 
+                <!-- Services Dropdown -->
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Services
                   </a>
-                  <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:500px;">
-                    <div class="row up ">
-                      <div class="col-md-5">
-                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
-                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems </a></li>
+                  <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:600px;">
+                    <div class="row">
+                      <!-- Column 1 -->
+                      <div class="col-md-6">
+                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolescent Clinics</a></li>
+                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
                         <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
                         <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
-                      </div>
-                      <div class="col-md-5">
                         <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
-                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
-                        <li><a class="dropdown-item services_drop" href="cancerscreening.php">CancerScreening</a></li>
+
+                      </div>
+
+                      <!-- Column 2 -->
+                      <div class="col-md-6">
+                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Checkup</a></li>
+                        <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
                         <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
-                        <li><a class="dropdown-item services_drop nav-link dropdown-toggle" href="comprehensive.php">Comprehensive antenatal and <br>post natal care</a>
-                          <ul class="dropdown-menu services_drop_menu mt-1" aria-labelledby="servicesDropdown" style="width:px;">
-                            <div class="col-md-6">
-                              <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
-                              <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning </a></li>
-                              <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic fetal monitoring</a></li>
-                              <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational consultation</a></li>
-                              <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
-                            </div>
+
+                        <!-- Nested Dropdown for Comprehensive Care -->
+                        <li class="dropdown-submenu">
+                          <a class="dropdown-item dropdown-toggle" href="#" id="comprehensiveDropdown" role="button" data-bs-toggle="dropdown">
+                            Comprehensive Antenatal <br> & Postnatal Care
+                          </a>
+                          <ul class="dropdown-menu mt-1 p-2" aria-labelledby="comprehensiveDropdown">
+                            <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                            <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                            <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                            <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                            <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
                           </ul>
                         </li>
-
                       </div>
-
-
                     </div>
                   </ul>
                 </li>
-                <!-- <li><a href="testimonials.">Testimonials</a></li> -->
+                <!-- End Services Dropdown -->
 
-                <li>
-                  <a href="blogs.php">Blog</a>
-
-                </li>
-
+                <li><a href="blogs.php">Blog</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
 
             <a href="appointments.php" class="text-white mb-4 mt-3">
-              <button class="make_bg">Make an Appointment </button>
-              <!-- <i class="fa-solid fa-angles-right"></i> -->
+              <button class="make_bg">Make an Appointment</button>
             </a>
           </div>
         </div>
@@ -145,3 +143,40 @@
     </div>
   </header>
   <div class="cs_site_header_spacing_150"></div>
+
+
+
+
+
+
+
+  <script>
+document.addEventListener("DOMContentLoaded", function () {
+  // Toggle Full Menu
+  let menuToggle = document.getElementById("mobileMenuToggle");
+  let mobileMenu = document.getElementById("mobileMenu");
+
+  menuToggle.addEventListener("click", function () {
+    if (mobileMenu.style.display === "block") {
+      mobileMenu.style.display = "none";
+    } else {
+      mobileMenu.style.display = "block";
+    }
+  });
+
+  // Toggle Services Submenu
+  let serviceToggle = document.getElementById("servicesToggle");
+  let servicesMenu = document.getElementById("servicesMenu");
+
+  serviceToggle.addEventListener("click", function (event) {
+    event.preventDefault();
+    
+    // Toggle visibility
+    if (servicesMenu.style.display === "block") {
+      servicesMenu.style.display = "none";
+    } else {
+      servicesMenu.style.display = "block";
+    }
+  });
+});
+</script>

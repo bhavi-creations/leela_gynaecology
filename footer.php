@@ -3,7 +3,7 @@
         <div class="cs_footer_row">
           <div class="cs_footer_col">
             <div class="cs_footer_highlight_col cs_accent_bg">
-              <div class="cs_footer_logo down">
+              <div class="cs_footer_logo down ">
                <a href="index.php"> <img src="assets/img/srinivasa/image 1s.ong" alt="Logo" class="img-fluid" ></a>
               </div>
               <ul class="cs_footer_contact cs_mp_0 move">
@@ -73,23 +73,23 @@
                 <li><a href="comprehensive.php"class=" text-dark">Comprehensive antenatal and post natal care</a></li>
 
     <li>
-        <i class="fa-solid fa-arrow-right text"></i>
+       
         <a href="highriskpregnancy.php" class="text-dark">High Risk Pregnancy</a>
     </li>
     <li>
-        <i class="fa-solid fa-arrow-right text"></i>
+       
         <a href="ultrasoundscanning.php" class="text-dark">Ultrasound scanning</a>
     </li>
     <li>
-        <i class="fa-solid fa-arrow-right text"></i>
+       
         <a href="electronicfetalmonitoring.php" class="text-dark">Electronic fetal monitoring</a>
     </li>
     <li>
-        <i class="fa-solid fa-arrow-right text"></i>
+       
         <a href="lactationalconsultation.php" class="text-dark">Lactational Consultation</a>
     </li>
     <li>
-        <i class="fa-solid fa-arrow-right text"></i>
+       
         <a href="painlessdelivery.php" class="text-dark">Pain Less Delivery</a>
     </li>
 </ul>
