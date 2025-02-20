@@ -4554,7 +4554,7 @@ label {
 }
 
 .cs_footer_widget_nav_list li:not(:last-child) {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .cs_footer_widget {

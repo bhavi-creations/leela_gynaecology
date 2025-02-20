@@ -96,7 +96,7 @@
                     <div class="row">
                       <!-- Column 1 -->
                       <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolescent Clinics</a></li>
+                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
                         <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
                         <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
                         <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
@@ -106,14 +106,14 @@
 
                       <!-- Column 2 -->
                       <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Checkup</a></li>
+                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
                         <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
                         <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
 
                         <!-- Nested Dropdown for Comprehensive Care -->
                         <li class="dropdown-submenu">
                           <a class="dropdown-item dropdown-toggle" href="comprehensive.php" id="comprehensiveDropdown" role="button" data-bs-toggle="dropdown">
-                            Comprehensive Antenatal <br> & Postnatal Care
+                            Comprehensive Antenatal <br> & Post natal Care
                           </a>
                           <ul class="dropdown-menu mt-1 p-2" aria-labelledby="comprehensiveDropdown">
                             <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
