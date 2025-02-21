@@ -534,7 +534,7 @@ include "./includes/header.php";
     </div>
   </div>
   <div class="home_readmore">
-    <a href="service.php text-center">
+    <a href="service.php">
       <button class="contact_bg  ">Read More </button>
 
     </a>
