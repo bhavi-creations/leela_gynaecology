@@ -9185,18 +9185,27 @@ color: pink;
 }
 
 /* Enable scrollbar for mobile view */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .services_drop_menu {
-    max-height: 300px; /* Limit dropdown height */
-    overflow-y: auto; /* Enable vertical scroll */
+    max-height: 300px; 
+    overflow-y: auto;
+    overflow-x: hidden;
+  } */
+
+/* Enable scrollbar for long dropdowns on mobile */
+@media (max-width: 992px) {
+  .services_drop_menu {
+    max-height: 300px; /* Prevents dropdown from being too tall */
+    overflow-y: auto; /* Enables vertical scrolling */
     overflow-x: hidden;
   }
 
+  /* Ensures sub-submenu is positioned correctly */
   .dropdown-submenu .dropdown-menu {
-    max-height: 200px; /* Prevents sub-submenu from being too long */
+    max-height: 250px; 
     overflow-y: auto;
-    left: 0;
     position: relative;
+    left: 0;
   }
 }
 

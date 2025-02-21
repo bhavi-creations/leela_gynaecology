@@ -216,7 +216,7 @@
 
 </script> -->
 
-<script>
+<!-- <script>
   document.addEventListener("DOMContentLoaded", function () {
   // Get all dropdown items that have submenus
   let dropdowns = document.querySelectorAll(".nav-item .dropdown-toggle");
@@ -261,10 +261,90 @@
   });
 });
 
+</script> -->
+
+
+<!-- <script>
+  document.addEventListener("DOMContentLoaded", function () {
+  let servicesLink = document.getElementById("servicesDropdown");
+
+  servicesLink.addEventListener("click", function (e) {
+    // Check screen width
+    if (window.innerWidth > 992) {
+      // Desktop: Redirect to "service.php"
+      window.location.href = this.href;
+    } else {
+      // Mobile: Toggle dropdown
+      e.preventDefault();
+      let submenu = this.nextElementSibling;
+      
+      if (submenu.style.display === "block") {
+        submenu.style.display = "none";
+      } else {
+        // Close other open menus first
+        document.querySelectorAll(".dropdown-menu").forEach(menu => {
+          menu.style.display = "none";
+        });
+
+        submenu.style.display = "block";
+      }
+    }
+  });
+});
+
+</script> -->
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  let servicesLink = document.getElementById("servicesDropdown");
+  let comprehensiveLink = document.getElementById("comprehensiveDropdown");
+
+  // Services menu behavior
+  servicesLink.addEventListener("click", function (e) {
+    if (window.innerWidth > 992) {
+      // Desktop: Redirect to "service.php"
+      window.location.href = this.href;
+    } else {
+      // Mobile: Toggle dropdown
+      e.preventDefault();
+      let submenu = this.nextElementSibling;
+      
+      if (submenu.style.display === "block") {
+        submenu.style.display = "none";
+      } else {
+        document.querySelectorAll(".dropdown-menu").forEach(menu => {
+          menu.style.display = "none";
+        });
+        submenu.style.display = "block";
+      }
+    }
+  });
+
+  // Comprehensive Antenatal & Postnatal Care behavior
+  comprehensiveLink.addEventListener("click", function (e) {
+    if (window.innerWidth > 992) {
+      // Desktop: Redirect to "comprehensive.php"
+      window.location.href = this.href;
+    } else {
+      // Mobile: Toggle submenu
+      e.preventDefault();
+      let subSubmenu = this.nextElementSibling;
+
+      if (subSubmenu.style.display === "block") {
+        subSubmenu.style.display = "none";
+      } else {
+        document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach(menu => {
+          menu.style.display = "none";
+        });
+        subSubmenu.style.display = "block";
+      }
+    }
+  });
+});
+
 </script>
-
-
-
 
 <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
      target="_blank">
