@@ -34,7 +34,8 @@ include "./includes/header.php";
     </div>
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="row cs_row_gap_30 cs_gap_y_30">
-      <div class="col-xl-3 col-lg-3 col-sm-6">
+    <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="pcodandadolscent.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -47,8 +48,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
-      <div class="col-xl-3 col-lg-3 col-sm-6">
+      <div class="col-xl-3 col-lg-3 col-sm-6  ">
+      <a href="menstrualproblems.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -61,8 +64,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="infertility.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -75,8 +80,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="perconceptionalcare.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -89,8 +96,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="menopausalclinic.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -103,8 +112,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+      </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="wellwomencheckup.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -117,8 +128,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="cancerscreening.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -131,8 +144,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="allgynaecological.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -145,9 +160,11 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
 
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="allgynaecological.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -160,9 +177,11 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="allgynaecological.php">Comprehensive Antenatal and post natal care</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Comprehensive antenatal and postnatal care ensures a healthy pregnancy, safe delivery, and optimal recovery for mother and baby.</p> -->
         </div>
+        </a>
       </div>
 
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="highriskpregnancy.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -175,8 +194,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="highriskpregnancy.php"> High Risk Pregnancy</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Expert care for complications ensuring a safe pregnancy journey.</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="ultrasoundscanning.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -189,8 +210,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="ultrasoundscanning.php"> Ultrasound scanning</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Advanced imaging for precise and safe pregnancy monitoring.</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="electronicfetalmonitoring.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -203,8 +226,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="electronicfetalmonitoring.php"> Electronic fetal monitoring</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Expert guidance for successful breastfeeding and newborn nutrition.</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="lactationalconsultation.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -217,8 +242,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="lactationalconsultation.php"> Lactational Consultation</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Support for breastfeeding success and infant health guidance.</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="painlessdelivery.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -231,6 +258,7 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="painlessdelivery.php">Pain Less Delivery</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Pain Less Delivery ensures a comfortable childbirth using advanced pain management like epidural anesthesia</p> -->
         </div>
+        </a>
       </div>
 
     </div>

@@ -399,6 +399,7 @@ include "./includes/header.php";
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="row cs_row_gap_30 cs_gap_y_30">
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="pcodandadolscent.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -411,8 +412,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
-      <div class="col-xl-3 col-lg-3 col-sm-6">
+      <div class="col-xl-3 col-lg-3 col-sm-6  ">
+      <a href="menstrualproblems.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -425,8 +428,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="infertility.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -439,8 +444,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="perconceptionalcare.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -453,8 +460,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="menopausalclinic.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -467,8 +476,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+      </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="wellwomencheckup.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -481,8 +492,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="cancerscreening.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -495,8 +508,10 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
+      <a href="allgynaecological.php">
         <div class="cs_iconbox cs_style_2 cs_radius_15">
           <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
           <div class="cs_iconbox_shape"></div>
@@ -509,6 +524,7 @@ include "./includes/header.php";
           <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
           <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
+        </a>
       </div>
     </div>
 
