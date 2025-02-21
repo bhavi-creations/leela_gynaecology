@@ -51,7 +51,13 @@
               <option value="well-woman-check-up">Well Woman Check up</option>
               <option value="cancerscreening">CancerScreening</option>
               <option value="all-gynaecological-problem">All Gynaecological Problems </option>
-              <option value="comprehensive-antenatal-and-post-natal-care">Comprehensive antenatal and post natal care</option>
+              <option value="high risk pregnancy">High Risk Pregnancy</option>
+              <option value="ultrasound scanning">Ultrasound Scanning </option>
+              <option value="electronic fetal monitoring">Electronic Fetal Monitoring </option>
+              <option value="lactational consultation">Lactational Consultation </option>
+              <option value="pain less delivery">Pain Less Delivery </option>
+              
+              <!-- <option value="comprehensive-antenatal-and-post-natal-care">Comprehensive antenatal and post natal care</option> -->
               <!-- <option value="neurology">Neurology</option>
               <option value="neurology">Neurology</option>
               <option value="neurology">Neurology</option> -->

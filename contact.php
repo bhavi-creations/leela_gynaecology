@@ -49,7 +49,7 @@
             <h2 class="cs_section_title">Meet Our Specialist </h2>
           </div>
           <div class="cs_height_25 cs_height_lg_25"></div>
-          <form class="cs_contact_form row cs_gap_y_30">
+          <form  action="contactform.php" method="post" role="form"  class="cs_contact_form row cs_gap_y_30">
             <div class="col-md-6">
               <input type="text" name="name" class="cs_form_field" placeholder="Your name">
             </div>

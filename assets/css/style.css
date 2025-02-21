@@ -4476,7 +4476,7 @@ label {
 }
 @media (max-width: 1199px) {
   .cs_footer_highlight_col {
-    padding: 50px 15px;
+    padding: 25px 15px;
   }
 }
 
@@ -4545,7 +4545,7 @@ label {
 .cs_footer_widget_title {
   color: #fff;
   font-size: 22px;
-  margin-bottom: 30px;
+  margin-bottom: 15px;
 }
 @media (max-width: 767px) {
   .cs_footer_widget_title {
@@ -4558,7 +4558,7 @@ label {
 }
 
 .cs_footer_widget {
-  padding: 95px 0;
+  padding: 50px 0;
 }
 @media (max-width: 1199px) {
   .cs_footer_widget {
@@ -9029,7 +9029,7 @@ color: pink;
 }
 
 .redirect_blog_srivice {
-  background-color: rgb(105, 199, 236);
+  background-color: #db3599;
   color: White;
   font-weight: 900;
   border: none;
@@ -9210,6 +9210,11 @@ color: pink;
 }
 
 
+.home_readmore{
+  display: flex; flex-direction: row; justify-content: center;
+  padding: 50px 0px;
+  margin-top: -50px;
+}
 
 
 

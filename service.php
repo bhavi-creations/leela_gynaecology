@@ -45,7 +45,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">01</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -59,7 +59,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">02</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -73,7 +73,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">03</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -87,7 +87,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">04</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -101,7 +101,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">05</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -115,7 +115,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">06</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -129,7 +129,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">07</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -143,7 +143,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">08</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
         </div>
       </div>
 
@@ -158,7 +158,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">09</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="allgynaecological.php">Comprehensive Antenatal and post natal care</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Comprehensive antenatal and postnatal care ensures a healthy pregnancy, safe delivery, and optimal recovery for mother and baby.</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Comprehensive antenatal and postnatal care ensures a healthy pregnancy, safe delivery, and optimal recovery for mother and baby.</p> -->
         </div>
       </div>
 
@@ -173,7 +173,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">10</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="highriskpregnancy.php"> High Risk Pregnancy</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Expert care for complications ensuring a safe pregnancy journey.</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Expert care for complications ensuring a safe pregnancy journey.</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -187,7 +187,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">11</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="ultrasoundscanning.php"> Ultrasound scanning</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Advanced imaging for precise and safe pregnancy monitoring.</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Advanced imaging for precise and safe pregnancy monitoring.</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -201,7 +201,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">12</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="electronicfetalmonitoring.php"> Electronic fetal monitoring</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Expert guidance for successful breastfeeding and newborn nutrition.</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Expert guidance for successful breastfeeding and newborn nutrition.</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -215,7 +215,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">13</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="lactationalconsultation.php"> Lactational Consultation</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Support for breastfeeding success and infant health guidance.</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Support for breastfeeding success and infant health guidance.</p> -->
         </div>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
@@ -229,7 +229,7 @@ include "./includes/header.php";
             <h3 class="iconbox_index">14</h3>
           </div>
           <h3 class="cs_iconbox_title"><a href="painlessdelivery.php">Pain Less Delivery</a></h3>
-          <p class="cs_iconbox_subtitle m-0">Pain Less Delivery ensures a comfortable childbirth using advanced pain management like epidural anesthesia</p>
+          <!-- <p class="cs_iconbox_subtitle m-0">Pain Less Delivery ensures a comfortable childbirth using advanced pain management like epidural anesthesia</p> -->
         </div>
       </div>
 
