@@ -164,15 +164,21 @@ include "./includes/header.php";
 <div id="carouselExampleFade" data-bs-interval="3000" class="carousel slide carousel-fade" data-bs-ride="carousel">
      <div class="carousel-inner cor_med" id="bb">
 
-       <div class="carousel-item active ">
+
+
+
+     <div class="carousel-item active">
+         <img src="assets/img/gynaecology/9.png" class="d-block img-fluid   " alt="...">
+
+       </div>
+
+
+       <div class="carousel-item  ">
          <img src="assets/img/gynaecology/16.png"class="d-block  img-fluid " alt="...">
          <!-- <div class="custom-slide"><img src="assets/img/gynaecology/14.png" alt="Slide 7"></div> -->
 
        </div>
-       <div class="carousel-item">
-         <img src="assets/img/gynaecology/9.png" class="d-block img-fluid   " alt="...">
-
-       </div>
+    
        <div class="carousel-item">
          <img src="assets/img/gynaecology/1.png" class="d-block   img-fluid" alt="...">
        </div>
@@ -455,7 +461,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/hormone.png" alt="Service Icon">
+              <img src="assets/img/icons/no_steroids.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">05</h3>
           </div>
@@ -469,7 +475,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/menopause.png" alt="Service Icon">
+              <img src="assets/img/icons/woman.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">06</h3>
           </div>

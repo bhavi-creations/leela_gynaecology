@@ -93,7 +93,7 @@
                     Services
                   </a>
                   <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:600px;">
-                    <div class="row">
+                    <div class="row mobile_navbar">
                       <!-- Column 1 -->
                       <div class="col-md-6">
                         <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
@@ -145,7 +145,7 @@
   <div class="cs_site_header_spacing_150"></div>
 
 
-  <script>
+  <!-- <script>
   document.addEventListener("DOMContentLoaded", function () {
     let serviceToggle = document.getElementById("servicesDropdown");
     let dropdownMenu = document.querySelector(".services_drop_menu");
@@ -166,7 +166,102 @@
   });
 </script>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  let dropdowns = document.querySelectorAll(".dropdown-submenu > a");
 
+  dropdowns.forEach((dropdown) => {
+    dropdown.addEventListener("click", function (e) {
+      e.preventDefault();
+      let submenu = this.nextElementSibling;
+
+      if (submenu.style.display === "block") {
+        submenu.style.display = "none";
+      } else {
+        document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach((menu) => {
+          menu.style.display = "none";
+        });
+        submenu.style.display = "block";
+      }
+    });
+  });
+});
+
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  // Select all dropdown links inside submenus
+  let dropdowns = document.querySelectorAll(".dropdown-submenu > a");
+
+  dropdowns.forEach((dropdown) => {
+    dropdown.addEventListener("click", function (e) {
+      e.preventDefault(); // Prevent default link behavior
+      
+      let submenu = this.nextElementSibling; // Get the submenu
+      
+      if (submenu.style.display === "block") {
+        submenu.style.display = "none"; // Close if already open
+      } else {
+        // Close all other submenus first
+        document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach((menu) => {
+          menu.style.display = "none";
+        });
+        
+        submenu.style.display = "block"; // Open the clicked submenu
+      }
+    });
+  });
+});
+
+</script> -->
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+  // Get all dropdown items that have submenus
+  let dropdowns = document.querySelectorAll(".nav-item .dropdown-toggle");
+
+  dropdowns.forEach((dropdown) => {
+    dropdown.addEventListener("click", function (e) {
+      e.preventDefault();
+
+      let submenu = this.nextElementSibling;
+
+      // Close all open menus first
+      document.querySelectorAll(".dropdown-menu").forEach((menu) => {
+        if (menu !== submenu) {
+          menu.style.display = "none";
+        }
+      });
+
+      // Toggle the clicked menu
+      submenu.style.display = submenu.style.display === "block" ? "none" : "block";
+    });
+  });
+
+  // Ensure sub-sub menus also toggle correctly
+  let subDropdowns = document.querySelectorAll(".dropdown-submenu > a");
+
+  subDropdowns.forEach((subDropdown) => {
+    subDropdown.addEventListener("click", function (e) {
+      e.preventDefault();
+
+      let subSubmenu = this.nextElementSibling;
+
+      // Close other open sub-submenus
+      document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach((menu) => {
+        if (menu !== subSubmenu) {
+          menu.style.display = "none";
+        }
+      });
+
+      // Toggle sub-submenu
+      subSubmenu.style.display = subSubmenu.style.display === "block" ? "none" : "block";
+    });
+  });
+});
+
+</script>
 
 
 

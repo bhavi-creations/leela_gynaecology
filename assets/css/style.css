@@ -3821,7 +3821,7 @@ label {
 @media (max-width: 1199px) {
   .cs_site_header.cs_style_1 .cs_main_header_right {
     padding-right: 50px;
-    margin-top: -14px;
+    margin-top: 3px;
     gap: 5px 25px;
   }
 }
@@ -9157,9 +9157,48 @@ color: pink;
   z-index: 99;
 }
 
+/* For normal screens */
+.dropdown-submenu {
+  position: relative;
+}
 
+.dropdown-submenu .dropdown-menu {
+  top: 0;
+  left: 100%; /* Makes submenus appear beside their parent */
+  margin-top: -1px;
+  display: none;
+}
 
+/* On small screens, force them to open below */
+@media (max-width: 768px) {
+  .dropdown-submenu .dropdown-menu {
+    left: 0;
+    position: relative;
+    display: none;
+  }
+}
 
+@media (max-width:768px) {
+.mobile_navbar{
+  margin-left: 20px;
+}  
+}
+
+/* Enable scrollbar for mobile view */
+@media (max-width: 768px) {
+  .services_drop_menu {
+    max-height: 300px; /* Limit dropdown height */
+    overflow-y: auto; /* Enable vertical scroll */
+    overflow-x: hidden;
+  }
+
+  .dropdown-submenu .dropdown-menu {
+    max-height: 200px; /* Prevents sub-submenu from being too long */
+    overflow-y: auto;
+    left: 0;
+    position: relative;
+  }
+}
 
 
 

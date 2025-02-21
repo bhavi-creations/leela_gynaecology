@@ -96,7 +96,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/hormone.png" alt="Service Icon">
+              <img src="assets/img/icons/no_steroids.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">05</h3>
           </div>
@@ -110,7 +110,7 @@ include "./includes/header.php";
           <div class="cs_iconbox_shape"></div>
           <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
             <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/menopause.png" alt="Service Icon">
+              <img src="assets/img/icons/woman.png" alt="Service Icon">
             </div>
             <h3 class="iconbox_index">06</h3>
           </div>

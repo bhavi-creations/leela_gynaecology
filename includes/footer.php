@@ -77,8 +77,7 @@
     </div>
   </div>
 </div>
-
-  <div class="cs_footer_bottom copy_bg text-white">
+<div class="cs_footer_bottom copy_bg text-white">
     <div class="container">
       <div class="cs_footer_bottom_in">
 
@@ -106,6 +105,7 @@
       </div>
     </div>
   </div>
+  
 
 </footer>
 <!-- End Footer -->
