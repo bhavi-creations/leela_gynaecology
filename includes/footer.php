@@ -20,7 +20,7 @@
             </li>
             <li>
               <i class="fa-solid fa-phone  text-dark"></i>
-              <p class="text-dark">+91-9493782298</p>
+              <p class="text-dark">+91-9100686678</p>
             </li>
           </ul>
           <div class="cs_social_btns cs_style_1">
