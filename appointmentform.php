@@ -24,14 +24,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'manimalladi05@gmail.com'; // Your Gmail email address
-        $mail->Password = 'ltlxupjfqbobegqg'; // Your Gmail password
+        $mail->Username = 'leelawomenshealthcare@gmail.com'; // Your Gmail email address
+        $mail->Password = 'seumobbxwwqixdor'; // Your Gmail password
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         // Recipients
-        $mail->setFrom('manimalladi05@gmail.com', 'Leela Gynaecologist' ); // Your Gmail email and name
-        $mail->addAddress('manimalladi05@gmail.com', 'Leela Gynaecologist'); // Recipient's email and name
+        $mail->setFrom('leelawomenshealthcare@gmail.com', 'LEELA WOMENS HEALTH CARE' ); // Your Gmail email and name
+        $mail->addAddress('leelawomenshealthcare@gmail.com', 'LEELA WOMENS HEALTH CARE'); // Recipient's email and name
 
 // Content
         $mail->isHTML(true);
