@@ -26,6 +26,77 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<meta name="title" content="Best Gynecology Hospital in Kakinada - Leela Gynecology Hospital">
+
+
+<meta name="description" content="Leela Gynecology Hospital in Kakinada provides comprehensive women's health care, including maternity services, gynecological treatments, fertility solutions, and advanced obstetric care. Our experienced gynecologists ensure personalized care for every stage of womanhood. Book your appointment today for compassionate and expert medical care.">
+
+
+<meta name="keywords" content="Gynecology hospital in Kakinada,
+ Best maternity hospital in Kakinada,
+Women's health care Kakinada, 
+Fertility treatment Kakinada, 
+Obstetric care Kakinada, 
+Best gynecologist in Kakinada, 
+Pregnancy care in Kakinada, 
+Women's wellness clinic Kakinada">
+
+
+<script>
+{
+  "@context": "https://schema.org",
+  "@type": "Hospital",
+  "name": "Leela Gynecology Hospital",
+  "description": "Leela Gynecology Hospital in Kakinada offers expert gynecology, maternity care, fertility treatments, and women's health services with personalized care.",
+  "url": "https://leelagynichospital.com/",
+  "logo": "https://leelagynichospital.com/logo.png",
+  "image": "https://leelagynichospital.com/hospital-image.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2-18-9/1, Opposite to Old SP Office Road, Near RMC Ground, Madhav Nagar",
+    "addressLocality": "Kakinada",
+    "addressRegion": "Andhra Pradesh",
+    "postalCode": "533003",
+    "addressCountry": "IN"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+91-9100686678",
+    "contactType": "Customer Service",
+    "areaServed": "Kakinada, Andhra Pradesh",
+    "availableLanguage": ["English", "Telugu"]
+  },
+  "openingHours": [
+    "Monday 10:00-20:00",
+    "Tuesday 10:00-20:00",
+    "Wednesday 10:00-20:00",
+    "Thursday 10:00-20:00",
+    "Friday 10:00-20:00",
+    "Saturday 10:00-20:00"
+  ],
+  "department": [
+    {
+      "@type": "MedicalDepartment",
+      "name": "Gynecology Department",
+      "medicalSpecialty": "Gynecology"
+    },
+    {
+      "@type": "MedicalDepartment",
+      "name": "Obstetrics Department",
+      "medicalSpecialty": "Obstetrics"
+    },
+    {
+      "@type": "MedicalDepartment",
+      "name": "Fertility Clinic",
+      "medicalSpecialty": "Fertility"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/leelagynichospital",
+    "https://www.instagram.com/leelagynichospital"
+  ]
+}
+</script>
 
 </head>
 
