@@ -9218,7 +9218,8 @@ color: pink;
 
 
 .gallery_section{
-  background-color: red !important;
+ padding-top: 20px;
+  background-color: #efeff3 !important;
 }
 
 
