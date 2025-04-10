@@ -250,12 +250,15 @@ include "./includes/header.php";
 </script>
 
 
+
+
+
 <section class="cs_cta cs_style_1 copy_bg  position-relative overflow-hidden">
   <div class="container">
     <div class="cs_cta_in">
       <div class="cs_cta_left">
         <div class="cs_cta_thumb wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
-          <img src="assets/img/Untitled design (11).png" alt="">
+          <img src="assets/img/medam.png  " alt="">
         </div>
         <div class="cs_cta_info">
           <h2 class="cs_cta_title"> Advanced Gynecological Care for Women's Health and Well-being </h2>
@@ -289,7 +292,7 @@ include "./includes/header.php";
             </a>
           </div>
           <div class="cs_about_thumb_2">
-            <img src="assets/img/Untitled design (4).png" alt="About Image">
+            <img src="assets/img/about_img.png" alt="About Image">
             <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
 
           </div>
@@ -399,131 +402,131 @@ include "./includes/header.php";
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="row cs_row_gap_30 cs_gap_y_30">
       <div class="col-xl-3 col-lg-3 col-sm-6">
-      <a href="pcodandadolscent.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/female.png" alt="Service Icon">
+        <a href="pcodandadolscent.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15 cs_hover_layer_2">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/female.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">01</h3>
             </div>
-            <h3 class="iconbox_index">01</h3>
+            <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
           </div>
-          <h3 class="cs_iconbox_title"><a href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
         </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6  ">
-      <a href="menstrualproblems.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/egg.png" alt="Service Icon">
+        <a href="menstrualproblems.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/egg.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">02</h3>
             </div>
-            <h3 class="iconbox_index">02</h3>
+            <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
           </div>
-          <h3 class="cs_iconbox_title"><a href="menstrualproblems.php">Menstrual Problems</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
         </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
-      <a href="infertility.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/pregnancy-test.png" alt="Service Icon">
+        <a href="infertility.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/pregnancy-test.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">03</h3>
             </div>
-            <h3 class="iconbox_index">03</h3>
+            <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
           </div>
-          <h3 class="cs_iconbox_title"><a href="infertility.php">Infertility</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
         </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
-      <a href="perconceptionalcare.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/sperm.png" alt="Service Icon">
+        <a href="perconceptionalcare.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/sperm.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">04</h3>
             </div>
-            <h3 class="iconbox_index">04</h3>
+            <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
           </div>
-          <h3 class="cs_iconbox_title"><a href="perconceptionalcare.php">Preconceptional Care</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
         </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
-      <a href="menopausalclinic.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/no_steroids.png" alt="Service Icon">
+        <a href="menopausalclinic.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/no_steroids.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">05</h3>
             </div>
-            <h3 class="iconbox_index">05</h3>
+            <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
           </div>
-          <h3 class="cs_iconbox_title"><a href="menopausalclinic.php">Menopausal Clinic</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
-      </a>
-      </div>
-      <div class="col-xl-3 col-lg-3 col-sm-6">
-      <a href="wellwomencheckup.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/woman.png" alt="Service Icon">
-            </div>
-            <h3 class="iconbox_index">06</h3>
-          </div>
-          <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
         </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
-      <a href="cancerscreening.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/cancer_screening.png" alt="Service Icon">
+        <a href="wellwomencheckup.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/woman.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">06</h3>
             </div>
-            <h3 class="iconbox_index">07</h3>
+            <h3 class="cs_iconbox_title"><a href="wellwomencheckup.php">Well Women Check up</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
           </div>
-          <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
         </a>
       </div>
       <div class="col-xl-3 col-lg-3 col-sm-6">
-      <a href="allgynaecological.php">
-        <div class="cs_iconbox cs_style_2 cs_radius_15">
-          <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
-          <div class="cs_iconbox_shape"></div>
-          <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
-            <div class="cs_iconbox_icon cs_center">
-              <img src="assets/img/icons/gynecology.png" alt="Service Icon">
+        <a href="cancerscreening.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/cancer_screening.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">07</h3>
             </div>
-            <h3 class="iconbox_index">08</h3>
+            <h3 class="cs_iconbox_title"><a href="cancerscreening.php">Cancer Screening</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
           </div>
-          <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
-          <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
-        </div>
+        </a>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-sm-6">
+        <a href="allgynaecological.php">
+          <div class="cs_iconbox cs_style_2 cs_radius_15">
+            <div class="cs_iconbox_overlay cs_bg_filed" data-src="assets/img/service_bg.jpg"></div>
+            <div class="cs_iconbox_shape"></div>
+            <div class="cs_iconbox_header d-flex align-items-center justify-content-between">
+              <div class="cs_iconbox_icon cs_center">
+                <img src="assets/img/icons/gynecology.png" alt="Service Icon">
+              </div>
+              <h3 class="iconbox_index">08</h3>
+            </div>
+            <h3 class="cs_iconbox_title"><a href="allgynaecological.php">All gynaecological problems</a></h3>
+            <!-- <p class="cs_iconbox_subtitle m-0">Medical competitor research startup to financial</p> -->
+          </div>
         </a>
       </div>
     </div>
@@ -699,6 +702,43 @@ include "./includes/header.php";
       <div class="cs_height_100 cs_height_lg_80"></div>
     </div> -->
 <!-- End Brand Section -->
+
+
+
+
+
+
+<section class="gallery_section">
+  <div class="container">
+    <h1 class="text-center my-5">Gallery</h1>
+    <div class="row g-5">
+      <div class="col-md-4 col-12 ">
+        <img src="assets/img/gynaecology/20.png" alt="">
+      </div>
+      <div class="col-md-4 col-12">
+        <img src="assets/img/gynaecology/21.png" alt="">
+      </div>
+      <div class="col-md-4 col-12">
+        <img src="assets/img/gynaecology/22.png" alt="">
+      </div>
+    
+      <div class="col-md-4 col-12">
+        <img src="assets/img/gynaecology/23.png" alt="">
+      </div>
+      <div class="col-md-4 col-12">
+        <img src="assets/img/gynaecology/24.png" alt="">
+      </div>
+      <div class="col-md-4 col-12">
+        <img src="assets/img/gynaecology/25.png" alt="">
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
 <section class="cs_contact">
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
@@ -752,7 +792,7 @@ include "./includes/header.php";
   <div class="cs_height_120 cs_height_lg_80"></div>
 </section>
 <!-- Start Why Choose Us Section -->
-<section class="cs_gray_bg cs_bg_filed section_content" data-src="assets/img/why/1.png">
+<section class="cs_gray_bg cs_bg_filed section_content" data-src="assets/img/why/3.png">
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
     <div class="row">
@@ -1123,7 +1163,7 @@ include "./includes/header.php";
             <div class="row cs_gap_y_30 align-items-xl-center">
               <div class="col-lg-6">
                 <div class="cs_card_thumb cs_radius_5">
-                  <img src="assets/img/Untitled design (46)/2.png" alt="Department Image">
+                  <img src="assets/img/why/4.png" alt="Department Image">
                 </div>
               </div>
               <div class="col-lg-6">
@@ -1159,7 +1199,7 @@ include "./includes/header.php";
             <div class="row cs_gap_y_30 align-items-xl-center">
               <div class="col-lg-6">
                 <div class="cs_card_thumb cs_radius_5">
-                  <img src="assets/img/Untitled design (46)/1.png" alt="Department Image">
+                  <img src="assets/img/why/6.png" alt="Department Image">
                 </div>
               </div>
               <div class="col-lg-6">
@@ -1195,7 +1235,7 @@ include "./includes/header.php";
             <div class="row cs_gap_y_30 align-items-xl-center">
               <div class="col-lg-6">
                 <div class="cs_card_thumb cs_radius_5">
-                  <img src="assets/img/Untitled design (46)/3.png" alt="Department Image">
+                  <img src="assets/img/why/5.png" alt="Department Image">
                 </div>
               </div>
               <div class="col-lg-6">
@@ -1321,7 +1361,7 @@ include "./includes/header.php";
 
       <div class="col-lg-8">
         <div class="cs_solution_thumbnail cs_bg_filed">
-          <img src="assets/img/Untitled design (9).png" alt="" class="img-fluid">
+          <img src="assets/img/appointment1.png" alt="" class="img-fluid">
         </div>
       </div>
 
@@ -1654,7 +1694,41 @@ include "./includes/header.php";
 
 
 
+<script>
+  var swiper = new Swiper(".custom-slide-content", {
+    slidesPerView: 3,
+    spaceBetween: 25,
+    loop: true,
+    centerslide: 'true',
+    fade: 'true',
+    grabCursor: 'true',
+    pagination: {
+      el: ".custom-swiper-pagination",
+      clickable: true,
+      dynamicBullets: true,
+    },
+    autoplay: {
+      delay: 3000, // Time in milliseconds between automatic slides (3 seconds here)
+      disableOnInteraction: false, // Keeps autoplay active even after manual swiping
+    },
+    navigation: {
+      nextEl: ".swiper-button-next.custom-swiper-navBtn",
+      prevEl: ".swiper-button-prev.custom-swiper-navBtn",
+    },
 
+    breakpoints: {
+      0: {
+        slidesPerView: 1,
+      },
+      520: {
+        slidesPerView: 2,
+      },
+      950: {
+        slidesPerView: 3,
+      },
+    },
+  });
+</script>
 
 
 

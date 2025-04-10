@@ -7820,7 +7820,7 @@ label {
 
 .cs_card.cs_style_2 {
   padding: 10px 0 10px 10px;
-  border: 1px solid var(--border-color);
+  /* border: 1px solid var(--border-color); */
   border-radius: 10px;
 }
 @media (max-width: 991px) {
@@ -9217,7 +9217,9 @@ color: pink;
 }
 
 
-
+.gallery_section{
+  background-color: red !important;
+}
 
 
 

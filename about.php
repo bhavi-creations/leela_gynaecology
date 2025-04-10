@@ -160,7 +160,7 @@
               </a>
             </div>
             <div class="cs_about_thumb_2">
-              <img src="assets/img/Untitled design (4).png" alt="About Image">
+              <img src="assets/img/about_img.png" alt="About Image">
               <!-- <img src="assets/img/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2 "> -->
               <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
 
