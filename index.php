@@ -721,7 +721,7 @@ include "./includes/header.php";
       <div class="col-md-4 col-12">
         <img src="assets/img/gynaecology/22.png" alt="">
       </div>
-    
+
       <div class="col-md-4 col-12">
         <img src="assets/img/gynaecology/23.png" alt="">
       </div>
@@ -749,7 +749,7 @@ include "./includes/header.php";
               <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
             </div> -->
           <div class="cs_contact_img">
-            <img src="assets/img/Untitled design (18).png" alt="Image">
+            <img src="assets/img/medam_img.png" alt="Image">
           </div>
           <div class="cs_contact_bg_shape">
             <div class="cs_white_bg_shape"></div>
@@ -792,7 +792,12 @@ include "./includes/header.php";
   <div class="cs_height_120 cs_height_lg_80"></div>
 </section>
 <!-- Start Why Choose Us Section -->
-<section class="cs_gray_bg cs_bg_filed section_content" data-src="assets/img/why/3.png">
+<!-- <section class="cs_gray_bg cs_bg_filed section_content" data-src="assets/img/why/3.png"> -->
+
+
+<section class="cs_gray_bg cs_bg_filed section_content"
+  style="background-image: url('assets/img/why/3.png'); background-size: cover; background-position: center; background-repeat: no-repeat;">
+
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
     <div class="row">
@@ -871,6 +876,12 @@ include "./includes/header.php";
   </div>
   <div class="cs_height_120 cs_height_lg_80"></div>
 </section>
+
+
+
+
+
+
 <!-- End Why Choose Us Section -->
 <!-- Start Projects Section -->
 <!-- <section class="cs_tabs">
@@ -1306,6 +1317,40 @@ include "./includes/header.php";
   <div class="cs_height_120 cs_height_lg_80"></div>
   <hr>
 </section>
+
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const tabs = document.querySelectorAll(".cs_tab_links li");
+    const tabContents = document.querySelectorAll(".cs_tab");
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", function(e) {
+        e.preventDefault();
+
+        // Remove active class from all tabs
+        tabs.forEach((t) => t.classList.remove("active"));
+        // Hide all tab content
+        tabContents.forEach((content) => content.classList.remove("active"));
+
+        // Add active to clicked tab
+        tab.classList.add("active");
+
+        // Get the href of the anchor inside the tab (e.g. "#brain_althim")
+        const target = tab.querySelector("a").getAttribute("href");
+        const targetContent = document.querySelector(target);
+
+        // Show the corresponding tab content
+        if (targetContent) {
+          targetContent.classList.add("active");
+        }
+      });
+    });
+  });
+</script>
+
 <!-- End Medical Tab Section -->
 <!-- Start Medical Solution Section -->
 <section class="cs_card cs_style_3 cs_section_bg position-relative">

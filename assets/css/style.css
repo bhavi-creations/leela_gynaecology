@@ -9222,6 +9222,13 @@ color: pink;
   background-color: #efeff3 !important;
 }
 
+.cs_tab {
+  display: none;
+}
+.cs_tab.active {
+  display: block;
+}
+
 
 
 

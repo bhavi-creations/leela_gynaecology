@@ -5,14 +5,14 @@
 
 
 
-  <!-- End Header Section -->
-  <!-- Start Page Heading -->
-  <!-- <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/gynaecology/17.png">
+<!-- End Header Section -->
+<!-- Start Page Heading -->
+<!-- <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/gynaecology/17.png">
     <div class="container">
     
     </div>
   </section> -->
-  <section class="cs_contact">
+<section class="cs_contact">
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
     <div class="row cs_gap_y_30">
@@ -22,7 +22,9 @@
               <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
             </div> -->
           <div class="cs_contact_img">
-            <img src="assets/img/Untitled design (18).png" alt="Image">
+            <!-- <img src="assets/img/Untitled design (18).png" alt="Image"> -->
+            <img src="assets/img/medam_img.png" alt="Image" style="border-radius: 6px;">
+
           </div>
           <div class="cs_contact_bg_shape">
             <div class="cs_white_bg_shape"></div>
@@ -64,9 +66,9 @@
   </div>
   <div class="cs_height_120 cs_height_lg_80"></div>
 </section>
-  <!-- End Page Heading -->
-  <!-- Start About Section -->
-  <!-- <section class="cs_about cs_style_1 position-relative">
+<!-- End Page Heading -->
+<!-- Start About Section -->
+<!-- <section class="cs_about cs_style_1 position-relative">
 
     <div class="cs_height_120 cs_height_lg_80"></div>
     <div class="container">
@@ -143,45 +145,45 @@
     <div class="cs_section_img"><img src="assets/img/about_section_img_1.png" alt=""></div>
     <div class="cs_height_120 cs_height_lg_80"></div>
   </section> -->
-  <!-- End About Section -->
-  <section class="cs_about cs_style_1 position-relative">
-    <div class="cs_height_120 cs_height_lg_80"></div>
-    <div class="container">
-      <div class="row align-items-center cs_gap_y_40">
-        <div class="col-lg-6">
-          <div class="cs_about_thumb">
-            <div class="cs_about_thumb_1">
-              <img src="assets/img/Untitled design (1).png" alt="">
-              <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
-                <span class="cs_player_btn cs_center">
-                  <span></span>
-                </span>
-                <span class="cs_about_play_btn_text">How We Work</span>
-              </a>
-            </div>
-            <div class="cs_about_thumb_2">
-              <img src="assets/img/about_img.png" alt="About Image">
-              <!-- <img src="assets/img/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2 "> -->
-              <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
+<!-- End About Section -->
+<section class="cs_about cs_style_1 position-relative">
+  <div class="cs_height_120 cs_height_lg_80"></div>
+  <div class="container">
+    <div class="row align-items-center cs_gap_y_40">
+      <div class="col-lg-6">
+        <div class="cs_about_thumb">
+          <div class="cs_about_thumb_1">
+            <img src="assets/img/Untitled design (1).png" alt="">
+            <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
+              <span class="cs_player_btn cs_center">
+                <span></span>
+              </span>
+              <span class="cs_about_play_btn_text">How We Work</span>
+            </a>
+          </div>
+          <div class="cs_about_thumb_2">
+            <img src="assets/img/about_img.png" alt="About Image">
+            <!-- <img src="assets/img/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2 "> -->
+            <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
 
-            </div>
-            <div class="cs_experience_box cs_center">
-              <p class="cs_experience_box_number">5+</p>
-              <p class="cs_experience_box_title">Experience</p>
-            </div>
+          </div>
+          <div class="cs_experience_box cs_center">
+            <p class="cs_experience_box_number">5+</p>
+            <p class="cs_experience_box_title">Experience</p>
           </div>
         </div>
-        <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.9s" data-wow-delay="0.25s">
-          <div class="cs_about_content">
-            <div class="cs_section_heading cs_style_1">
-              <p class="cs_section_subtitle text ">
-                <span class="cs_shape_left  "></span>
-                 ABOUT US
-              </p>
-              <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
-            </div>
-            <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
-            <!-- <div class="row cs_gap_y_30">
+      </div>
+      <div class="col-lg-6 wow fadeInRight" data-wow-duration="0.9s" data-wow-delay="0.25s">
+        <div class="cs_about_content">
+          <div class="cs_section_heading cs_style_1">
+            <p class="cs_section_subtitle text ">
+              <span class="cs_shape_left  "></span>
+              ABOUT US
+            </p>
+            <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
+          </div>
+          <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
+          <!-- <div class="row cs_gap_y_30">
               <div class="col-sm-6">
                 <div class="cs_iconbox cs_style_1">
                   <div class="cs_iconbox_head">
@@ -205,8 +207,8 @@
                 </div>
               </div>
             </div> -->
-            <div class="cs_about_iconbox">
-              <!-- <div class="cs_about_iconbox_icon cs_center">
+          <div class="cs_about_iconbox">
+            <!-- <div class="cs_about_iconbox_icon cs_center">
                 <i class="fa-regular fa-circle-check"></i>
               </div>
               <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team  <a href="#">READ MORE +</a></p>
@@ -221,11 +223,11 @@
     </div>
     <div class="cs_section_img"><img src="assets/img/about_section_img_1.png" alt=""></div>
     <div class="cs_height_120 cs_height_lg_80"></div>
-  </section>
+</section>
 
 
-    <!-- Start Counter Section -->
-    <!-- <div class="cs_counter_area_2 ">
+<!-- Start Counter Section -->
+<!-- <div class="cs_counter_area_2 ">
       <div class="container">
         <div class="cs_counter_2_wrap new_color">
           <div class="cs_counter cs_style_2">
@@ -260,11 +262,11 @@
       </div>
       <div class="cs_height_120 cs_height_lg_80"></div>
     </div> -->
-    <!-- End Counter Section -->
+<!-- End Counter Section -->
 
 
-  <!-- Start CTA Section -->
-  <!-- <section class="cs_cta cs_style_2 cs_blue_bg cs_bg_filed cs_center" data-src="assets/img/cta_bg_1.jpeg">
+<!-- Start CTA Section -->
+<!-- <section class="cs_cta cs_style_2 cs_blue_bg cs_bg_filed cs_center" data-src="assets/img/cta_bg_1.jpeg">
     <div class="container">
       <div class="row align-items-center cs_gap_y_40">
         <div class="col-lg-6">
@@ -297,15 +299,15 @@
       </div>
     </div>
   </section> -->
-  <!-- End CTA Section -->
+<!-- End CTA Section -->
 
 
 
- <!-- Start Footer -->
-
- 
+<!-- Start Footer -->
 
 
 
-  <?php include "./includes/footer.php"; 
+
+
+<?php include "./includes/footer.php";
 ?>
