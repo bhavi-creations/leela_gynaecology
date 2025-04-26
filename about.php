@@ -48,18 +48,16 @@
         </div>
         <div class="cs_height_25 cs_height_lg_25"></div>
         <p>
-          A gynecologist is a medical doctor who specializes in the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, and breasts. They diagnose and treat conditions related to women's health, pregnancy, menstruation, fertility issues, hormonal disorders, and sexually transmitted infections (STIs).
+          Dr.Priyanka Kosuru MBBS,MS <br>
+          <strong> Experience - 15 years </strong> <br>
+          She completed her MBBS from Rangaraya medical college in 2007 and MS from Andhra medical college in 2012.She is trained in ultrasound , infertility and laparoscopy.
+
         </p>
         <p>
-          A gynecologist provides various services, including
-          Routine check-ups Annual exams, including Pap smears, pelvic exams, and breast exams.
-          Pregnancy and childbirth care Monitoring pregnancy, prenatal care, and delivering babies.
-          Menstrual disorders Treating irregular, heavy, or painful periods.
-          Fertility issues Diagnosing and treating infertility problems.
-          Hormonal imbalances Managing menopause symptoms, polycystic ovary syndrome (PCOS), and thyroid disorders.
-          Contraception advice Providing birth control methods like pills, IUDs, and implants.
-          Sexually transmitted infections (STIs) Diagnosis, treatment, and prevention.
-          Gynecological surgeries Procedures like hysterectomy, laparoscopy, and ovarian cyst removal.
+          Her areas of expertise include High risk pregnancy care, PCOS management, Infertility treatments and Gynaecological surgeries.
+        </p>
+        <p>
+          She continuously updates her skills and knowledge through participation in medical conferences and workshops ,brining the best of evidenced-based care to her practice.
         </p>
       </div>
     </div>
@@ -182,7 +180,9 @@
             </p>
             <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
           </div>
-          <p class="cs_about_text">Gynecology is the branch of medicine that focuses on the health of the female reproductive system, including the uterus, ovaries, fallopian tubes, vagina, and breasts. It involves the diagnosis, treatment, and prevention of conditions related to women’s reproductive and sexual health.</p>
+          <p class="cs_about_text">Welcome to LEELA WOMEN’S HEALTH CARE…</p>
+          <p class="cs_about_text">Founded by Dr.Priyanka Kosuru , a highly experienced and compassionate OB-GYN specialist with over 15 years of experience , Leela women’s health care is committed to delivering comprehensive obstetric and gynaecological care to women of all ages</p>
+          <p class="cs_about_text">Located in the heart of Kakinada,our hospital is thoughtfully designed with modern interiors that offer comfort, privacy and calmness.We are equipped with the latest medical technology to ensure accurate diagnosis and advanced treatment for every patient.</p>
           <!-- <div class="row cs_gap_y_30">
               <div class="col-sm-6">
                 <div class="cs_iconbox cs_style_1">

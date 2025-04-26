@@ -23,7 +23,7 @@
               <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
             </div> -->
             <div class="cs_contact_img">
-              <img src="assets/img/Untitled design (18)1.png" alt="Image">
+              <img src="assets/img/medam_img.png" alt="Image">
             </div>
             <div class="cs_contact_bg_shape">
               <div class="cs_white_bg_shape"></div>
