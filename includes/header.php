@@ -29,7 +29,7 @@
 <meta name="title" content="Best Gynecology Hospital in Kakinada - Leela Gynecology Hospital">
 
 
-<meta name="description" content="Leela Gynecology Hospital in Kakinada provides comprehensive women's health care, including maternity services, gynecological treatments, fertility solutions, and advanced obstetric care. Our experienced gynecologists ensure personalized care for every stage of womanhood. Book your appointment today for compassionate and expert medical care.">
+<meta name="description" content="Leela Gynecology Hospital in Kakinada is a leading gynecology hospital in Kakinada offering expert maternity care, advanced fertility treatments in Kakinada, and care from trusted gynecologists in Kakinada. We provide personalized women’s health services at every stage. Book your appointment today for compassionate and expert medical care.">
 
 
 <meta name="keywords" content="Gynecology hospital in Kakinada,
@@ -40,6 +40,12 @@ Obstetric care Kakinada,
 Best gynecologist in Kakinada, 
 Pregnancy care in Kakinada, 
 Women's wellness clinic Kakinada">
+
+
+
+<link rel="canonical" href="https://leelagynichospital.com/" />
+
+
 
 
 <?php
@@ -101,6 +107,9 @@ $schema = [
 <script type="application/ld+json">
 <?= json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
+
+
+<meta name="google-site-verification" content="h64EQ-TaQGl20vC7AAEfOxg8dT235NvjMw0liLjrX2U" />
 
 </head>
 
