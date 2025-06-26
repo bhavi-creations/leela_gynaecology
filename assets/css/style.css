@@ -3893,8 +3893,27 @@ label {
   padding: 0 100px;
 }
 
-.cs_site_header_spacing_150 {
+/* .cs_site_header_spacing_150 {
   height: 150px;
+} */
+ 
+@media  (min-width: 1200px) and (max-width: 1600px) {
+  .cs_site_header.cs_style_1 .container {
+    max-width: 100%;
+  }
+  .cs_site_header_spacing_150 {
+    height: 250px !important;
+  }
+  .cs_main_header .container {
+    max-width: 100%;
+  }
+  .cs_site_header.cs_style_1 .cs_nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+
 }
 
 @media screen and (max-width: 1199px) {
@@ -3902,7 +3921,7 @@ label {
     max-width: 100%;
   }
   .cs_site_header_spacing_150 {
-    height: 130px;
+    height: 120px;
   }
   .cs_main_header .container {
     max-width: 100%;
@@ -3913,6 +3932,30 @@ label {
     display: flex;
   }
 }
+
+
+
+@media  (min-width: 768px) and (max-width: 992px) {
+  .cs_site_header.cs_style_1 .container {
+    max-width: 100%;
+  }
+  .cs_site_header_spacing_150 {
+    height: 80px;
+  }
+  .cs_main_header .container {
+    max-width: 100%;
+  }
+  .cs_site_header.cs_style_1 .cs_nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+
+}
+
+
+
 @media screen and (max-width: 767px) {
   .cs_site_header.cs_style_1 .cs_top_header {
     display: none;
@@ -8800,9 +8843,22 @@ color: pink;
 .carousel-item img {
   width: 100%;
   height: auto;
+  /* padding-top: 130px !important; */
   object-fit: cover;
 }
 
+@media (max-width:992px) {
+  .carousel-item img {
+  padding-top: 80px !important;
+}
+}
+
+
+@media (min-width:992px) and  (max-width:1600px) {
+  .carousel-item img {
+  padding-top: 130px !important;
+}
+}
 /* Navigation button styling */
 .carousel-control-prev,
 .carousel-control-next {
@@ -9137,6 +9193,7 @@ color: pink;
 
 .navebar_content{
   margin-top: -10px !important;
+  margin-left: -100px !important;
 }
 
 
@@ -9178,11 +9235,11 @@ color: pink;
   }
 }
 
-@media (max-width:768px) {
+/* @media (max-width:768px) {
 .mobile_navbar{
   margin-left: 20px;
 }  
-}
+} */
 
 /* Enable scrollbar for mobile view */
 /* @media (max-width: 768px) {
@@ -9229,15 +9286,33 @@ color: pink;
   display: block;
 }
 
+.mobile_appointmnet{
+  background-color: rgb(239, 0, 143);
+  color: white;
+  font-weight: 600;
+}
 
 
 
 
 
 
+/* @media (max-width:768px) {
+  .img_slider_section{
+    padding-top: 80px !important;
+  }
+}
 
 
 
+@media (min-width:768px) and (max-width:992px) {
+  .img_slider_section{
+    padding-top: 80px !important;
+  }
+}
 
-
-
+@media (min-width:992p) and (max-width:1200px) {
+  .img_slider_section{
+    padding-top: 130px !important;
+  }
+} */

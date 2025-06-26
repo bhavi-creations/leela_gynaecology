@@ -38,7 +38,7 @@
             <li><a href="index.php" class=" text-dark">Home</a></li>
             <li><a href="about.php" class=" text-dark">About</a></li>
             <li><a href="service.php" class=" text-dark"> Service</a></li>
-            <li><a href="blogs.php" class=" text-dark">Blog</a></li>
+            <!-- <li><a href="blogs.php" class=" text-dark">Blog</a></li> -->
             <li><a href="contact.php" class=" text-dark">Contact</a></li>
             <li><a href="appointments.php" class=" text-dark">Appointment</a></li>
           </ul>

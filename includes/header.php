@@ -26,13 +26,13 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="title" content="Best Gynecology Hospital in Kakinada - Leela Gynecology Hospital">
+  <meta name="title" content="Best Gynecology Hospital in Kakinada - Leela Gynecology Hospital">
 
 
-<meta name="description" content="Leela Gynecology Hospital in Kakinada is a leading gynecology hospital in Kakinada offering expert maternity care, advanced fertility treatments in Kakinada, and care from trusted gynecologists in Kakinada. We provide personalized women’s health services at every stage. Book your appointment today for compassionate and expert medical care.">
+  <meta name="description" content="Leela Gynecology Hospital in Kakinada is a leading gynecology hospital in Kakinada offering expert maternity care, advanced fertility treatments in Kakinada, and care from trusted gynecologists in Kakinada. We provide personalized women’s health services at every stage. Book your appointment today for compassionate and expert medical care.">
 
 
-<meta name="keywords" content="Gynecology hospital in Kakinada,
+  <meta name="keywords" content="Gynecology hospital in Kakinada,
  Best maternity hospital in Kakinada,
 Women's health care Kakinada, 
 Fertility treatment Kakinada, 
@@ -43,13 +43,13 @@ Women's wellness clinic Kakinada">
 
 
 
-<link rel="canonical" href="https://leelagynichospital.com/" />
+  <link rel="canonical" href="https://leelagynichospital.com/"   />
 
 
 
 
-<?php
-$schema = [
+  <?php
+  $schema = [
     "@context" => "https://schema.org",
     "@type" => "Hospital",
     "name" => "Leela Gynecology Hospital",
@@ -58,58 +58,58 @@ $schema = [
     "logo" => "https://leelagynichospital.com/logo.png",
     "image" => "https://leelagynichospital.com/hospital-image.jpg",
     "address" => [
-        "@type" => "PostalAddress",
-        "streetAddress" => "2-18-9/1, Opposite to Old SP Office Road, Near RMC Ground, Madhav Nagar",
-        "addressLocality" => "Kakinada",
-        "addressRegion" => "Andhra Pradesh",
-        "postalCode" => "533003",
-        "addressCountry" => "IN"
+      "@type" => "PostalAddress",
+      "streetAddress" => "2-18-9/1, Opposite to Old SP Office Road, Near RMC Ground, Madhav Nagar",
+      "addressLocality" => "Kakinada",
+      "addressRegion" => "Andhra Pradesh",
+      "postalCode" => "533003",
+      "addressCountry" => "IN"
     ],
     "contactPoint" => [
-        "@type" => "ContactPoint",
-        "telephone" => "+91-9100686678",
-        "contactType" => "Customer Service",
-        "areaServed" => "Kakinada, Andhra Pradesh",
-        "availableLanguage" => ["English", "Telugu"]
+      "@type" => "ContactPoint",
+      "telephone" => "+91-9100686678",
+      "contactType" => "Customer Service",
+      "areaServed" => "Kakinada, Andhra Pradesh",
+      "availableLanguage" => ["English", "Telugu"]
     ],
     "openingHours" => [
-        "Monday 10:00-20:00",
-        "Tuesday 10:00-20:00",
-        "Wednesday 10:00-20:00",
-        "Thursday 10:00-20:00",
-        "Friday 10:00-20:00",
-        "Saturday 10:00-20:00"
+      "Monday 10:00-20:00",
+      "Tuesday 10:00-20:00",
+      "Wednesday 10:00-20:00",
+      "Thursday 10:00-20:00",
+      "Friday 10:00-20:00",
+      "Saturday 10:00-20:00"
     ],
     "department" => [
-        [
-            "@type" => "MedicalDepartment",
-            "name" => "Gynecology Department",
-            "medicalSpecialty" => "Gynecology"
-        ],
-        [
-            "@type" => "MedicalDepartment",
-            "name" => "Obstetrics Department",
-            "medicalSpecialty" => "Obstetrics"
-        ],
-        [
-            "@type" => "MedicalDepartment",
-            "name" => "Fertility Clinic",
-            "medicalSpecialty" => "Fertility"
-        ]
+      [
+        "@type" => "MedicalDepartment",
+        "name" => "Gynecology Department",
+        "medicalSpecialty" => "Gynecology"
+      ],
+      [
+        "@type" => "MedicalDepartment",
+        "name" => "Obstetrics Department",
+        "medicalSpecialty" => "Obstetrics"
+      ],
+      [
+        "@type" => "MedicalDepartment",
+        "name" => "Fertility Clinic",
+        "medicalSpecialty" => "Fertility"
+      ]
     ],
     "sameAs" => [
-        "https://www.facebook.com/leelagynichospital",
-        "https://www.instagram.com/leelagynichospital"
+      "https://www.facebook.com/leelagynichospital",
+      "https://www.instagram.com/leelagynichospital"
     ]
-];
-?>
+  ];
+  ?>
 
-<script type="application/ld+json">
-<?= json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
-</script>
+  <script type="application/ld+json">
+    <?= json_encode($schema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
+  </script>
 
 
-<meta name="google-site-verification" content="h64EQ-TaQGl20vC7AAEfOxg8dT235NvjMw0liLjrX2U" />
+  <meta name="google-site-verification" content="h64EQ-TaQGl20vC7AAEfOxg8dT235NvjMw0liLjrX2U"   />
 
 </head>
 
@@ -127,7 +127,7 @@ $schema = [
     </div>
   </div> -->
   <!-- Start Header Section -->
-  <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg ">
+  <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg  d-none d-lg-block ">
     <div class="cs_top_header cs_blue_bg cs_white_color copy_bg">
       <div class="container">
         <div class="cs_top_header_in">
@@ -172,13 +172,13 @@ $schema = [
                 <li><a href="about.php">About</a></li>
 
                 <!-- Services Dropdown -->
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Services
                   </a>
                   <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:600px;">
                     <div class="row mobile_navbar">
-                      <!-- Column 1 -->
+             
                       <div class="col-md-6">
                         <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
                         <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
@@ -188,18 +188,52 @@ $schema = [
 
                       </div>
 
-                      <!-- Column 2 -->
+                   
                       <div class="col-md-6">
                         <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
                         <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
                         <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
 
-                        <!-- Nested Dropdown for Comprehensive Care -->
+                
                         <li class="dropdown-submenu">
                           <a class="dropdown-item dropdown-toggle" href="comprehensive.php" id="comprehensiveDropdown" role="button" data-bs-toggle="dropdown">
                             Comprehensive Antenatal <br> & Post natal Care
                           </a>
-                          <ul class="dropdown-menu mt-1 p-2" aria-labelledby="comprehensiveDropdown">
+                          <ul class="dropdown-menu mt-1 p-2 subservices" aria-labelledby="comprehensiveDropdown">
+                            <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                            <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                            <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                            <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                            <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+                          </ul>
+                        </li>
+                      </div>
+                    </div>
+                  </ul>
+                </li> -->
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" aria-expanded="false">
+                    Services
+                  </a>
+                  <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:600px;">
+                    <div class="row mobile_navbar">
+                      <div class="col-md-6">
+                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
+                        <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
+                        <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                        <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                      </div>
+                      <div class="col-md-6">
+                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
+                        <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
+                        <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
+
+                        <li class="dropdown-submenu">
+                          <a class="dropdown-item dropdown-toggle" href="comprehensive.php" id="comprehensiveDropdown" role="button">
+                            Comprehensive Antenatal <br> & Post natal Care
+                          </a>
+                          <ul class="dropdown-menu mt-1 p-2 subservices" aria-labelledby="comprehensiveDropdown">
                             <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
                             <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
                             <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
@@ -211,6 +245,14 @@ $schema = [
                     </div>
                   </ul>
                 </li>
+
+
+
+
+
+
+
+
                 <!-- End Services Dropdown -->
 
                 <li><a href="blogs.php">Blog</a></li>
@@ -226,9 +268,163 @@ $schema = [
       </div>
     </div>
   </header>
-  <div class="cs_site_header_spacing_150"></div>
+  <!-- <div class="cs_site_header_spacing_150"></div> -->
 
- <script>
+
+
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const servicesLink = document.getElementById("servicesDropdown");
+      const dropdownMenu = document.querySelector(".services_drop_menu");
+
+      servicesLink.addEventListener("click", function(e) {
+        if (window.innerWidth < 992) {
+          // On mobile – prevent redirect and toggle dropdown
+          e.preventDefault();
+          dropdownMenu.classList.toggle("show");
+        } else {
+          // On desktop – follow link normally
+          window.location.href = servicesLink.getAttribute("href");
+        }
+      });
+
+      // Optional: close when clicking outside
+      document.addEventListener("click", function(e) {
+        if (!servicesLink.contains(e.target) && !dropdownMenu.contains(e.target)) {
+          dropdownMenu.classList.remove("show");
+        }
+      });
+    });
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- Mobile View Header -->
+  <header class="cs_site_header d-block d-lg-none cs_primary_color cs_white_bg ">
+    <!-- Top Header -->
+    <!-- <div class="cs_top_header cs_blue_bg cs_white_color py-2">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center flex-wrap">
+          <ul class="list-unstyled mb-0 d-flex flex-column gap-1 small">
+            <li><i class="fa-solid fa-envelope me-1"></i> <a href="mailto:demo@example.com">leelawomenshealthcare@gmail.com</a></li>
+            <li><i class="fa-solid fa-phone me-1"></i> +91- 9100686678</li>
+          </ul>
+          <div class="d-flex gap-2">
+            <a href="https://www.facebook.com/Leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/facebook.png" alt="" width="20"></a>
+            <a href="https://www.youtube.com/@Leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/youtube.png" alt="" width="20"></a>
+            <a href="https://www.instagram.com/leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/instagram.png" alt="" width="20"></a>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+      <div class="container">
+        <a class="navbar-brand" href="index.php">
+          <img src="assets/img/logo.png" alt="Logo" style="max-height: 50px;">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobileNav" aria-controls="mobileNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="mobileNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+
+            <!-- Services Dropdown -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="mobileServicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+              <ul class="dropdown-menu" aria-labelledby="mobileServicesDropdown">
+                <li><a class="dropdown-item" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                <li><a class="dropdown-item" href="menstrualproblems.php">Menstrual Problems</a></li>
+                <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
+                <li><a class="dropdown-item" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                <li><a class="dropdown-item" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                <li><a class="dropdown-item" href="wellwomencheckup.php">Well Woman Check up</a></li>
+                <li><a class="dropdown-item" href="cancerscreening.php">Cancer Screening</a></li>
+                <li><a class="dropdown-item" href="allgynaecological.php">All Gynaecological Problems</a></li>
+
+
+                <li class="dropdown-submenu position-relative">
+                  <a class="dropdown-item dropdown-toggle" href="#" onclick="toggleMobileSubmenu(event)">
+                    Comprehensive Care
+                  </a>
+                  <ul class="list-unstyled ps-3 collapse" id="mobileComprehensive">
+                    <li><a class="dropdown-item" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                    <li><a class="dropdown-item" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                    <li><a class="dropdown-item" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                    <li><a class="dropdown-item" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                    <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+                  </ul>
+                </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <!-- <li class="dropdown-submenu">
+                  <a class="dropdown-item dropdown-toggle" href="#" data-bs-toggle="collapse" data-bs-target="#mobileComprehensive">Comprehensive Care</a>
+                  <ul class="collapse list-unstyled ps-3" id="mobileComprehensive">
+                    <li><a class="dropdown-item" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                    <li><a class="dropdown-item" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                    <li><a class="dropdown-item" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                    <li><a class="dropdown-item" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                    <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+                  </ul>
+                </li> -->
+              </ul>
+            </li>
+
+            <!-- <li class="nav-item"><a class="nav-link" href="blogs.php">Blog</a></li> -->
+            <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+          </ul>
+
+          <a href="appointments.php" class="btn mobile_appointmnet w-100 mt-3">Make an Appointment</a>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+
+
+
+  <script>
+    function toggleMobileSubmenu(event) {
+      event.preventDefault();
+      event.stopPropagation(); // Prevent closing the dropdown
+
+      const submenu = document.getElementById("mobileComprehensive");
+      submenu.classList.toggle("show"); // Show/hide the submenu
+    }
+  </script>
+
+  <!-- Bootstrap Bundle JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+  <!-- <script>
   document.addEventListener("DOMContentLoaded", function () {
     let serviceToggle = document.getElementById("servicesDropdown");
     let dropdownMenu = document.querySelector(".services_drop_menu");
@@ -247,9 +443,9 @@ $schema = [
       }
     });
   });
-</script>
+</script> -->
 
-<script>
+  <!-- <script>
   document.addEventListener("DOMContentLoaded", function () {
   let dropdowns = document.querySelectorAll(".dropdown-submenu > a");
 
@@ -270,9 +466,9 @@ $schema = [
   });
 });
 
-</script>
+</script> -->
 
-<script>
+  <!-- <script>
   document.addEventListener("DOMContentLoaded", function () {
   // Select all dropdown links inside submenus
   let dropdowns = document.querySelectorAll(".dropdown-submenu > a");
@@ -297,7 +493,7 @@ $schema = [
   });
 });
 
-</script> 
+</script>  -->
 
   <!-- <script>
   document.addEventListener("DOMContentLoaded", function () {
@@ -379,7 +575,7 @@ $schema = [
 
 
 
-  <script>
+  <!-- <script>
     document.addEventListener("DOMContentLoaded", function() {
       let servicesLink = document.getElementById("servicesDropdown");
       let comprehensiveLink = document.getElementById("comprehensiveDropdown");
@@ -426,7 +622,7 @@ $schema = [
         }
       });
     });
-  </script>
+  </script> -->
 
   <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
     target="_blank">

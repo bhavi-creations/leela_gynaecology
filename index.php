@@ -161,43 +161,44 @@ include "./includes/header.php";
 </script> -->
 
 
-<div id="carouselExampleFade" data-bs-interval="3000" class="carousel slide carousel-fade" data-bs-ride="carousel">
-  <div class="carousel-inner cor_med" id="bb">
+<!-- Carousel Container -->
+<div class="img_slider_section"> <!-- Adjust based on your header height -->
+  <div id="carouselExampleFade" data-bs-interval="3000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div class="carousel-inner cor_med" id="bb">
 
+      <div class="carousel-item active">
+        <img src="assets/img/gynaecology/9.png" class="d-block w-100 img-fluid" alt="...">
+      </div>
 
+      <div class="carousel-item">
+        <img src="assets/img/gynaecology/16.png" class="d-block w-100 img-fluid" alt="...">
+      </div>
 
+      <div class="carousel-item">
+        <img src="assets/img/gynaecology/1.png" class="d-block w-100 img-fluid" alt="...">
+      </div>
 
-    <div class="carousel-item active">
-      <img src="assets/img/gynaecology/9.png" class="d-block img-fluid   " alt="...">
+      <div class="carousel-item">
+        <img src="assets/img/gynaecology/2.png" class="d-block w-100 img-fluid" alt="...">
+      </div>
 
+      <div class="carousel-item">
+        <img src="assets/img/gynaecology/3.png" class="d-block w-100 img-fluid" alt="...">
+      </div>
     </div>
 
-
-    <div class="carousel-item  ">
-      <img src="assets/img/gynaecology/16.png" class="d-block  img-fluid " alt="...">
-      <!-- <div class="custom-slide"><img src="assets/img/gynaecology/14.png" alt="Slide 7"></div> -->
-
-    </div>
-
-    <div class="carousel-item">
-      <img src="assets/img/gynaecology/1.png" class="d-block   img-fluid" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/gynaecology/2.png" class="d-block   img-fluid" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="assets/img/gynaecology/3.png" class="d-block   img-fluid" alt="...">
-    </div>
+    <!-- Carousel Controls (optional if you want arrows) -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
-    <!-- <span class="carousel-control-prev-icon" aria-hidden="true" style="margin-top: 100px !important;"> </span> -->
-    <!-- <span class="visually-hidden">Previous</span> -->
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
-    <!-- <span class="carousel-control-next-icon" aria-hidden="true" style="margin-top: 100px !important;"></span> -->
-    <!-- <span class="visually-hidden">Next</span> -->
-  </button>
 </div>
+
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
@@ -1648,7 +1649,7 @@ include "./includes/header.php";
 </footer> -->
 
 
-<section class="blog_section mt-5 ">
+<!-- <section class="blog_section mt-5 ">
   <div class="container">
     <div class="section-title text-center">
 
@@ -1735,7 +1736,7 @@ include "./includes/header.php";
     </div>
   </div>
 
-</section>
+</section> -->
 
 
 
