@@ -1,9 +1,10 @@
 <?php
 include "./includes/header.php";
 ?>
+<section class="about_us_section">
 
 <img src="assets/img/gynaecology/highrisk.png" class="d-block w-100 img-fluid" alt="...">
-
+</section>
 <div class="container service_section_content">
   <div class="row">
     <div class="col-md-6 mt-5 space">

@@ -1,7 +1,9 @@
 <?php include 'includes/header.php'; ?>
 
-<img src="assets/img/gynaecology/12.png" class="d-block w-100 img-fluid" alt="...">
+<section class="about_us_section">
+<img src="assets/img/gynaecology/12.png" class="d-block w-100 img-fluid" alt="..." >
 
+</section>
 
 
 

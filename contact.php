@@ -3,9 +3,10 @@
    ?>
   <!-- End Header Section -->
   <!-- Start Page Heading -->
+  <section class="about_us_section">
 
   <img src=" assets/img/gynaecology/18.png" alt="" class="img-fluid">
-
+</section>
   <!-- <section class="cs_page_heading cs_bg_filed cs_center " data-src="assets/img/about.png">
     <div class="container">
     

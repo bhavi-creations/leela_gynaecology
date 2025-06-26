@@ -1,10 +1,11 @@
 <?php
 include "./includes/header.php";
 ?>
+<section class="about_us_section">
 
 <img src="assets/img/gynaecology/preconcepitional.png" class="d-block w-100 img-fluid" alt="...">
 
-
+</section>
 
 
 <div class="container service_section_content">

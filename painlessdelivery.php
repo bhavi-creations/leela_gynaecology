@@ -4,9 +4,10 @@ Painless delivery
 include "./includes/header.php";
 ?>
 
+<section class="about_us_section">
 
 <img src="assets/img/gynaecology/painlessdelivery.png" class="d-block w-100 img-fluid" alt="...">
-
+</section>
 <!-- End Header Section -->
 <!-- Start Page Heading -->
 
