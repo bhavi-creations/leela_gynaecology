@@ -9,10 +9,10 @@ include "./includes/header.php";
    
     </div>
   </section> -->
-
+  <section class="about_us_section">
 
 <img src="assets/img/gynaecology/6.png" alt="Slide 8" class="img-fluid">
-
+</section>
 <!-- End Page Heading -->
 <!-- Start Service Section -->
 
