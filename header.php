@@ -312,7 +312,7 @@ Women's wellness clinic Kakinada">
     </div>
   </div> -->
   <!-- Start Header Section -->
-  <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg   d-none d-md-block ">
+  <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg   d-none d-lg-block ">
     <div class="cs_top_header cs_blue_bg cs_white_color copy_bg">
       <div class="container">
         <div class="cs_top_header_in">
@@ -413,7 +413,59 @@ Women's wellness clinic Kakinada">
 
 
 
+  <!-- <nav class="navbar navbar-expand-lg navbar-light bg-white d-none d-md-block d-xl-none">
+      <div class="container">
+        <a class="navbar-brand" href="index.php">
+          <img src="assets/img/logo.png" alt="Logo" class="img-fluid" style="max-height: 60px;">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
+        <div class="collapse navbar-collapse" id="mainNav">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+              <ul class="dropdown-menu p-3" aria-labelledby="servicesDropdown" style="width: 600px;">
+                <div class="row">
+                  <div class="col-md-6">
+                    <li><a class="dropdown-item" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                    <li><a class="dropdown-item" href="menstrualproblems.php">Menstrual Problems</a></li>
+                    <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
+                    <li><a class="dropdown-item" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                    <li><a class="dropdown-item" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                  </div>
+                  <div class="col-md-6">
+                    <li><a class="dropdown-item" href="wellwomencheckup.php">Well Woman Check up</a></li>
+                    <li><a class="dropdown-item" href="cancerscreening.php">Cancer Screening</a></li>
+                    <li><a class="dropdown-item" href="allgynaecological.php">All Gynaecological Problems</a></li>
+                  
+                    <li class="dropdown-submenu">
+                      <a class="dropdown-item dropdown-toggle" href="#">Comprehensive Antenatal & Postnatal Care</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                        <li><a class="dropdown-item" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                        <li><a class="dropdown-item" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                        <li><a class="dropdown-item" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                        <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+                      </ul>
+                    </li>
+                  </div>
+                </div>
+              </ul>
+            </li>
+
+            <li class="nav-item"><a class="nav-link" href="blogs.php">Blog</a></li>
+            <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+          </ul>
+
+          <a href="appointments.php" class="btn btn-primary ms-lg-3 mt-2 mt-lg-0">Make an Appointment</a>
+        </div>
+      </div>
+    </nav> -->
 
 
 
@@ -422,7 +474,7 @@ Women's wellness clinic Kakinada">
   <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"> -->
 
   <!-- Main Header Starts -->
-  <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg d-block d-md-none">
+  <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg d-block d-lg-none">
     <!-- Top Header -->
     <div class="cs_top_header cs_blue_bg cs_white_color copy_bg py-2">
       <div class="container">
