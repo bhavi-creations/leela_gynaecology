@@ -32,7 +32,7 @@
 </head> -->
 
 <!-- <body> -->
-  <!-- <div class="cs_preloader">
+<!-- <div class="cs_preloader">
     <div class="cs_preloader_in">
       <div class="cs_wave_first">
         <svg enable-background="new 0 0 300.08 300.08" viewBox="0 0 300.08 300.08" xmlns="http://www.w3.org/2000/svg">
@@ -46,8 +46,8 @@
       </div>
     </div>
   </div> -->
-  <!-- Start Header Section -->
-  <!-- <section class="d-lg-none">
+<!-- Start Header Section -->
+<!-- <section class="d-lg-none">
     <nav class="navbar navbar-expand-lg navbar-light nav_mb_bg Navebar_content">
       <div class="container">
         <a class="navbar-brand" href="index.php">
@@ -156,7 +156,7 @@
   </section> -->
 
 
-  <!-- <div class="cs_site_header_spacing_150"></div>e -->
+<!-- <div class="cs_site_header_spacing_150"></div>e -->
 
 
 
@@ -180,10 +180,10 @@
 
 
 
-  <!-- new heading section to apply the css all are set in the below code to give  me the code  -->
+<!-- new heading section to apply the css all are set in the below code to give  me the code  -->
 
 
-  <!DOCTYPE .html>
+<!DOCTYPE .html>
 <html class="no-js" lang="en">
 
 <head>
@@ -295,6 +295,87 @@ Women's wellness clinic Kakinada">
 
 
   <meta name="google-site-verification" content="h64EQ-TaQGl20vC7AAEfOxg8dT235NvjMw0liLjrX2U"   />
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+          "@type": "Question",
+          "name": "How do I know if I have PCOD or PCOS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Common signs include irregular periods, excessive facial hair, acne, weight gain, and difficulty getting pregnant. An ultrasound and hormone test can help confirm the diagnosis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get pregnant if I have PCOD/PCOS?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, many women with PCOD/PCOS can conceive with the right treatment. Lifestyle changes, fertility medications, and hormone management significantly improve the chances of pregnancy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What causes irregular periods in women?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Irregular periods can be caused by stress, weight changes, thyroid issues, PCOD/PCOS, or hormonal imbalances. It’s important to identify the root cause through medical evaluation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should I visit a gynecologist?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Women should visit a gynecologist annually or sooner if experiencing irregular periods, severe cramps, unusual discharge, fertility concerns, or menopause symptoms."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Leela Gynic Hospital the best women’s hospital in Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We are one of Kakinada's most trusted gynecology hospitals, known for personalized care, modern infrastructure, and experienced specialists in women’s healthcare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer fertility treatment at your hospital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer initial fertility consultations, ovulation induction, hormonal evaluations, and advanced fertility counseling for couples trying to conceive."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What services are offered at Leela Gynic Hospital, Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "At Leela Gynic Hospital, we offer complete women’s healthcare services including antenatal care, normal and C-section deliveries, PCOS/PCOD treatment, menstrual disorder management, fertility consultations, and advanced gynecological surgeries."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who is the best gynecologist in Kakinada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dr. Priyanka at Leela Gynic Hospital is regarded as one of the best gynecologists in Kakinada. With extensive experience in women’s health, she specializes in high-risk pregnancies, fertility issues, PCOS/PCOD treatment, and menstrual disorders. Her patient-centered approach and clinical expertise have made her a trusted name in gynecological care."
+          }
+        }
+      ]
+    }
+  </script>
+
+
+
+
+
+
+
 
 </head>
 
@@ -475,78 +556,78 @@ Women's wellness clinic Kakinada">
 
   <!-- Main Header Starts -->
   <header class="cs_site_header cs_style_1 cs_primary_color cs_sticky_header cs_white_bg d-block d-xxl-none">
-  <!-- Top Header -->
-  <div class="cs_top_header cs_blue_bg cs_white_color copy_bg py-2">
-    <div class="container">
-      <div class="d-flex justify-content-between align-items-center flex-wrap">
-        <ul class="cs_header_contact_list list-unstyled mb-0 d-flex flex-wrap gap-3">
-          <li><i class="fa-solid fa-envelope me-1"></i> <a href="mailto:demo@example.com">leelawomenshealthcare@gmail.com</a></li>
-          <li><i class="fa-solid fa-phone me-1"></i> +91- 9100686678</li>
-        </ul>
-        <div class="cs_social_btns d-flex gap-2">
-          <a href="https://www.facebook.com/Leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/facebook.png" alt=""></a>
-          <a href="https://www.youtube.com/@Leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/youtube.png" alt=""></a>
-          <a href="https://www.instagram.com/leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/instagram.png" alt=""></a>
+    <!-- Top Header -->
+    <div class="cs_top_header cs_blue_bg cs_white_color copy_bg py-2">
+      <div class="container">
+        <div class="d-flex justify-content-between align-items-center flex-wrap">
+          <ul class="cs_header_contact_list list-unstyled mb-0 d-flex flex-wrap gap-3">
+            <li><i class="fa-solid fa-envelope me-1"></i> <a href="mailto:demo@example.com">leelawomenshealthcare@gmail.com</a></li>
+            <li><i class="fa-solid fa-phone me-1"></i> +91- 9100686678</li>
+          </ul>
+          <div class="cs_social_btns d-flex gap-2">
+            <a href="https://www.facebook.com/Leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/facebook.png" alt=""></a>
+            <a href="https://www.youtube.com/@Leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/youtube.png" alt=""></a>
+            <a href="https://www.instagram.com/leelawomenshealthcare/" target="_blank"><img src="assets/img/icons/instagram.png" alt=""></a>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 
-  <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-white">
-    <div class="container">
-      <a class="navbar-brand" href="index.php">
-        <img src="assets/img/logo.png" alt="Logo" class="img-fluid" style="max-height: 60px;">
-      </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+      <div class="container">
+        <a class="navbar-brand" href="index.php">
+          <img src="assets/img/logo.png" alt="Logo" class="img-fluid" style="max-height: 60px;">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-      <div class="collapse navbar-collapse" id="mainNav">
-        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-          <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+        <div class="collapse navbar-collapse" id="mainNav">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
 
-          <!-- Dropdown -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
-            <ul class="dropdown-menu p-3" aria-labelledby="servicesDropdown" style="width: 600px;">
-              <div class="row">
-                <div class="col-md-6">
-                  <li><a class="dropdown-item" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
-                  <li><a class="dropdown-item" href="menstrualproblems.php">Menstrual Problems</a></li>
-                  <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-                  <li><a class="dropdown-item" href="perconceptionalcare.php">Preconceptional Care</a></li>
-                  <li><a class="dropdown-item" href="menopausalclinic.php">Menopausal Clinic</a></li>
+            <!-- Dropdown -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+              <ul class="dropdown-menu p-3" aria-labelledby="servicesDropdown" style="width: 600px;">
+                <div class="row">
+                  <div class="col-md-6">
+                    <li><a class="dropdown-item" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                    <li><a class="dropdown-item" href="menstrualproblems.php">Menstrual Problems</a></li>
+                    <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
+                    <li><a class="dropdown-item" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                    <li><a class="dropdown-item" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                  </div>
+                  <div class="col-md-6">
+                    <li><a class="dropdown-item" href="wellwomencheckup.php">Well Woman Check up</a></li>
+                    <li><a class="dropdown-item" href="cancerscreening.php">Cancer Screening</a></li>
+                    <li><a class="dropdown-item" href="allgynaecological.php">All Gynaecological Problems</a></li>
+                    <!-- Sub Dropdown -->
+                    <li class="dropdown-submenu">
+                      <a class="dropdown-item dropdown-toggle" href="#">Comprehensive Antenatal & Postnatal Care</a>
+                      <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                        <li><a class="dropdown-item" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                        <li><a class="dropdown-item" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                        <li><a class="dropdown-item" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                        <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+                      </ul>
+                    </li>
+                  </div>
                 </div>
-                <div class="col-md-6">
-                  <li><a class="dropdown-item" href="wellwomencheckup.php">Well Woman Check up</a></li>
-                  <li><a class="dropdown-item" href="cancerscreening.php">Cancer Screening</a></li>
-                  <li><a class="dropdown-item" href="allgynaecological.php">All Gynaecological Problems</a></li>
-                  <!-- Sub Dropdown -->
-                  <li class="dropdown-submenu">
-                    <a class="dropdown-item dropdown-toggle" href="#">Comprehensive Antenatal & Postnatal Care</a>
-                    <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
-                      <li><a class="dropdown-item" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
-                      <li><a class="dropdown-item" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
-                      <li><a class="dropdown-item" href="lactationalconsultation.php">Lactational Consultation</a></li>
-                      <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
-                    </ul>
-                  </li>
-                </div>
-              </div>
-            </ul>
-          </li>
+              </ul>
+            </li>
 
-          <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
-        </ul>
+            <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+          </ul>
 
-        <a href="appointments.php" class="btn btn-primary ms-lg-3 mt-2 mt-lg-0">Make an Appointment</a>
+          <a href="appointments.php" class="btn btn-primary ms-lg-3 mt-2 mt-lg-0">Make an Appointment</a>
+        </div>
       </div>
-    </div>
-  </nav>
-</header>
+    </nav>
+  </header>
 
 
   <!-- Bootstrap JS for dropdowns -->
@@ -559,53 +640,11 @@ Women's wellness clinic Kakinada">
 
 
 
-  <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light d-block d-md-none navbar_section">
-    <div class="container-fluid">
- 
-      <div class="cs_main_header_left">
-        <a class="cs_site_branding" href="index.php">
-          <img src="assets/img/logo.png" alt="Logo" class="img-fluid">
-        </a>
-      </div>
 
 
 
 
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="mainNav">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Services
-            </a>
-            <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
-              <li><a class="dropdown-item" href="pcodandadolscent.php">PCOD</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-              <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
-            
-            </ul>
-          </li>
-          <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
-        </ul>
-      </div>
-    </div>
-  </nav> -->
-
-
-
-
-
-  <script>
+  <!-- <script>
     document.addEventListener("DOMContentLoaded", function() {
       let serviceToggle = document.getElementById("servicesDropdown");
       let dropdownMenu = document.querySelector(".services_drop_menu");
@@ -624,9 +663,9 @@ Women's wellness clinic Kakinada">
         }
       });
     });
-  </script>
+  </script> -->
 
-  <script>
+  <!-- <script>
     document.addEventListener("DOMContentLoaded", function() {
       let dropdowns = document.querySelectorAll(".dropdown-submenu > a");
 
@@ -646,9 +685,9 @@ Women's wellness clinic Kakinada">
         });
       });
     });
-  </script>
+  </script> -->
 
-  <script>
+  <!-- <script>
     document.addEventListener("DOMContentLoaded", function() {
       // Select all dropdown links inside submenus
       let dropdowns = document.querySelectorAll(".dropdown-submenu > a");
@@ -672,9 +711,9 @@ Women's wellness clinic Kakinada">
         });
       });
     });
-  </script>
+  </script> -->
 
-  <script>
+  <!-- <script>
     document.addEventListener("DOMContentLoaded", function() {
       let servicesLink = document.getElementById("servicesDropdown");
       let comprehensiveLink = document.getElementById("comprehensiveDropdown");
@@ -721,7 +760,7 @@ Women's wellness clinic Kakinada">
         }
       });
     });
-  </script>
+  </script> -->
 
 
 
