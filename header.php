@@ -373,6 +373,72 @@ Women's wellness clinic Kakinada">
 
 
 
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Hospital",
+      "name": "Leela Gynecology Hospital",
+      "description": "Leela Gynecology Hospital in Kakinada offers expert gynecology, maternity care, fertility treatments, and women's health services with personalized care.",
+      "url": "https://leelagynichospital.com/",
+      "logo": "https://leelagynichospital.com/logo.png",
+      "image": "https://leelagynichospital.com/hospital-image.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2-18-9/1, Opposite to Old SP Office Road, Near RMC Ground, Madhav Nagar",
+        "addressLocality": "Kakinada",
+        "addressRegion": "Andhra Pradesh",
+        "postalCode": "533003",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 16.9752,
+        "longitude": 82.2406108
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-9100686678",
+        "contactType": "Customer Service",
+        "areaServed": "Kakinada, Andhra Pradesh",
+        "availableLanguage": [
+          "English",
+          "Telugu"
+        ]
+      },
+      "openingHours": [
+        "Monday 10:00-20:00",
+        "Tuesday 10:00-20:00",
+        "Wednesday 10:00-20:00",
+        "Thursday 10:00-20:00",
+        "Friday 10:00-20:00",
+        "Saturday 10:00-20:00"
+      ],
+      "department": [{
+          "@type": "MedicalDepartment",
+          "name": "Gynecology Department",
+          "medicalSpecialty": "Gynecology"
+        },
+        {
+          "@type": "MedicalDepartment",
+          "name": "Obstetrics Department",
+          "medicalSpecialty": "Obstetrics"
+        },
+        {
+          "@type": "MedicalDepartment",
+          "name": "Fertility Clinic",
+          "medicalSpecialty": "Fertility"
+        }
+      ],
+      "priceRange": "₹₹",
+      "sameAs": [
+        "https://www.facebook.com/leelagynichospital",
+        "https://www.instagram.com/leelagynichospital",
+        "https://g.co/kgs/iJhxqvV"
+      ]
+    }
+  </script>
+
+
 
 
 

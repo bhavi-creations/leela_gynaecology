@@ -46,6 +46,7 @@
                 <li><a href="service.php" class=" text-dark"> Service</a></li>
                 <li><a href="blogs.php"class=" text-dark">Blog</a></li>
                 <li><a href="contact.php"class=" text-dark">contact</a></li>
+                <li><a href="https://g.co/kgs/iJhxqvV"class=" text-dark">GMB</a></li>
               </ul>
             </div>
           </div>

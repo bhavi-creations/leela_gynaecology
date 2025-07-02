@@ -938,7 +938,7 @@ include "./includes/header.php";
 
 
 
-          <div class="faq_section">
+                 <div class="faq_section">
             <div class="accordion-header" onclick="toggleAccordion(this)">
               <h2 class="faq_heading_section">How do I know if I have PCOD or PCOS?
 
