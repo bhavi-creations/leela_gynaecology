@@ -165,7 +165,7 @@ Women's wellness clinic Kakinada">
               <img src="assets/img/logo.png" alt="Logo" class="img-fluid">
             </a>
           </div>
-          <div class="cs_main_header_right">
+          <div class="cs_main_header_right mx-5">
             <div class="cs_nav cs_primary_color">
               <ul class="cs_nav_list">
                 <li><a href="index.php">Home</a></li>
@@ -215,7 +215,7 @@ Women's wellness clinic Kakinada">
                   <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" aria-expanded="false">
                     Services
                   </a>
-                  <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:600px;">
+                  <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:550px;">
                     <div class="row mobile_navbar">
                       <div class="col-md-6">
                         <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
