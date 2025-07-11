@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full-Screen JavaScript Image Slider</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            overflow: hidden;
+        }
+        .full-slider {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+        }
+        .full-slide {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black; /* Prevents background color flicker */
+        }
+        .full-slide img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain; /* Ensures the full image is displayed */
+        }
+        .active {
+            z-index: 1;
+            opacity: 1;
+        }
+        .full-controls {
+            position: absolute;
+            top: 50%;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            transform: translateY(-50%);
+        }
+        .full-controls button {
+            background: rgba(0, 0, 0, 0.5);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            font-size: 20px;
+        }
+        .full-controls button:hover {
+            background: rgba(0, 0, 0, 0.8);
+        }
+    </style>
+</head>
+<body>
+
+<div class="full-slider">
+    <div class="full-slide active"><img src="assets/img/gynaecology/5.png" alt="Slide 1"></div>
+    <div class="full-slide"><img src="assets/img/gynaecology/2.png" alt="Slide 2"></div>
+    <div class="full-slide"><img src="assets/img/gynaecology/1.png" alt="Slide 3"></div>
+
+    <div class="full-controls">
+        <button onclick="prevFullSlide()">❮</button>
+        <button onclick="nextFullSlide()">❯</button>
+    </div>
+</div>
+
+<script>
+    let fullIndex = 0;
+    const fullSlides = document.querySelectorAll('.full-slide');
+
+    function showFullSlide(index) {
+        fullSlides.forEach((slide) => slide.classList.remove('active'));
+        fullSlides[index].classList.add('active');
+    }
+
+    function nextFullSlide() {
+        fullIndex = (fullIndex + 1) % fullSlides.length;
+        showFullSlide(fullIndex);
+    }
+
+    function prevFullSlide() {
+        fullIndex = (fullIndex - 1 + fullSlides.length) % fullSlides.length;
+        showFullSlide(fullIndex);
+    }
+
+    setInterval(nextFullSlide, 3000); // Auto-slide every 3 seconds
+</script>
+
+</body>
+</html>
