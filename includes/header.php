@@ -624,7 +624,7 @@ Women's wellness clinic Kakinada">
     });
   </script> -->
 
-  <a href="https://api.whatsapp.com/send?phone=919493782298" style="color: #fff;" class="whatsapp-link"
+  <a href="https://api.whatsapp.com/send?phone=919100686678" style="color: #fff;" class="whatsapp-link"
     target="_blank">
     <i class="fa-brands fa-whatsapp"></i>
   </a>

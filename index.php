@@ -26,9 +26,9 @@ include "./includes/header.php";
         <img src="assets/img/gynaecology/2.png" class="d-block w-100 img-fluid" alt="...">
       </div>
 
-      <div class="carousel-item">
+      <!-- <div class="carousel-item">
         <img src="assets/img/gynaecology/3.png" class="d-block w-100 img-fluid" alt="...">
-      </div>
+      </div> -->
     </div>
 
     <!-- Carousel Controls (optional if you want arrows) -->
@@ -103,10 +103,10 @@ include "./includes/header.php";
     <div class="cs_cta_in">
       <div class="cs_cta_left">
         <div class="cs_cta_thumb wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
-          <img src="assets/img/medam.png" alt="">
+          <!-- <img src="assets/img/medam.png" alt=""> -->
         </div>
         <div class="cs_cta_info">
-          <h2 class="cs_cta_title"> Advanced Gynecological Care for Women's Health and Well-being </h2>
+          <h2 class="cs_cta_title"> Advanced Care for Women's Health and Well-being </h2>
           <p class="cs_cta_subtitle">Advanced Treatments Ensuring Comfort and Well-being</p>
         </div>
       </div>
@@ -128,7 +128,7 @@ include "./includes/header.php";
       <div class="col-lg-6">
         <div class="cs_about_thumb">
           <div class="cs_about_thumb_1">
-            <img src="assets/img/Untitled design (1).png" alt="">
+            <!-- <img src="assets/img/Untitled design (1).png" alt=""> -->
             <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
               <span class="cs_player_btn cs_center">
                 <span></span>
@@ -137,8 +137,8 @@ include "./includes/header.php";
             </a>
           </div>
           <div class="cs_about_thumb_2">
-            <img src="assets/img/about_img.png" alt="About Image">
-            <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
+            <!-- <img src="assets/img/about_img.png" alt="About Image">
+            <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2"> -->
 
           </div>
           <div class="cs_experience_box cs_center">
@@ -182,7 +182,7 @@ include "./includes/header.php";
       <div class="cs_section_heading_left">
         <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
           <span class="cs_shape_left"></span>
-          OUR BEST SERVICE
+          OUR SERVICES
         </p>
         <h2 class="cs_section_title">High-Quality Services </h2>
       </div>
@@ -348,7 +348,7 @@ include "./includes/header.php";
         <img src="assets/img/gynaecology/20.png" alt="">
       </div>
       <div class="col-md-4 col-12">
-        <img src="assets/img/gynaecology/21.png" alt="">
+        <!-- <img src="assets/img/gynaecology/21.png" alt=""> -->
       </div>
       <div class="col-md-4 col-12">
         <img src="assets/img/gynaecology/22.png" alt="">
@@ -386,8 +386,8 @@ include "./includes/header.php";
             <div class="cs_iconbox cs_style_4">
               <div class="cs_iconbox_icon cs_center"><img src="assets/img/health-professional.png" alt="Icon" style="border-radius: 10px;"></div>
               <div class="cs_iconbox_right">
-                <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
-                <p class="cs_iconbox_subtitle mb-0">Gynecologist</p>
+                <h3 class="cs_iconbox_title">Dr.Priyanka Kosuru MBBS,MS</h3>
+                <p class="cs_iconbox_subtitle mb-0">Obstetrician & Gynecologist</p>
               </div>
             </div>
           </div>
@@ -423,7 +423,7 @@ include "./includes/header.php";
 
 
 
-<section class="cs_gray_bg cs_bg_filed section_content"
+<!-- <section class="cs_gray_bg cs_bg_filed section_content"
   style="background-image: url('assets/img/why/3.png'); background-size: cover; background-position: center; background-repeat: no-repeat;">
 
   <div class="cs_height_110 cs_height_lg_70"></div>
@@ -487,21 +487,18 @@ include "./includes/header.php";
     </div>
   </div>
   <div class="cs_height_120 cs_height_lg_80"></div>
-</section>
+</section> -->
 
 
 
 
 
 
-<section>
+<!-- <section>
   <div class="cs_height_110 cs_height_lg_70"></div>
   <div class="container">
     <div class="cs_section_heading cs_style_1 text-center">
-      <!-- <p class="cs_section_subtitle text wow fadeInUp" data-wow-duration="0.9s" data-wow-delay="0.25s">
-        <span class="cs_shape_left"></span class="">Service Offerings<span class="cs_shape_right"></span>
-      </p> -->
-      <!-- <h2 class="cs_section_title">Explore Our Service<br> Offerings</h2> -->
+   
     </div>
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="cs_tabs">
@@ -543,7 +540,6 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <!-- <h2 class="cs_card_title">We are here to hear and heal your</h2> -->
                   <p class="cs_card_subtitle">Advancements in medical technology have significantly improved the diagnosis, treatment, and management of gynecological conditions. These innovations enhance precision, reduce recovery times, and improve patient outcomes.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0 ">
@@ -562,7 +558,6 @@ include "./includes/header.php";
 
                   <a href="service.php">
                     <button class="contact_bg">Read More </button>
-                    <!-- <i class="fa-solid fa-angles-right"></i> -->
                   </a>
                 </div>
               </div>
@@ -579,7 +574,6 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <!-- <h2 class="cs_card_title">Treatment patients in primary care</h2> -->
                   <p class="cs_card_subtitle">Gynecology has seen significant advancements in medical treatments, Success in gynecological treatment depends on early diagnosis, modern medical technology, and personalized care.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0">
@@ -598,7 +592,6 @@ include "./includes/header.php";
 
                   <a href="service.php">
                     <button class="contact_bg">Read More </button>
-                    <!-- <i class="fa-solid fa-angles-right"></i> -->
                   </a>
                 </div>
               </div>
@@ -615,7 +608,6 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <!-- <h2 class="cs_card_title">Accreditation within a given specialty</h2> -->
                   <p class="cs_card_subtitle">A certified gynecologist is a medical professional specializing in women’s reproductive health, trained to diagnose, treat, and manage gynecological conditions, pregnancy, and childbirth. Certification ensures that the doctor has undergone extensive education, training, and examinations to provide high-quality care.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0">
@@ -634,7 +626,6 @@ include "./includes/header.php";
 
                   <a href="service.php">
                     <button class="contact_bg">Read More </button>
-                    <!-- <i class="fa-solid fa-angles-right"></i> -->
                   </a>
                 </div>
               </div>
@@ -651,7 +642,6 @@ include "./includes/header.php";
               </div>
               <div class="col-lg-6">
                 <div class="cs_card_text">
-                  <!-- <h2 class="cs_card_title">Better Health While Aging health</h2> -->
                   <p class="cs_card_subtitle">Maintaining good gynecological health is essential for overall well-being. Regular checkups, early detection of conditions, and a healthy lifestyle can prevent many reproductive health issues. Here is medical advice on key aspects of gynecology, from menstruation to menopause.
                   </p>
                   <ul class="cs_list cs_style_1 cs_mp0">
@@ -668,7 +658,6 @@ include "./includes/header.php";
 
                   <a href="service.php">
                     <button class="contact_bg">Read More </button>
-                    <!-- <i class="fa-solid fa-angles-right"></i> -->
                   </a>
                 </div>
               </div>
@@ -680,7 +669,7 @@ include "./includes/header.php";
   </div>
   <div class="cs_height_120 cs_height_lg_80"></div>
   <hr>
-</section>
+</section> -->
 
 
 
@@ -727,7 +716,7 @@ include "./includes/header.php";
           <p class="cs_section_subtitle text">
             <span class="cs_shape_left"></span>CONTACT US
           </p>
-          <h2 class="cs_section_title">Make An Appointment <br>Apply For Treatments</h2>
+          <h2 class="cs_section_title">Make An Appointment </h2>
         </div>
         <div class="cs_height_25 cs_height_lg_25"></div>
         <form action="appointmentform.php" method="post" role="form" class="cs_appointment_form row cs_gap_y_30">
@@ -826,7 +815,7 @@ include "./includes/header.php";
 
 
 
-
+<!-- 
 <section>
   <div class="container">
 
@@ -834,8 +823,8 @@ include "./includes/header.php";
     <div class="row">
       <div class="col-12 col-md-6">
         <div class="accordion">
-          <!-- Accordion 1 -->
-   
+
+
 
 
 
@@ -850,39 +839,39 @@ include "./includes/header.php";
 
           <div class="faq_section">
 
-<div class="accordion-header" onclick="toggleAccordion(this)">
-  <h2 class="faq_heading_section">Is Leela Gynic Hospital the best women’s hospital in Kakinada?
+            <div class="accordion-header" onclick="toggleAccordion(this)">
+              <h2 class="faq_heading_section">Is Leela Gynic Hospital the best women’s hospital in Kakinada?
 
 
-  </h2>
-  <h2 class="accordion-icon">+</h2>
-</div>
-<div class="accordion-content">
-  <p>
-    We are one of Kakinada's most trusted gynecology hospitals, known for personalized care, modern infrastructure, and experienced specialists in women’s healthcare
-</div>
-</div>
-
-
-
-<div class="faq_section">
-
-<div class="accordion-header" onclick="toggleAccordion(this)">
-  <h2 class="faq_heading_section"> Do you offer fertility treatment at your hospital?
-
-  </h2>
-  <h2 class="accordion-icon">+</h2>
-</div>
-<div class="accordion-content">
-  <p>
-    Yes, we offer initial fertility consultations, ovulation induction, hormonal evaluations, and advanced fertility counseling for couples trying to conceive
-</div>
-</div>
+              </h2>
+              <h2 class="accordion-icon">+</h2>
+            </div>
+            <div class="accordion-content">
+              <p>
+                We are one of Kakinada's most trusted gynecology hospitals, known for personalized care, modern infrastructure, and experienced specialists in women’s healthcare
+            </div>
+          </div>
 
 
 
+          <div class="faq_section">
 
-          <!-- Accordion 3 -->
+            <div class="accordion-header" onclick="toggleAccordion(this)">
+              <h2 class="faq_heading_section"> Do you offer fertility treatment at your hospital?
+
+              </h2>
+              <h2 class="accordion-icon">+</h2>
+            </div>
+            <div class="accordion-content">
+              <p>
+                Yes, we offer initial fertility consultations, ovulation induction, hormonal evaluations, and advanced fertility counseling for couples trying to conceive
+            </div>
+          </div>
+
+
+
+
+
           <div class="faq_section">
             <div class="accordion-header" onclick="toggleAccordion(this)">
               <h2 class="faq_heading_section">What causes irregular periods in women?
@@ -896,7 +885,7 @@ include "./includes/header.php";
             </div>
           </div>
 
-          <!-- Accordion 4 -->
+
           <div class="faq_section">
             <div class="accordion-header" onclick="toggleAccordion(this)">
               <h2 class="faq_heading_section">How often should I visit a gynecologist?
@@ -911,19 +900,7 @@ include "./includes/header.php";
               </p>
             </div>
           </div>
-          <!-- Accordion 5 -->
-          <!-- <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section">Can cancer be prevented?
-                </h2>
-                <h2 class="accordion-icon">+</h2>
-              </div>
-              <div class="accordion-content">
-                <p>
-                  Not all cancers are preventable, but up to 30-50% of cases can be avoided through healthy lifestyle choices, regular screenings, vaccinations (like HPV), and avoiding carcinogens such as tobacco and processed foods
-                </p>
-              </div> 
-            </div>-->
+
 
         </div>
 
@@ -932,13 +909,11 @@ include "./includes/header.php";
 
 
         <div class="accordion">
-          <!-- Accordion 1 -->
-
-          <!-- Accordion 2 -->
 
 
 
-                 <div class="faq_section">
+
+          <div class="faq_section">
             <div class="accordion-header" onclick="toggleAccordion(this)">
               <h2 class="faq_heading_section">How do I know if I have PCOD or PCOS?
 
@@ -950,7 +925,6 @@ include "./includes/header.php";
                 Common signs include irregular periods, excessive facial hair, acne, weight gain, and difficulty getting pregnant. An ultrasound and hormone test can help confirm the diagnosis
             </div>
           </div>
-          <!-- Accordion 2 -->
 
 
 
@@ -967,10 +941,10 @@ include "./includes/header.php";
                 Yes, many women with PCOD/PCOS can conceive with the right treatment. Lifestyle changes, fertility medications, and hormone management significantly improve the chances of pregnancy.
             </div>
           </div>
-         
 
 
-          <!-- Accordion 3 -->
+
+
           <div class="faq_section">
             <div class="accordion-header" onclick="toggleAccordion(this)">
               <h2 class="faq_heading_section">What services are offered at Leela Gynic Hospital, Kakinada?
@@ -983,7 +957,6 @@ include "./includes/header.php";
                 At Leela Gynic Hospital, we offer complete women’s healthcare services including antenatal care, normal and C-section deliveries, PCOS/PCOD treatment, menstrual disorder management, fertility consultations, and advanced gynecological surgeries
             </div>
           </div>
-          <!-- Accordion 4 -->
           <div class="faq_section">
             <div class="accordion-header" onclick="toggleAccordion(this)">
               <h2 class="faq_heading_section">Who is the best gynecologist in Kakinada?
@@ -995,25 +968,13 @@ include "./includes/header.php";
                 Dr. Priyanka at Leela Gynic Hospital is regarded as one of the best gynecologists in Kakinada. With extensive experience in women’s health, she specializes in high-risk pregnancies, fertility issues, PCOS/PCOD treatment, and menstrual disorders. Her patient-centered approach and clinical expertise have made her a trusted name in gynecological care
             </div>
           </div>
-          <!-- Accordion 5 -->
-          <!-- <div class="faq_section">
-              <div class="accordion-header" onclick="toggleAccordion(this)">
-                <h2 class="faq_heading_section"> Can cancer be cured if detected early?
-                </h2>
-                <h2 class="accordion-icon">+</h2>
-              </div>
-              <div class="accordion-content">
-                <p>
-                  Yes, many types of cancer can be effectively treated or even cured if detected at an early stage. Regular screenings, awareness of symptoms, and early intervention improve survival rates significantly
-                </p>
-              </div>
-            </div> -->
+
 
         </div>
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 
 

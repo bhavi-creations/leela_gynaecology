@@ -10,7 +10,7 @@
                 <li>
                   <i class="fa-regular fa-clock  text-dark"></i>
                  <p class="text-dark"> Monday – Saturday  10AM – 8PM &nbsp; &nbsp;  /&nbsp; &nbsp;
-                 Closed Sunday</p>
+                 </p>
                  
                 </li>
 
@@ -52,7 +52,7 @@
           </div>
           <div class="cs_footer_col">
             <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
+              <h2 class="cs_footer_widget_title text-dark">Quick Links</h2>
               <ul class="cs_footer_widget_nav_list cs_mp_0">
                 <li><a href="pcodandadolscent.php" class=" text-dark">PCOD and Adolscent clinics</a></li>
                 <li><a href="menstrualproblems.php" class=" text-dark">Menstrual Problems</a></li>
@@ -67,7 +67,7 @@
       
           <div class="cs_footer_col">
             <div class="cs_footer_widget">
-              <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
+              <h2 class="cs_footer_widget_title text-dark">Quick Links</h2>
               <ul class="cs_footer_widget_nav_list cs_mp_0">
                 <li><a href="cancerscreening.php" class=" text-dark">Cancer Screening</a></li>
                 <li><a href="allgynaecological.php" class=" text-dark">All gynaecological Problems</a></li>

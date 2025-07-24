@@ -10,7 +10,7 @@
           <ul class="cs_footer_contact cs_mp_0 move">
             <li>
               <i class="fa-regular fa-clock  text-dark"></i>
-              <p class="text-dark"> Monday – Saturday <br> 10AM – 8PM / Closed Sunday</p>
+              <p class="text-dark"> Monday – Saturday <br>O.P Timings 10AM – 8PM </p>
             </li>
             <li>
               <i class="fa-solid fa-location-dot  text-dark"></i>
@@ -33,11 +33,11 @@
 
       <div class="cs_footer_col col-6 col-md-6 col-lg-3">
         <div class="cs_footer_widget">
-          <h2 class="cs_footer_widget_title text-dark">Service</h2>
+          <h2 class="cs_footer_widget_title text-dark">Services</h2>
           <ul class="cs_footer_widget_nav_list cs_mp_0">
             <li><a href="index.php" class=" text-dark">Home</a></li>
             <li><a href="about.php" class=" text-dark">About</a></li>
-            <li><a href="service.php" class=" text-dark"> Service</a></li>
+            <li><a href="service.php" class=" text-dark"> Services</a></li>
             <!-- <li><a href="blogs.php" class=" text-dark">Blog</a></li> -->
             <li><a href="contact.php" class=" text-dark">Contact</a></li>
             <li><a href="appointments.php" class=" text-dark">Appointment</a></li>
@@ -48,7 +48,7 @@
 
       <div class="cs_footer_col col-6 col-md-6 col-lg-3">
         <div class="cs_footer_widget">
-          <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
+          <h2 class="cs_footer_widget_title text-dark">Quick Links</h2>
           <ul class="cs_footer_widget_nav_list cs_mp_0">
             <li><a href="pcodandadolscent.php" class=" text-dark">PCOD and Adolescent Clinics</a></li>
             <li><a href="menstrualproblems.php" class=" text-dark">Menstrual Problems</a></li>
@@ -62,7 +62,7 @@
 
       <div class="cs_footer_col col-6 col-md-6 col-lg-3">
         <div class="cs_footer_widget">
-          <h2 class="cs_footer_widget_title text-dark">Quick Link</h2>
+          <h2 class="cs_footer_widget_title text-dark">Quick Links</h2>
           <ul class="cs_footer_widget_nav_list cs_mp_0">
             <li><a href="cancerscreening.php" class=" text-dark">Cancer Screening</a></li>
             <li><a href="allgynaecological.php" class=" text-dark">All Gynaecological Problems</a></li>

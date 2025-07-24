@@ -24,7 +24,7 @@
               <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
             </div> -->
             <div class="cs_contact_img">
-              <img src="assets/img/medam_img.png" alt="Image">
+              <!-- <img src="assets/img/medam_img.png" alt="Image"> -->
             </div>
             <div class="cs_contact_bg_shape">
               <div class="cs_white_bg_shape"></div>
@@ -32,7 +32,7 @@
                 <div class="cs_iconbox_icon cs_center"><img src="assets/img/icons/call_icon_1.png" alt="Icon"></div>
                 <div class="cs_iconbox_right">
                   <h3 class="cs_iconbox_title">Emergency Call</h3>
-                  <p class="cs_iconbox_subtitle mb-0">24/7 – Support and easy</p>
+                  <p class="cs_iconbox_subtitle mb-0">24/7 – Support  </p>
                   <p>
                    91-9100686678 
                   </p>
