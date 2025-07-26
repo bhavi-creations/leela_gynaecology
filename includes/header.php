@@ -170,47 +170,8 @@ Women's wellness clinic Kakinada">
               <ul class="cs_nav_list">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About</a></li>
+                <li><a href="doctor.php">Our Doctors</a></li>
 
-                <!-- Services Dropdown -->
-                <!-- <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    Services
-                  </a>
-                  <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:600px;">
-                    <div class="row mobile_navbar">
-             
-                      <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
-                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
-                        <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
-                        <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
-                        <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
-
-                      </div>
-
-                   
-                      <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
-                        <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
-                        <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
-
-                
-                        <li class="dropdown-submenu">
-                          <a class="dropdown-item dropdown-toggle" href="comprehensive.php" id="comprehensiveDropdown" role="button" data-bs-toggle="dropdown">
-                            Comprehensive Antenatal <br> & Post natal Care
-                          </a>
-                          <ul class="dropdown-menu mt-1 p-2 subservices" aria-labelledby="comprehensiveDropdown">
-                            <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
-                            <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
-                            <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
-                            <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational Consultation</a></li>
-                            <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
-                          </ul>
-                        </li>
-                      </div>
-                    </div>
-                  </ul>
-                </li> -->
                 <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="service.php" id="servicesDropdown" role="button" aria-expanded="false">
                     Services
@@ -218,18 +179,7 @@ Women's wellness clinic Kakinada">
                   <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:550px;">
                     <div class="row mobile_navbar">
                       <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
-                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
-                        <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
-                        <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
-                        <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
-                      </div>
-                      <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
-                        <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
-                        <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
-
-                        <li class="dropdown-submenu">
+                        <!-- <li class="dropdown-submenu">
                           <a class="dropdown-item dropdown-toggle" href="comprehensive.php" id="comprehensiveDropdown" role="button">
                             Comprehensive Antenatal <br> & Post natal Care
                           </a>
@@ -240,22 +190,46 @@ Women's wellness clinic Kakinada">
                             <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational Consultation</a></li>
                             <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
                           </ul>
+                        </li> -->
+
+
+
+
+                        <li class="dropdown-submenu">
+                          <a class="dropdown-item dropdown-toggle" href="javascript:void(0);" id="comprehensiveDropdown" role="button" onclick="toggleSubservices()">
+                            Comprehensive Antenatal <br> & Post natal Care
+                          </a>
+                          <ul class="dropdown-menu mt-1 p-2 subservices" id="subservicesDropdown" style="display: none;" aria-labelledby="comprehensiveDropdown">
+                            <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                            <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                            <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                            <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                            <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+                          </ul>
                         </li>
+
+
+
+
+                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
+                        <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
+
+                      </div>
+                      <div class="col-md-6">
+                        <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                        <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                        <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
+                        <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
+                        <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
+
+
                       </div>
                     </div>
                   </ul>
                 </li>
-
-
-
-
-
-
-
-
-                <!-- End Services Dropdown -->
-
-                <!-- <li><a href="blogs.php">Blog</a></li> -->
+                <li><a href="facility.php">Facilities </a></li>
+                <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>
             </div>
@@ -270,6 +244,20 @@ Women's wellness clinic Kakinada">
   </header>
   <!-- <div class="cs_site_header_spacing_150"></div> -->
 
+
+
+
+
+  <script>
+    function toggleSubservices() {
+      const dropdown = document.getElementById("subservicesDropdown");
+      if (dropdown.style.display === "none" || dropdown.style.display === "") {
+        dropdown.style.display = "block";
+      } else {
+        dropdown.style.display = "none";
+      }
+    }
+  </script>
 
 
 
@@ -344,11 +332,28 @@ Women's wellness clinic Kakinada">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
             <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+            <li><a href="doctor.php">Our Doctors</a></li>
+
 
             <!-- Services Dropdown -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="mobileServicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
               <ul class="dropdown-menu" aria-labelledby="mobileServicesDropdown">
+
+
+
+                <li class="dropdown-submenu position-relative p-2">
+                  <a class="dropdown-item dropdown-toggle" href="#" onclick="toggleMobileSubmenu(event)">
+                    Comprehensive Antenatal <br> & Post natal Care
+                  </a>
+                  <ul class="list-unstyled ps-3 collapse" id="mobileComprehensive">
+                    <li><a class="dropdown-item" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
+                    <li><a class="dropdown-item" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
+                    <li><a class="dropdown-item" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
+                    <li><a class="dropdown-item" href="lactationalconsultation.php">Lactational Consultation</a></li>
+                    <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
+                  </ul>
+                </li>
                 <li><a class="dropdown-item" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
                 <li><a class="dropdown-item" href="menstrualproblems.php">Menstrual Problems</a></li>
                 <li><a class="dropdown-item" href="infertility.php">Infertility</a></li>
@@ -359,18 +364,7 @@ Women's wellness clinic Kakinada">
                 <li><a class="dropdown-item" href="allgynaecological.php">All Gynaecological Problems</a></li>
 
 
-                <li class="dropdown-submenu position-relative">
-                  <a class="dropdown-item dropdown-toggle" href="#" onclick="toggleMobileSubmenu(event)">
-                    Comprehensive Care
-                  </a>
-                  <ul class="list-unstyled ps-3 collapse" id="mobileComprehensive">
-                    <li><a class="dropdown-item" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
-                    <li><a class="dropdown-item" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
-                    <li><a class="dropdown-item" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
-                    <li><a class="dropdown-item" href="lactationalconsultation.php">Lactational Consultation</a></li>
-                    <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
-                  </ul>
-                </li>
+
 
 
 
@@ -396,6 +390,10 @@ Women's wellness clinic Kakinada">
                 </li> -->
               </ul>
             </li>
+
+
+            <li><a href="facility.php">Facilities </a></li>
+            <li><a href="gallery.php">Gallery</a></li>
 
             <!-- <li class="nav-item"><a class="nav-link" href="blogs.php">Blog</a></li> -->
             <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>

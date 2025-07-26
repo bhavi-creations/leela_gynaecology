@@ -8,10 +8,13 @@ require 'vendor/autoload.php'; // Adjust the path to autoload.php based on your 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Assign POST data to variables
     $name = $_POST['name'] ?? '';
-    $email = $_POST['email'] ?? '';
+    $number = $_POST['number'] ?? '';
     $address = $_POST['address'] ?? '';
     $service = $_POST['service'] ?? '';
     $date = $_POST['date'] ?? '';
+    $appointment_time = $_POST['appointment_time'] ?? '';
+
+    
    
 
 
@@ -29,6 +32,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
+
+        // 
+        // 
+
         // Recipients
         $mail->setFrom('leelawomenshealthcare@gmail.com', 'LEELA WOMENS HEALTH CARE' ); // Your Gmail email and name
         $mail->addAddress('leelawomenshealthcare@gmail.com', 'LEELA WOMENS HEALTH CARE'); // Recipient's email and name
@@ -40,10 +47,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
    
             <h1>New Appointment</h1>
             <p><strong>Name:</strong> $name</p> 
-            <p><strong>Email:</strong> $email</p>
+            <p><strong>number:</strong> $number</p>
             <p><strong>Address:</strong> $address</p>
              <p><strong>service:</strong> $service</p>
              <p><strong>Date of Appointment:</strong> $date</p>
+             <p><strong>Appointment_Time</strong> $appointment_time</p>
+             
         ";
 
         $mail->send();

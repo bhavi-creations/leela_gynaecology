@@ -104,6 +104,7 @@ include "./includes/header.php";
       <div class="cs_cta_left">
         <div class="cs_cta_thumb wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
           <!-- <img src="assets/img/medam.png" alt=""> -->
+          <img src="assets/img/Untitled design (37)/1.png" alt="">
         </div>
         <div class="cs_cta_info">
           <h2 class="cs_cta_title"> Advanced Care for Women's Health and Well-being </h2>
@@ -129,6 +130,7 @@ include "./includes/header.php";
         <div class="cs_about_thumb">
           <div class="cs_about_thumb_1">
             <!-- <img src="assets/img/Untitled design (1).png" alt=""> -->
+            <img src="assets/img/slides/8.png" alt="About Image">
             <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
               <span class="cs_player_btn cs_center">
                 <span></span>
@@ -137,8 +139,9 @@ include "./includes/header.php";
             </a>
           </div>
           <div class="cs_about_thumb_2">
-            <!-- <img src="assets/img/about_img.png" alt="About Image">
-            <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2"> -->
+          <img src="assets/img/slides/about_img.png" alt="About Image">
+            <!-- <img src="assets/img/about_img.png" alt="About Image"> -->
+            <!-- <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2"> -->
 
           </div>
           <div class="cs_experience_box cs_center">
@@ -349,6 +352,7 @@ include "./includes/header.php";
       </div>
       <div class="col-md-4 col-12">
         <!-- <img src="assets/img/gynaecology/21.png" alt=""> -->
+        <img src="assets/img/gynaecology/25.png" alt="">
       </div>
       <div class="col-md-4 col-12">
         <img src="assets/img/gynaecology/22.png" alt="">
@@ -361,7 +365,9 @@ include "./includes/header.php";
         <img src="assets/img/gynaecology/24.png" alt="">
       </div>
       <div class="col-md-4 col-12">
-        <img src="assets/img/gynaecology/25.png" alt="">
+      <img src="assets/img/Untitled design (37)/7.png" alt="">
+
+       
       </div>
     </div>
   </div>
@@ -384,7 +390,7 @@ include "./includes/header.php";
           <div class="cs_contact_bg_shape">
             <div class="cs_white_bg_shape"></div>
             <div class="cs_iconbox cs_style_4">
-              <div class="cs_iconbox_icon cs_center"><img src="assets/img/health-professional.png" alt="Icon" style="border-radius: 10px;"></div>
+              <div class="cs_iconbox_icon cs_center"><img src="assets/img/health-professional.png" alt="Icon" style="border-radius: 0px;"></div>
               <div class="cs_iconbox_right">
                 <h3 class="cs_iconbox_title">Dr.Priyanka Kosuru MBBS,MS</h3>
                 <p class="cs_iconbox_subtitle mb-0">Obstetrician & Gynecologist</p>
@@ -723,9 +729,14 @@ include "./includes/header.php";
           <div class="col-md-6">
             <input type="text" name="name" class="cs_form_field" placeholder="Name">
           </div>
+
+
           <div class="col-md-6">
-            <input type="email" name="email" class="cs_form_field" placeholder="Email">
+            <input type="number" name="number" class="cs_form_field" placeholder="Number">
           </div>
+          <!-- <div class="col-md-6">
+            <input type="email" name="email" class="cs_form_field" placeholder="Email">
+          </div> -->
           <div class="col-md-12">
             <input type="text" name="address" class="cs_form_field" placeholder="Address">
           </div>
@@ -748,6 +759,31 @@ include "./includes/header.php";
 
             </select>
           </div>
+
+          <div class="col-12">
+            <!-- <label for="appointment_time">Select Appointment Time:</label> -->
+            <select name="appointment_time" id="appointment_time" class="form-control" required>
+              <option value="">-- Select Time --</option>
+
+              <!-- Morning Slots (10 AM - 2 PM) -->
+              <option value="10:00 AM">10:00 AM</option>
+              <option value="10:30 AM">10:30 AM</option>
+              <option value="11:00 AM">11:00 AM</option>
+              <option value="11:30 AM">11:30 AM</option>
+              <option value="12:00 PM">12:00 PM</option>
+              <option value="12:30 PM">12:30 PM</option>
+              <option value="1:00 PM">1:00 PM</option>
+              <option value="1:30 PM">1:30 PM</option>
+
+              <!-- Evening Slots (5 PM - 8 PM) -->
+              <option value="5:00 PM">5:00 PM</option>
+              <option value="5:30 PM">5:30 PM</option>
+              <option value="6:00 PM">6:00 PM</option>
+              <option value="6:30 PM">6:30 PM</option>
+              <option value="7:00 PM">7:00 PM</option>
+              <option value="7:30 PM">7:30 PM</option>
+            </select>
+          </div>
           <div class="col-md-12">
             <input type="date" name="date" class="cs_form_field" placeholder="Appointment date & time">
           </div>
@@ -759,7 +795,7 @@ include "./includes/header.php";
 
       <div class="col-lg-8">
         <div class="cs_solution_thumbnail cs_bg_filed">
-          <img src="assets/img/appointment1.png" alt="" class="img-fluid">
+          <img src="assets/img/slides/10.png" alt="" class="img-fluid">
         </div>
       </div>
 

@@ -14,58 +14,7 @@
     
     </div>
   </section> -->
-<section class="cs_contact">
-  <div class="cs_height_110 cs_height_lg_70"></div>
-  <div class="container">
-    <div class="row cs_gap_y_30">
-      <div class="col-lg-6">
-        <div class="cs_contact_thumbnail cs_pr_40">
-          <!-- <div class="cs_teeth_shape">
-              <img src="assets/img/icons/hero_shape_3.png" alt="Image" class="cs_spinner_img">
-            </div> -->
-          <div class="cs_contact_img">
-            <!-- <img src="assets/img/Untitled design (18).png" alt="Image"> -->
-            <img src="assets/img/medam_img.png" alt="Image" style="border-radius: 6px;">
 
-          </div>
-          <div class="cs_contact_bg_shape">
-            <div class="cs_white_bg_shape"></div>
-            <div class="cs_iconbox cs_style_4">
-              <div class="cs_iconbox_icon cs_center"><img src="assets/img/health-professional.png" alt="Icon"></div>
-              <div class="cs_iconbox_right">
-                <h3 class="cs_iconbox_title">Dr.Priyanka</h3>
-                <p class="cs_iconbox_subtitle mb-0">Gynaecologist</p>
-              </div>
-            </div>
-          </div>
-
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <div class="cs_section_heading cs_style_1">
-          <p class="cs_section_subtitle text">
-            <span class="cs_shape_left"></span>Bio
-          </p>
-          <h2 class="cs_section_title">Meet Our Specialist </h2>
-        </div>
-        <div class="cs_height_25 cs_height_lg_25"></div>
-        <p>
-          Dr.Priyanka Kosuru MBBS,MS <br>
-          <strong> Experience - 15 years </strong> <br>
-          She completed her MBBS from Rangaraya medical college in 2007 and MS from Andhra medical college in 2012.She is trained in ultrasound , infertility and laparoscopy.
-
-        </p>
-        <p>
-          Her areas of expertise include High risk pregnancy care, PCOS management, Infertility treatments and Gynaecological surgeries.
-        </p>
-        <p>
-          She continuously updates her skills and knowledge through participation in medical conferences and workshops ,brining the best of evidenced-based care to her practice.
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="cs_height_120 cs_height_lg_80"></div>
-</section>
 <!-- End Page Heading -->
 <!-- Start About Section -->
 <!-- <section class="cs_about cs_style_1 position-relative">
@@ -153,22 +102,25 @@
       <div class="col-lg-6">
         <div class="cs_about_thumb">
           <div class="cs_about_thumb_1">
-            <img src="assets/img/Untitled design (1).png" alt="">
+            <!-- img  -->
+            <img src="assets/img/about_img_1.png" alt="">
+            <!-- <img src="assets/img/Untitled design (1).png" alt=""> -->
             <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
               <span class="cs_player_btn cs_center">
                 <span></span>
               </span>
-              <span class="cs_about_play_btn_text">How We Work</span>
+              <!-- <span class="cs_about_play_btn_text">How We Work</span> -->
             </a>
           </div>
           <div class="cs_about_thumb_2">
+            <!-- img   -->
             <img src="assets/img/about_img.png" alt="About Image">
             <!-- <img src="assets/img/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2 "> -->
             <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
 
           </div>
           <div class="cs_experience_box cs_center">
-            <p class="cs_experience_box_number">5+</p>
+            <p class="cs_experience_box_number">15+</p>
             <p class="cs_experience_box_title">Experience</p>
           </div>
         </div>

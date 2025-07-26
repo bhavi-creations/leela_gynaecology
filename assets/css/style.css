@@ -9192,8 +9192,12 @@ color: pink;
 
 
 .navebar_content{
-  margin-top: -10px !important;
+  margin-top: -40px !important;
   margin-left: -100px !important;
+}
+
+.subservices{
+  margin-left: -50px !important;
 }
 
 
@@ -9388,3 +9392,25 @@ color: pink;
 
 
 
+.contact-section {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+.contact-section a {
+  color:#ef008f;
+  text-decoration: none;
+}
+.contact-section a:hover {
+  text-decoration: underline;
+}
+
+
+.contact-highlight-box {
+  border-left: 6px solid #ef008f;
+  background: #f8f9fa;
+  transition: all 0.3s ease-in-out;
+}
+.contact-highlight-box:hover {
+  background-color: #e9f1ff;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}

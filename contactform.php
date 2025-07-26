@@ -28,6 +28,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
+    
+        
         // Recipients
         $mail->setFrom('leelawomenshealthcare@gmail.com', 'LEELA WOMENS HEALTH CARE' ); // Your Gmail email and name
         $mail->addAddress('leelawomenshealthcare@gmail.com', 'LEELA WOMENS HEALTH CARE'); // Recipient's email and name
@@ -39,6 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
            
             <h1>Contact Details</h1>
             <p><strong>Name:</strong> $contactname</p>
+            <p><strong>Email:</strong> $contactemail</p>
             
             <p><strong>subject:</strong> $contactsubject</p>
             <p><strong>Phone:</strong> $contactnumber</p>

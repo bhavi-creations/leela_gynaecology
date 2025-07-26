@@ -9,7 +9,8 @@ include "./includes/header.php";
 <div class="container service_section_content">
   <div class="row">
     <div class="col-md-6 mt-5 space">
-      <img src="assets/img/Untitled design (43)/4.png" alt="" class="img-fluid pics">
+      <img src="assets/img/Untitled design (37)/9.png" alt="" class="img-fluid pics">
+      <!-- <img src="assets/img/Untitled design (43)/4.png" alt="" class="img-fluid pics"> -->
     </div>
     <div class="col-md-6 space">
       <h2>Menopausal Clinic</h2>

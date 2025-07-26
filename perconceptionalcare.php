@@ -11,7 +11,8 @@ include "./includes/header.php";
 <div class="container service_section_content">
     <div class="row">
         <div class="col-md-6 mt-5 space">
-            <img src="assets/img/Untitled design (43)/3.png" alt="" class="img-fluid pics">
+            <!-- <img src="assets/img/Untitled design (37)/preconceptional_image.png" alt="" class="img-fluid pics"> -->
+            <img src="./assets/img/Untitled design (37)/8.png" alt="" class="img-fluid pics">
         </div>
         <div class="col-md-6 space">
             <h2>Preconceptional Care</h2>
