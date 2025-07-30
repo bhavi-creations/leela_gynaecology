@@ -102,8 +102,9 @@
       <div class="col-lg-6">
         <div class="cs_about_thumb">
           <div class="cs_about_thumb_1">
+            <!-- img  -->
+            <img src="assets/img/about_img_1.png" alt="">
             <!-- <img src="assets/img/Untitled design (1).png" alt=""> -->
-            <img src="assets/img/slides/8.png" alt="About Image">
             <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_about_player_btn cs_video_open">
               <span class="cs_player_btn cs_center">
                 <span></span>
@@ -112,9 +113,10 @@
             </a>
           </div>
           <div class="cs_about_thumb_2">
-          <img src="assets/img/slides/about_img.png" alt="About Image">
-            <!-- <img src="assets/img/about_img.png" alt="About Image"> -->
-            <!-- <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2"> -->
+            <!-- img   -->
+            <img src="assets/img/Untitled design (37)/12.png" alt="About Image">
+            <!-- <img src="assets/img/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2 "> -->
+            <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
 
           </div>
           <div class="cs_experience_box cs_center">
@@ -130,23 +132,51 @@
               <span class="cs_shape_left  "></span>
               ABOUT US
             </p>
+            <!-- <h2 class="cs_section_title">More Than 26+ Years About Provide Medical.</h2> -->
           </div>
           <p class="cs_about_text">Welcome to LEELA WOMEN’S HEALTH CARE…</p>
           <p class="cs_about_text">Founded by Dr.Priyanka Kosuru , a highly experienced and compassionate OB-GYN specialist with over 15 years of experience , Leela women’s health care is committed to delivering comprehensive obstetric and gynaecological care to women of all ages</p>
           <p class="cs_about_text">Located in the heart of Kakinada,our hospital is thoughtfully designed with modern interiors that offer comfort, privacy and calmness.We are equipped with the latest medical technology to ensure accurate diagnosis and advanced treatment for every patient.</p>
-
+          <!-- <div class="row cs_gap_y_30">
+              <div class="col-sm-6">
+                <div class="cs_iconbox cs_style_1">
+                  <div class="cs_iconbox_head">
+                    <div class="cs_iconbox_icon cs_center text">
+                      <img src="assets/img/icons/about_icon_1.png" alt="" class="text">
+                    </div>
+                    <h3 class="cs_iconbox_title m-0">Client Support</h3>
+                  </div>
+                  <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="cs_iconbox cs_style_1">
+                  <div class="cs_iconbox_head">
+                    <div class="cs_iconbox_icon cs_center">
+                      <img src="assets/img/icons/about_icon_2.png" alt="">
+                    </div>
+                    <h3 class="cs_iconbox_title m-0">Doctor Support</h3>
+                  </div>
+                  <p class="cs_iconbox_subtitle mb-0">But must explain to you medical of and pain was.</p>
+                </div>
+              </div>
+            </div> -->
           <div class="cs_about_iconbox">
+            <!-- <div class="cs_about_iconbox_icon cs_center">
+                <i class="fa-regular fa-circle-check"></i>
+              </div>
+              <p class="cs_about_iconbox_subtitle">There are many variations of pass available this medical service the team  <a href="#">READ MORE +</a></p>
+            </div> -->
+            <!-- <a href="about..php" class="cs_btn cs_style_1 cs_color_1">
+              <span>About More </span>
+              <i class="fa-solid fa-angles-right"></i>
+            </a> -->
           </div>
-          <a href="about.php" class=" ">
-            <button class="contact_bg text-white">About More</button>
-
-          </a>
         </div>
       </div>
     </div>
-  </div>
-  <div class="cs_section_img"><img src="assets/img/about_section_img_1.png" alt=""></div>
-  <div class="cs_height_120 cs_height_lg_80"></div>
+    <div class="cs_section_img"><img src="assets/img/about_section_img_1.png" alt=""></div>
+    <div class="cs_height_120 cs_height_lg_80"></div>
 </section>
 
 
