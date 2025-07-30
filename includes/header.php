@@ -179,23 +179,18 @@ Women's wellness clinic Kakinada">
                   <ul class="dropdown-menu navebar_content services_drop_menu mt-1 p-3" aria-labelledby="servicesDropdown" style="width:550px;">
                     <div class="row mobile_navbar">
                       <div class="col-md-6">
-                        <!-- <li class="dropdown-submenu">
-                          <a class="dropdown-item dropdown-toggle" href="comprehensive.php" id="comprehensiveDropdown" role="button">
-                            Comprehensive Antenatal <br> & Post natal Care
-                          </a>
-                          <ul class="dropdown-menu mt-1 p-2 subservices" aria-labelledby="comprehensiveDropdown">
-                            <li><a class="dropdown-item services_drop active_service" href="highriskpregnancy.php">High Risk Pregnancy</a></li>
-                            <li><a class="dropdown-item services_drop" href="ultrasoundscanning.php">Ultrasound Scanning</a></li>
-                            <li><a class="dropdown-item services_drop" href="electronicfetalmonitoring.php">Electronic Fetal Monitoring</a></li>
-                            <li><a class="dropdown-item services_drop" href="lactationalconsultation.php">Lactational Consultation</a></li>
-                            <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
-                          </ul>
-                        </li> -->
 
+                     
 
+                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
+                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
+                        <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
+                        <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
+                        <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
 
-
-                        <li class="dropdown-submenu">
+                      </div>
+                      <div class="col-md-6">
+                      <li class="dropdown-submenu">
                           <a class="dropdown-item dropdown-toggle" href="javascript:void(0);" id="comprehensiveDropdown" role="button" onclick="toggleSubservices()">
                             Comprehensive Antenatal <br> & Post natal Care
                           </a>
@@ -207,18 +202,7 @@ Women's wellness clinic Kakinada">
                             <li><a class="dropdown-item" href="painlessdelivery.php">Pain Less Delivery</a></li>
                           </ul>
                         </li>
-
-
-
-
-                        <li><a class="dropdown-item services_drop active_service" href="pcodandadolscent.php">PCOD and Adolscent Clinics</a></li>
-                        <li><a class="dropdown-item services_drop" href="menstrualproblems.php">Menstrual Problems</a></li>
-                        <li><a class="dropdown-item services_drop" href="infertility.php">Infertility</a></li>
-
-                      </div>
-                      <div class="col-md-6">
-                        <li><a class="dropdown-item services_drop" href="perconceptionalcare.php">Preconceptional Care</a></li>
-                        <li><a class="dropdown-item services_drop" href="menopausalclinic.php">Menopausal Clinic</a></li>
+                        
                         <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
                         <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
                         <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
@@ -247,7 +231,7 @@ Women's wellness clinic Kakinada">
 
 
 
-
+<!-- 
   <script>
     function toggleSubservices() {
       const dropdown = document.getElementById("subservicesDropdown");
@@ -257,7 +241,7 @@ Women's wellness clinic Kakinada">
         dropdown.style.display = "none";
       }
     }
-  </script>
+  </script> -->
 
 
 
