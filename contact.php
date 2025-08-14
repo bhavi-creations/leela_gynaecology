@@ -26,10 +26,13 @@ include "./includes/header.php";
 
             <div class="mb-4">
               <h5 class="text-dark fw-semibold " style="color: #4a498c;">📍 Address</h5>
-              <p class="text-muted mb-0"> 2-18-9/1, Opposite to</p>
-              <p class="text-muted mb-0">SP Office Road Near RMC Ground</p>
-              <p class="text-muted">,Madhav Nagar,Kakinada 533003</p>
+              <p class="text-muted mb-0">  2-18-9/1,  Old SP Office Opposite</p>
+              <p class="text-muted mb-0">Road, Near RMC Ground Road</p>
+              <p class="text-muted">, Madhav Nagar,Kakinada 533003</p>
             </div>
+
+                             
+
 
             <div class="mb-4">
               <h5 class=" fw-semibold" >📱 Phone</h5>

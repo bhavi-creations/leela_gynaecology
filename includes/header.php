@@ -212,7 +212,7 @@ Women's wellness clinic Kakinada">
                     </div>
                   </ul>
                 </li>
-                <li><a href="facility.php">Facilities </a></li>
+                <!-- <li><a href="facility.php">Facilities </a></li> -->
                 <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact.php">Contact</a></li>
               </ul>

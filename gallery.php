@@ -9,13 +9,12 @@
 <section class="gallery_section">
   <div class="container">
     <h1 class="text-center my-5">Gallery</h1>
-    <div class="row g-5">
+    <!-- <div class="row g-5">
       <div class="col-md-4 col-12 ">
         <img src="assets/img/gynaecology/20.png" alt="">
       </div>
       <div class="col-md-4 col-12">
-        <!-- <img src="assets/img/gynaecology/21.png" alt=""> -->
-        <!-- <img src="assets/img/gynaecology/25.png" alt=""> -->
+     
         <img src="assets/img/Untitled design (37)/7.png" alt="">
       </div>
       <div class="col-md-4 col-12">
@@ -32,7 +31,34 @@
       <img src="assets/img/Untitled design (37)/6.png" alt="">
        
       </div>
+    </div> -->
+    <div class="row g-5">
+    <div class="col-md-4 col-12">
+        <img src="assets/img/slides/equipment4.png" alt="">
+      </div>
+
+
+    <div class="col-md-4 col-12">
+        <img src="assets/img/slides/equipment3.png" alt="">
+      </div>
+    
+      <div class="col-md-4 col-12 ">
+        <img src="assets/img/slides/equipment.png" alt="">
+      </div>
+      <div class="col-md-4 col-12">
+        <!-- <img src="assets/img/gynaecology/21.png" alt=""> -->
+        <img src="assets/img/slides/equipment1.png" alt="">
+      </div>
+      <div class="col-md-4 col-12">
+        <img src="assets/img/slides/equipment2.png" alt="">
+      </div>
+
+    
+      <div class="col-md-4 col-12">
+      <img src="assets/img/gynaecology/24.png" alt="">  
+      </div>
     </div>
+  
   </div>
 </section>
 

@@ -23,14 +23,14 @@ include "./includes/header.php";
       <div class="cs_section_heading_left">
         <p class="cs_section_subtitle text wow fadeInLeft" data-wow-duration="0.9s" data-wow-delay="0.25s">
           <span class="cs_shape_left"></span>
-          OUR BEST SERVICE
+          OUR  SERVICES
         </p>
-        <h2 class="cs_section_title">Leela Gynecology offers high-quality services
+        <h2 class="cs_section_title"> At Leela  we offer high-quality services
 
 
         </h2>
       </div>
-      <div class="cs_section_heading_right">Gynecology specializes in the female reproductive system, treating conditions like menstrual issues, menopause, and offering services like family planning and cancer screenings.</div>
+      <!-- <div class="cs_section_heading_right">Gynecology specializes in the female reproductive system, treating conditions like menstrual issues, menopause, and offering services like family planning and cancer screenings.</div> -->
     </div>
     <div class="cs_height_50 cs_height_lg_50"></div>
     <div class="row cs_row_gap_30 cs_gap_y_30">

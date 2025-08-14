@@ -15,7 +15,7 @@
             <li>
               <i class="fa-solid fa-location-dot  text-dark"></i>
               <p class="text-dark">
-                2-18-9/1, Opposite to Old SP Office Road.Near RMC Ground,Madhav Nagar,Kakinada 533003
+                2-18-9/1,  Old SP Office Opposite  Road,Near RMC Ground,Madhav Nagar,Kakinada 533003
               </p>
             </li>
             <li>
