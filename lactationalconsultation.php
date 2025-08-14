@@ -9,7 +9,7 @@ include "./includes/header.php";
 <div class="container service_section_content">
   <div class="row">
     <div class="col-md-6 mt-5 space">
-      <img src="assets/img/Untitled design (45)/4.png" alt="" class="img-fluid pics">
+      <img src="assets/img/Untitled design (40)/Lactation.png" alt="" class="img-fluid pics">
     </div>
     <div class="col-md-6 space">
       <h2>Lactational Consultation</h2>

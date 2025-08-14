@@ -114,7 +114,7 @@
           </div>
           <div class="cs_about_thumb_2">
             <!-- img   -->
-            <img src="assets/img/Untitled design (37)/12.png" alt="About Image">
+            <img src="assets/img/slides/about_img.png" alt="About Image">
             <!-- <img src="assets/img/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2 "> -->
             <img src="assets/img/icons/about_shape_1.png" alt="Shape Image" class="cs_about_thumb_shape_2">
 

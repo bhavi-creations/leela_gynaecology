@@ -205,6 +205,7 @@ Women's wellness clinic Kakinada">
                         
                         <li><a class="dropdown-item services_drop" href="wellwomencheckup.php">Well Woman Check up</a></li>
                         <li><a class="dropdown-item services_drop" href="cancerscreening.php">Cancer Screening</a></li>
+                        <li><a class="dropdown-item services_drop" href="vaccination.php">Vaccination</a></li>
                         <li><a class="dropdown-item services_drop" href="allgynaecological.php">All Gynaecological Problems</a></li>
 
 
@@ -345,6 +346,7 @@ Women's wellness clinic Kakinada">
                 <li><a class="dropdown-item" href="menopausalclinic.php">Menopausal Clinic</a></li>
                 <li><a class="dropdown-item" href="wellwomencheckup.php">Well Woman Check up</a></li>
                 <li><a class="dropdown-item" href="cancerscreening.php">Cancer Screening</a></li>
+                <li><a class="dropdown-item " href="vaccination.php">Vaccination</a></li>
                 <li><a class="dropdown-item" href="allgynaecological.php">All Gynaecological Problems</a></li>
 
 
