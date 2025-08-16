@@ -3816,7 +3816,7 @@ label {
       -ms-flex-align: center;
           align-items: center;
   height: 100%;
-  gap: 5px 40px;
+  gap: 5px 30px;
 }
 @media (max-width: 1199px) {
   .cs_site_header.cs_style_1 .cs_main_header_right {
@@ -8637,7 +8637,7 @@ label {
   background: #ef008f;
   border: none;
   height: 35px;
-  width: 230px;
+  width: 180px;
   border-radius: 8px;
 }
 .contact_bg{
@@ -9414,3 +9414,11 @@ color: pink;
   background-color: #e9f1ff;
   box-shadow: 0 0 15px rgba(0,0,0,0.1);
 }
+
+
+
+
+
+
+
+
